@@ -1,5 +1,12 @@
 {
   "names": {
     "_": "83d999a148625c3d2bb819af3064c0f6a12d7da88f68b2c69221f3a746171d19"
+  },
+  "relays": {
+    "83d999a148625c3d2bb819af3064c0f6a12d7da88f68b2c69221f3a746171d19": [
+      "wss://nos.lol",
+      "wss://relay.current.fyi",
+      "wss://relay.damus.io"
+    ]
   }
 }
