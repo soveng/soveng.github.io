@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Madeira
-image: assets/images/pic01.jpg
+image: assets/images/madeira.png
 nav-menu: true
 order: A
 ---
