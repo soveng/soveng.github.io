@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nostr
-description: Lorem ipsum dolor est
+description: Un-silo the Web
 image: assets/images/pic11.jpg
 nav-menu: true
 order: B

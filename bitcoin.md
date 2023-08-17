@@ -1,7 +1,7 @@
 ---
-title: Bitcoin
+title: Bitcoin & Lightning
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: Un-fuck the money. (Super)charge sats.
 image: assets/images/pic07.jpg
 nav-menu: true
 order: C
