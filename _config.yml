@@ -3,7 +3,7 @@ title: SEC-01
 subtitle: by Sovereign Engineering
 email: info@sovereignengineering.io
 description: "SEC-01: Sovereign Engineering Cohort 1"
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
