@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Elements
+title: Madeira
 image: assets/images/pic01.jpg
 nav-menu: true
+order: A
 ---
 
 <!-- Main -->
@@ -12,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Engineering</h1>
 		</header>
 
 <!-- Content -->
