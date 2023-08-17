@@ -13,7 +13,7 @@ order: A
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Engineering</h1>
+			<h1>Madeira</h1>
 		</header>
 
 <!-- Content -->
