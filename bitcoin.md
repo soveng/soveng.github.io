@@ -2,7 +2,7 @@
 title: Bitcoin & Lightning
 layout: landing
 description: Un-fuck the money. (Super)charge sats.
-image: assets/images/pic07.jpg
+image: assets/images/lightning.png
 nav-menu: true
 order: C
 ---
