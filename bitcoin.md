@@ -1,5 +1,5 @@
 ---
-title: Bitcoin & Lightning
+title: Lightning
 layout: landing
 description: Un-fuck the money. (Super)charge sats.
 image: assets/images/lightning.png
@@ -14,7 +14,7 @@ order: C
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Madeira</h1>
+			<h1>TBD</h1>
 		</header>
 
 <!-- Content -->
