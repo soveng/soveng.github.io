@@ -14,7 +14,7 @@ order: C
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>TBD</h1>
+			<h1>Dummy Page for Reference, Please Ignore</h1>
 		</header>
 
 <!-- Content -->
