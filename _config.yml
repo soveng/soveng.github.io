@@ -6,13 +6,14 @@ description: "SEC-01: Sovereign Engineering Cohort 1"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
+street_address: "Rua das Mercês 41"
+city: Funchal
+state: Funchal
+zip_code: 9000-224
+country: "Madeira, Portugal"
 nostr: npub1s0vengfhwke9nc7h93nqt4sak25ypwujc7jtugwnvxjt22yaaefszeer6s
 nostr_short: npub1s0veng...fszeer6s
+typeform: https://admin.typeform.com/form/zle0hcap/create?block=f7c661d4f2d8785b
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
