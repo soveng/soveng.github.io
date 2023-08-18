@@ -2,7 +2,7 @@
 title: Lightning
 layout: landing
 description: Un-fuck the money. (Super)charge sats.
-image: assets/images/lightning.png
+image: assets/images/lightning.jpg
 nav-menu: true
 order: C
 ---
