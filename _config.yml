@@ -24,15 +24,14 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/soveng
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  Google-Plus:
+  Instagram: https://slidestr.net/p/npub1s0vengfhwke9nc7h93nqt4sak25ypwujc7jtugwnvxjt22yaaefszeer6s
+  LinkedIn: http://smithhousedesign.com/wp-content/uploads/2015/04/Screen-Shot-2015-04-15-at-11.09.14-AM.png
+  Twitter: https://nostr.com/npub1s0vengfhwke9nc7h93nqt4sak25ypwujc7jtugwnvxjt22yaaefszeer6s
   Facebook:
   Slack:
-  Nostr: https://nostr.com/npub1s0vengfhwke9nc7h93nqt4sak25ypwujc7jtugwnvxjt22yaaefszeer6s
 
 # build settings
 markdown: kramdown
