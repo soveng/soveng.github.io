@@ -1,6 +1,6 @@
 ---
 layout: home
-title: SEC-01
+title: "Sovereign Engineering Cohort #01 - Madeira"
 landing-title: 'Build the tools. Ship the future.'
 description: What is the Sovereign Engineering Cohort?
 image: null
