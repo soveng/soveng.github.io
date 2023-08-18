@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Consequat
-description: Ipsum dolor sit amet
-image: assets/images/pic05.jpg
+title: "Announcing the First Sovereign Engineering Cohort"
+description: "@pablof7z and @dergigi invite orange and purple builders from all corners of the world to come to Madeira"
+image: assets/images/pic01.jpg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
