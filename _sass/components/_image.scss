@@ -50,6 +50,10 @@ img {
 			}
 		}
 
+		&.circle {
+			clip-path: circle();
+		}
+
 		&.main {
 			display: block;
 			margin: (_size(element-margin) * 1.25) 0;
