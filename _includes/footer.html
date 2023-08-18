@@ -5,15 +5,15 @@
 			<form action="https://formspree.io/{{ site.email }}" method="POST">
 				<div class="field half first">
 					<label for="name">Name</label>
-					<input type="text" name="name" id="name" />
+					<input type="text" name="name" id="name" placeholder="Satoshi Nakamoto" />
 				</div>
 				<div class="field half">
 					<label for="email">Email</label>
-					<input type="text" name="_replyto" id="email" />
+					<input type="text" name="_replyto" id="email" placeholder="satoshin@gmx.net" />
 				</div>
 				<div class="field">
-					<label for="message">Message</label>
-					<textarea name="message" id="message" rows="6"></textarea>
+					<label for="message">Questions?</label>
+					<textarea name="message" id="message" placeholder="What's in an npub?" rows="6"></textarea>
 				</div>
 				<ul class="actions">
 					<li><input type="submit" value="Send Message" class="special" /></li>
