@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Madeira
+description: Jan 8 - Mar 1
 image: assets/images/madeira.png
 nav-menu: true
 order: A
