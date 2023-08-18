@@ -2,7 +2,7 @@
 layout: post
 title: Nostr
 description: Un-silo the Web
-image: assets/images/nostr.png
+image: assets/images/nostr.jpg
 nav-menu: true
 order: B
 ---
