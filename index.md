@@ -1,11 +1,26 @@
 ---
 layout: home
-title: Home
+title: SEC-01
 landing-title: 'Build the tools. Ship the future.'
-description: null
+description: What is the Sovereign Engineering Cohort?
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+This is not a conference. This is not a hackathon. Neither is this a school, or
+an academy, or a workshop. This is something else. Something new, something more
+dynamic. The goal of the **Sovereign Engineering Cohort** is to bring the best
+and brightest---the one's with the brightest fire burning inside, those who have
+not given up on the Web or the world---together in a beautiful place for a
+prolonged period of time.
+
+Explore the unknown. Re-think how we do things online. Ship things that last.
+
+> “If you want to build a ship, don’t drum up the men to gather wood, divide the
+work, and give orders. Instead, teach them to yearn for the vast and endless
+sea.” ---Antoine de Saint-Exupéry
+
+The vast and endless sea is the ocean of possibilites that bitcoin & nostr open
+up. The ships are the tools we're going to build, the wood the software we're
+going to write.
