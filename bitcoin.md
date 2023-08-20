@@ -1,5 +1,5 @@
 ---
-title: Lightning
+title: Bitcoin & Lightning
 layout: landing
 description: Un-fuck the money. (Super)charge sats.
 image: assets/images/lightning.jpg
@@ -25,8 +25,19 @@ Here's the thing about Bitcoin: it forces you to think about things differently.
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>Self-Sovereign by Default</h3>
+		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim
+		aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan
+		erat tempus amet porttitor. Ante commodo blandit adipiscing integer
+		semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan
+		morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi
+		accumsan vis mi accumsan ac praesent.
+			<blockquote>
+				"Bitcoin companies don't want your bitcoin. They want you to
+				hold your own bitcoin. The whole point of bitcoin is to avoid
+				counterparty risk." &#8212;Lyn Alden
+			</blockquote>
+		</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
