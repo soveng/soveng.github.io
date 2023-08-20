@@ -25,49 +25,66 @@ order: A
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
-		</a>
+		<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Beautiful Landscape</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>
+				Madeira is known for its beautiful landscapes, its rich lore, as
+				well as its great food (and legendary wine). We want to explore
+				possiblities, dream, build, and get inspired. Gorgeous
+				coastlines and serene levadas are not strictly necessary for all
+				that, but they won't hurt either. Maybe we'll even go on a 
+				<a href="https://plebwalks.com/" target="_blank">#plebwalk</a>
+				or two.
+				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="#cowork" class="button scrolly">Tell me more!</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
-		</a>
+		<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Collaborative Workspace Environment</h3>
+					<h3 id="cowork">Collaborative Workspace Environment</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>
+				Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
+				magna sed nunc rhoncus condimentum sem. In efficitur ligula tate
+				urna. Maecenas massa sed magna lacinia magna pellentesque lorem
+				ipsum dolor. Nullam et orci eu lorem consequat tincidunt.
+				Vivamus et sagittis tempus.
+				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="#family" class="button scrolly">What's the catch?</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
-		</a>
+		<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Family-Friendly</h3>
+					<h3 id="family">Family-Friendly</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>
+				You might be a 19 year-old hacker straight out of college, but
+				we are not. We have kids, we have family, and we do the things
+				we do and build the things we build for them, not us. At least
+				not exclusively. Our kids will inherit the world that we
+				envision and build for them, so this is not going to be
+				something where we lock ourselves into a dark room with dozens
+				of cans of Red Bull until we collapse onto our keyboards, but a
+				family affair. If you have kids, bring them.
+				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="#apply" class="button scrolly">Sign me up!</a></li>
 				</ul>
 			</div>
 		</div>
@@ -78,9 +95,15 @@ order: A
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>What Are You Waiting For?</h2>
+			<h2 id="apply">What Are You Waiting For?</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>
+		Do you love Bitcoin, and what it represents? Do you enjoy the crazyness
+		of nostr? Do you need an excuse to get away for two months, hiding out
+		on a remote island with some <s>crazy people</s> technically versed
+		optimists that want to fix the money, and fix the web? Well... what are
+		you waiting for?
+		</p>
 		<ul class="actions">
 			<li><a href="{{ site.typeform }}" target="_blank" class="button next">Apply Now</a></li>
 		</ul>
