@@ -54,11 +54,10 @@ order: A
 					<h3 id="cowork">Collaborative Workspace Environment</h3>
 				</header>
 				<p>
-				Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
-				magna sed nunc rhoncus condimentum sem. In efficitur ligula tate
-				urna. Maecenas massa sed magna lacinia magna pellentesque lorem
-				ipsum dolor. Nullam et orci eu lorem consequat tincidunt.
-				Vivamus et sagittis tempus.
+				The first cohort will take place in the
+				<a href="https://www.openstreetmap.org/node/3947240594#map=19/32.65134/-16.91158" target="_blank">
+				Sovereign Engineering Shipyard</a>
+				in Funchal, in the heart of Madeira. We will meet to discuss, ideate, and build. You can work solo or in teams. The goal is to build something sensible, something new, something that lasts. Explore ideas. Explore business models. Explore possibilities.
 				</p>
 				<ul class="actions">
 					<li><a href="#family" class="button scrolly">What's the catch?</a></li>
