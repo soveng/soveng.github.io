@@ -20,3 +20,8 @@ It is this paradigm that makes sovereign engineering a necessity. Lyn Alden said
 Freedom requires responsibility, and we see it as our responsibility to help build tools and companies right, with freedom and self-sovereignty at the core.
 
 We must think about things differently. We must not repeat the mistakes of the past. 
+
+
+<ul class="actions">
+    <li><a href="{{ site.typeform }}" target="_blank" class="button next">Apply Now</a></li>
+</ul>
