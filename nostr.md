@@ -7,11 +7,19 @@ nav-menu: true
 order: B
 ---
 
-Here we should talk a bit about how nostr, why nostr, what to build on nostr, and so on... Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+At the beginning there was chaos. And it was good.
+But then men created Geocities. And Boostrap. And Twitter. And, oh lord, even Facebook. And Google.
+As time went by, we blindly walked into an homogeneous web, and, as such, we coloured the world in a pale, safe, boring shade of grey.
+We are here to change that.
+We are here to un-silo the web.
+To bring back the chaos.
+Nostr is that chaos. And you, and us, are the builders bringing back a rainbow of colours and experiences to the web.
+Why, how and what is Nostr?
+Nostr is a decentralized protocol for exchanging information. One of it's main attributes is that it does not attempt to lie, or patronize you and its users. It's far from perfect, because such is life, such is reality.
+But is the one incredibly likely shot we have at fixing the mistakes of the past that has lead to the current state of the world,
+where a few individuals can deem you and your dirty views unacceptable. Where the content and the form-factor must be globally palatable, and where the only game that counts is the game of counting followers.
+In nostr we don't count followers, not simply because we can't, but because that's not a true measure of your impact nor your reach.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
 
 <ul class="actions">
     <li><a href="{{ site.typeform }}" target="_blank" class="button next">Apply Now</a></li>
