@@ -1,5 +1,5 @@
 ---
-title: Bitcoin & Lightning
+title: Lightning
 layout: post
 description: Un-fuck the money. (Super)charge sats.
 image: assets/images/lightning.jpg
