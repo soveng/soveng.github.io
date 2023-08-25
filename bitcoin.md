@@ -27,7 +27,7 @@ order: C
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		<img src="{% link assets/images/ldk.jpg %}" alt="" data-position="center center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -51,7 +51,7 @@ order: C
 		</div>
 	</section>
 	<section>
-		<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		<img src="{% link assets/images/satoshi.jpg %}" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -71,13 +71,13 @@ order: C
 				right seriously. 
 				</p>
 				<ul class="actions">
-					<li><a href="#family" class="button scrolly">Let's Fucking Go!</a></li>
+					<li><a href="#exploration" class="button scrolly">Let's Fucking Go!</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		<img src="{% link assets/images/402.jpg %}" alt="" data-position="25% 25%" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
