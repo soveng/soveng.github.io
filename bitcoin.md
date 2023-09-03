@@ -62,15 +62,13 @@ order: C
 				<p>
 				Freedom requires responsibility, and we see it as our
 				responsibility to help build tools and companies right, with
-				freedom and self-sovereignty at the core.
-				We want to build powerful tools and services, and we want to
-				build them right.
+				freedom and self-sovereignty at the core. We want to build
+				powerful tools and services, and we want to build them right.
 				</p>
 				<p>
-				We believe that we are at a pivotal point in
-				history. What we build now will echo in eternity, to paraphrase
-				a great emperor. And we take the responsibility of getting it
-				right seriously. 
+				We believe that we are at a pivotal point in history. What we
+				build now will echo in eternity, to paraphrase a great emperor.
+				And we take the responsibility of getting it right seriously.
 				</p>
 				<ul class="actions">
 					<li><a href="#exploration" class="button scrolly">Let's Fucking Go!</a></li>
@@ -86,17 +84,17 @@ order: C
 					<h3 id="exploration">Exploration</h3>
 				</header>
 				<p>
-				In this bright future, we must not forget the past. Why did
-				the web evolve the way it evolved? What got captured, what
-				didn't? And why? How could it have evolved differently, if
-				Bitcoin & Lightning existed 30 years ago? How can we think about
-				things differently, now that they do exist?
+				In this bright future, we must not forget the past. Why did the
+				web evolve the way it evolved? What got captured, what didn't?
+				And why? How could it have evolved differently if Bitcoin &
+				Lightning existed 30 years ago? How can we think about things
+				differently now that they do exist?
 				</p>
 				<p>
-				We believe that Bitcoin & Lightning allows us to re-think
-				how we build things, how we monetize things, and how we do and
-				coordinate things. <a href="/nostr">Nostr</a> is one example. We're sure there are
-				many more. Let's explore them together.
+				We believe that Bitcoin & Lightning allows us to re-think how we
+				build things, how we monetize things, and how we do and
+				coordinate things. <a href="/nostr">Nostr</a> is one example.
+				We're sure there are many more. Let's explore them together.
 				</p>
 				<ul class="actions">
 					<li><a href="#apply" class="button scrolly">Sign me up!</a></li>
