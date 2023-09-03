@@ -29,7 +29,7 @@ order: A
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		<img src="{% link assets/images/ontop.jpg %}" alt="" data-position="center center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -70,7 +70,7 @@ order: A
 		</div>
 	</section>
 	<section>
-		<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+		<img src="{% link assets/images/family.jpg %}" alt="" data-position="25% 25%" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
