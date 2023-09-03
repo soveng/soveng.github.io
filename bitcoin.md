@@ -17,9 +17,9 @@ order: C
 			<h2>Fix the Money, Fix the Web</h2>
 		</header>
 		<p>
-		Here’s the thing about Bitcoin: it forces you to think about things
-		differently.  We believe that Bitcoin is the most important thing that’s
-		happening in the world, and that fixing the money is a moral imperative.
+		Here's the thing about Bitcoin: it forces you to think about things
+		differently. We believe that Bitcoin is the most important thing that's
+		happening in the world and that fixing the money is a moral imperative.
 		</p>
 	</div>
 </section>
@@ -33,17 +33,19 @@ order: C
 				<header class="major">
 					<h3>A New Paradigm</h3>
 				</header>
-				<p> Bitcoin represents a new paradigm, the paradigm of
-				self-sovereignty and extreme ownership.  It is this paradigm
-				that makes sovereign engineering a necessity. Lyn Alden said it
-				best:
-				<blockquote>"Bitcoin companies don’t want your bitcoin.
-				They want you to hold your bitcoin. The whole point of Bitcoin
-				is to avoid counterparty risk."
+				<p>
+				Bitcoin represents a new paradigm, the paradigm of
+				self-sovereignty and extreme ownership. It is this paradigm that
+				makes sovereign engineering a necessity. Lyn Alden said it best:
+				<blockquote>
+				"Bitcoin companies don't want your bitcoin. They want you to
+				hold your bitcoin. The whole point of Bitcoin is to avoid
+				counterparty risk."
 				</blockquote>
 				The whole point is to put the individual in charge, to put the
 				user in control again. With control comes freedom, and with
-				freedom comes responsibility.</p>
+				freedom comes responsibility.
+				</p>
 				<ul class="actions">
 					<li><a href="#responsibility" class="button scrolly">I love freedom!</a></li>
 				</ul>
