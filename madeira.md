@@ -49,7 +49,7 @@ order: A
 		</div>
 	</section>
 	<section>
-		<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		<img src="{% link assets/images/cowork.jpg %}" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -59,9 +59,9 @@ order: A
 				The first cohort will take place in the <a
 				href="https://www.openstreetmap.org/node/3947240594#map=19/32.65134/-16.91158"
 				target="_blank"> Sovereign Engineering Shipyard </a> in Funchal, in the heart of
-				Madeira. We will meet to discuss, ideate, and build.  You can work solo or in
+				Madeira. We will meet to discuss, ideate, and build. You can work solo or in
 				teams. The goal is to build something sensible, something new, something that
-				lasts. Explore ideas. Explore business models.  Explore possibilities.
+				lasts. Explore ideas. Explore business models. Explore possibilities.
 				</p>
 				<ul class="actions">
 					<li><a href="#family" class="button scrolly">What's the catch?</a></li>
