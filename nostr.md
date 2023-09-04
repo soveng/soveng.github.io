@@ -13,11 +13,22 @@ order: B
 <!-- One -->
 <section id="one">
 	<div class="inner">
-        <p>
-		In the beginning, there was chaos. And it was good. But then men created
-		Geocities. And Bootstrap. And Twitter. And, oh Lord, even Facebook. And
-		Google.
+		<header class="major">
+			<h2>Notes and Other Stuff Transmitted by Relays</h2>
+		</header>
+		<p>
+		Nostr is new, and confusing, and weird. But also really cool. In the
+		words of its creator: "It doesn’t rely on any trusted central server,
+		hence it is resilient. It is based on cryptographic keys and signatures,
+		so it is tamperproof. It does not rely on P2P techniques, therefore it
+		works."
 		</p>
+        <p>
+        We believe that
+        <a href="https://nostr-resources.com" target="_blank">Nostr</a>
+        has massive potential and a crucial role to play
+        when it comes to re-architecting the web.
+        </p>
 	</div>
 </section>
 
@@ -28,7 +39,7 @@ order: B
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>In the Beginning...</h3>
+					<h3>In the Beginning</h3>
 				</header>
 				<p>
 				In the beginning, there was chaos, and potential. And it was
@@ -63,12 +74,12 @@ order: B
 				<p>
 				But Nostr is neither nostalgia nor utopia. It is imperfect, and
 				messy, and half-baked, and probably can't even survive on its
-				own yet. But that's how things are right after birth. But it's
+				own yet. But that's how things are right after birth. Yet it's
 				also growing, and beautiful, and full of potential. And it's
 				working.
 				</p>
 				<ul class="actions">
-					<li><a href="#nostr" class="button scrolly">Beautiful!</a></li>
+					<li><a href="#nostr" class="button scrolly">Fantastic!</a></li>
 				</ul>
 			</div>
 		</div>
@@ -81,13 +92,17 @@ order: B
 					<h3 id="nostr">Why? How? What?</h3>
 				</header>
 				<p>
-				Nostr is a decentralized protocol for exchanging information.
-				One of its main attributes is that it does not attempt to lie or
-				patronize you and its users.
-                What Nostr is exactly is hard to tell at this point in time, but
-                we think it is one incredibly likely shot we have at fixing many
-                mistakes of the past that have led to the current state of the
-                web.
+				Nostr is an open protocol for exchanging information. It is the
+				simplest protocol that is able to create a censorship-resistant
+				global natively social network once and for all.  One of its
+				main attributes is that it does not attempt to lie or patronize
+				you and its users.
+				</p>
+				<p>
+                What Nostr is exactly and where it might go is hard to tell at
+                this point in time, but we think it is one incredibly likely
+                shot we have at fixing many mistakes of the past that have led
+                to the current state of the web.
 				</p>
 				<ul class="actions">
 					<li><a href="#state" class="button scrolly">We can do better!</a></li>
@@ -106,7 +121,7 @@ order: B
                 The current state is one where the main goal seems to be to
                 convince you to buy a certain thing, think a certain thing, or
                 get outraged about a certain thing. With, of course, a few
-                select individuals sitting at the top and pulling the strings.
+                select individuals sitting at the top pulling the strings.
                 </p>
                 <p>
                 A state where you and your views can be deemed unacceptable at
