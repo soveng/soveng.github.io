@@ -126,7 +126,7 @@ order: B
                 <p>
                 A state where you and your views can be deemed unacceptable at
                 the push of a button, instantly transforming you from a regular
-                person enjoying social media to an un-person whose profiles are
+                person enjoying the interwebs to an un-person whose profiles are
                 nuked, social connections are lost, and accounts are frozen.
 				</p>
 				<ul class="actions">
