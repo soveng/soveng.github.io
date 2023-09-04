@@ -85,7 +85,7 @@ order: B
 		</div>
 	</section>
 	<section>
-		<img src="{% link assets/images/402.jpg %}" alt="" data-position="25% 25%" />
+		<img src="{% link assets/images/farm.jpg %}" alt="" data-position="25% 25%" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
