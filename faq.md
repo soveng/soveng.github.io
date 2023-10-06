@@ -57,7 +57,10 @@ No, but you can search for a roof over your head on:
 - [https://nomadlist.com/madeira](https://nomadlist.com/madeira)
 - [https://www.anislandapart.com](https://www.anislandapart.com)
 - [https://www.booking.com](https://www.booking.com)
-- [https://www.airbnb.com](https://www.airbnb.com)  
+- [https://www.airbnb.com](https://www.airbnb.com)
+
+There's also [madeirafriends.org](https://madeirafriends.org) which is a
+community that can help with many things.
 
 ### How do I need to prepare for the two months?
 
