@@ -14,7 +14,11 @@
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="{{ site.preview_title }}">
 	<meta property="og:description" content="{{ site.preview_description }}">
+	{% if page.image %}
+	<meta property="og:image" content="{{ page.image | absolute_url }}">
+	{% else %}
 	<meta property="og:image" content="{{ site.preview_image | absolute_url }}">
+	{% endif %}
 
 	<!-- Twitter Meta Tags -->
 	<meta name="twitter:card" content="summary_large_image">
@@ -22,5 +26,9 @@
 	<meta property="twitter:url" content="https://sovereignengineering.io/">
 	<meta name="twitter:title" content="{{ site.preview_title }}">
 	<meta name="twitter:description" content="{{ site.preview_description }}">
+	{% if page.image %}
+	<meta name="twitter:image" content="{{ page.image | absolute_url }}">
+	{% else %}
 	<meta name="twitter:image" content="{{ site.preview_image | absolute_url }}">
+	{% endif %}
 </head>
