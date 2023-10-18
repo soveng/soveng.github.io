@@ -9,26 +9,29 @@
 	<!--[if lte IE 9]><link rel="stylesheet" href="{{ "assets/css/ie9.css" | relative_url }}" /><![endif]-->
 	<!--[if lte IE 8]><link rel="stylesheet" href="{{ "assets/css/ie8.css" | relative_url }}" /><![endif]-->
 
+	<!-- Use post metadata if post, site metadata otherwise -->
+	{% if page.layout == "post" %}
+		{% assign sTitle = page.title %}
+		{% assign sDescription = page.description %}
+		{% assign sImage = page.image %}
+	{% else %}
+		{% assign sTitle = site.preview_title %}
+		{% assign sDescription = site.preview_description %}
+		{% assign sImage = site.preview_image %}
+	{% endif %}
+	
 	<!-- Facebook Meta Tags -->
 	<meta property="og:url" content="https://sovereignengineering.io/">
 	<meta property="og:type" content="website">
-	<meta property="og:title" content="{{ site.preview_title }}">
-	<meta property="og:description" content="{{ site.preview_description }}">
-	{% if page.image %}
-	<meta property="og:image" content="{{ page.image | absolute_url }}">
-	{% else %}
-	<meta property="og:image" content="{{ site.preview_image | absolute_url }}">
-	{% endif %}
+	<meta property="og:title" content="{{ sTitle }}">
+	<meta property="og:description" content="{{ sDescription }}">
+	<meta property="og:image" content="{{ sImage | absolute_url }}">
 
 	<!-- Twitter Meta Tags -->
 	<meta name="twitter:card" content="summary_large_image">
 	<meta property="twitter:domain" content="sovereignengineering.io">
 	<meta property="twitter:url" content="https://sovereignengineering.io/">
-	<meta name="twitter:title" content="{{ site.preview_title }}">
-	<meta name="twitter:description" content="{{ site.preview_description }}">
-	{% if page.image %}
-	<meta name="twitter:image" content="{{ page.image | absolute_url }}">
-	{% else %}
-	<meta name="twitter:image" content="{{ site.preview_image | absolute_url }}">
-	{% endif %}
+	<meta name="twitter:title" content="{{ sTitle }}">
+	<meta name="twitter:description" content="{{ sDescription }}">
+	<meta name="twitter:image" content="{{ sImage | absolute_url }}">
 </head>
