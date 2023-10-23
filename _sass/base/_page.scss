@@ -28,11 +28,17 @@
 
 		// Prevents animation/transition "flicker" on page load.
 		// Automatically added/removed by js/main.js.
-			&.is-loading {
-				*, *:before, *:after {
-					@include vendor('animation', 'none !important');
-					@include vendor('transition', 'none !important');
-				}
+		&.is-loading {
+			*, *:before, *:after {
+				@include vendor('animation', 'none !important');
+				@include vendor('transition', 'none !important');
 			}
+		}
 
+		img {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			width: 50%;
+		}
 	}
