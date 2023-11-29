@@ -97,10 +97,5 @@ We’ll do our best to get back to you as soon as possible.
 
 ### How do I apply?
 
-~~You apply by filling out this form:
-https://sovereignengineering.hypeform.com/SEC01 - it only takes a couple of
-minutes to apply.~~
-
-**Applications are now closed!** Keep your eyes peeled for SEC-02. In the
-meanwhile, follow us on
-[nostr](https://njump.me/npub1s0veng2gvfwr62acrxhnqexq76sj6ldg3a5t935jy8e6w3shr5vsnwrmq5).
+You apply by filling out this form:
+[https://sovereignengineering.typeform.com/SEC01](https://sovereignengineering.typeform.com/SEC01) - it only takes a couple of minutes to apply.
