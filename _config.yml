@@ -1,8 +1,8 @@
 # site settings
-title: SEC-01
+title: SEC
 subtitle: by Sovereign Engineering
 email: info@sovereignengineering.io
-description: "SEC-01: Sovereign Engineering Cohort 1"
+description: "Sovereign Engineering Cohort"
 preview_title: "Sovereign Engineering: Build the tools. Ship the future."
 preview_description: "Two months of hacking, building, mentorship, ideation, and discussions on how to build kickass applications, services, and businesses for a self-sovereign future."
 preview_image: "assets/images/preview.jpg"
