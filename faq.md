@@ -9,6 +9,7 @@ author: null
 ---
 
 - [When does the first Sovereign Engineering Cohort start?](#when-does-the-first-sovereign-engineering-cohort-start)
+- [When does the second Sovereign Engineering Cohort start?](#when-does-the-second-sovereign-engineering-cohort-start)
 - [Where does the Sovereign Engineering Cohort take place?](#where-does-the-sovereign-engineering-cohort-take-place)
 - [Is this a free program?](#is-this-a-free-program)
 - [Do you pay for flights and accommodation?](#do-you-pay-for-flights-and-accommodation)
@@ -23,6 +24,11 @@ author: null
 If you are selected for SEC-01, we expect and welcome you on Monday **January 8th**
 2024 at 9am.  
   
+### When does the second Sovereign Engineering Cohort start?
+
+If you are selected for SEC-02, we expect and welcome you on Monday **May 6th**
+2024 at 9am.
+
 ### Where does the Sovereign Engineering Cohort take place?
 
 At [Cowork
