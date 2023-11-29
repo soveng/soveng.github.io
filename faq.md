@@ -98,4 +98,4 @@ We’ll do our best to get back to you as soon as possible.
 ### How do I apply?
 
 You apply by filling out this form:
-[https://sovereignengineering.typeform.com/SEC01](https://sovereignengineering.typeform.com/SEC01) - it only takes a couple of minutes to apply.
+[https://sovereignengineering.typeform.com/SEC02](https://sovereignengineering.typeform.com/SEC02) - it only takes a couple of minutes to apply.
