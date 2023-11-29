@@ -14,7 +14,7 @@ order: A
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Cohort 01 - Madeira</h2>
+			<h2>Madeira</h2>
 		</header>
 		<p>
 		Madeira. A small archipelago in the middle of the Atlantic. Home of <a
