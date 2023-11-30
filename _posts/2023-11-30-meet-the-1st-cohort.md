@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meet the 1st Cohort"
-description: "You have 1 week left to throw your hat in the ring. Also: What is SEC-01?"
+description: "21 builders. 8 weeks. And more to come!"
 image: assets/images/sec01-landing.jpg
 ---
 
