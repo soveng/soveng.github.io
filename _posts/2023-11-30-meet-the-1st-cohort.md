@@ -15,7 +15,6 @@ everyone's going to build.
 If you've been around the lightning & nostr sphere for a while, you might
 recognize some of the participants:
 
-- [James](https://njump.me/npub10a8kw2hsevhfycl4yhtg7vzrcpwpu7s6med27juf4lzqpsvy270qrh8zkw)
 - [Ziggie](https://njump.me/npub1l5u0zd00va02ch5n6ke2wwxyzamuy5qcsqcu4uwu7pa3dpapleysf7aap5)
 - [Zach](https://njump.me/npub1zach44xjpc4yyhx6pgse2cj2pf98838kja03dv2e8ly8lfr094vqvm5dy5)
 - [René](https://njump.me/npub1e5tfhk8m65teu25dfx8lcvwn4c8ypqjl72u2sh4rt8zy2kss0j5qct7mh9)
@@ -29,7 +28,6 @@ recognize some of the participants:
 - [Sebas](https://njump.me/npub1rw7hlhmgat6ur9zxcw40vweem49guv6530yk767j8xjpynv0y20q6qsl3w)
 - [Nour](https://njump.me/npub1q2s36929z99tv0pfjkqf8jgmn7yxrrjklmsr0wwjl2707vhk965sp7dx3u)
 - [Starbuilder](https://njump.me/npub1mz3vx0ew9le6n48l9f2e8u745k0fzel6thksv0gwfxy3wanprcxq79mymx)
-- [Chua](https://njump.me/npub1x5nfafs95as966kkkvd773wvv5qtjyd27fy3g67jxyzln93mk02qdgdkan)
 - [Elnosh](https://njump.me/npub1gz8kx67jdlx972vgjqemg37tysglvz43hzjler9nssk6kav0m66sv7xjkt)
 - [Balas](https://njump.me/npub1nmr6w7qk0ta36vxysv77jv3d5rqghfc6d8sez8240rf3gja4vsmsd2yha8)
 - [Aljaz](https://njump.me/npub1aljazgxlpnpfp7n5sunlk3dvfp72456x6nezjw4sd850q879rxqsthg9jp)
