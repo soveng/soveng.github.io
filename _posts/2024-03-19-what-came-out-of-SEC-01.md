@@ -5,7 +5,7 @@ description: "A long list of  projects that SEC-01 participants worked on."
 image: assets/images/bell-labs.jpg
 ---
 
-Some of the things that came out of (or saw further development during) SEC-01 are already live:
+Some of the things that came out of SEC-01 are already live:
 
 - [npub.cash](https://npub.cash/) ([code](https://github.com/cashubtc/npubcash-server), [article](https://yakihonne.com/article/naddr1qvzqqqr4gupzpk9zcvljutln482072j4j0eatfv7j9nl5h0dqc7sujvfzamxz8svqq2hx733vdfngefjvatygwtyde555wpdga95utj9ftv))
 - [Blossom](https://blossom.hzrd149.com/) ([code](https://github.com/hzrd149/blossom), [article](https://habla.news/u/hzrd149.com/blossom-drive))
