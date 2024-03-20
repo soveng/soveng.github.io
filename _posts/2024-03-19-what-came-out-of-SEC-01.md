@@ -58,7 +58,7 @@ Many more things are still in the making:
 
 And if my Spidey senses are to be
 trusted, a lot more things will come out of the conversations that were had in
-the last 2 months. Keep in eye out for:
+the last 2 months. Keep an eye out for:
 
 - `ghole.xyz`
 - `pubkey.studio`
