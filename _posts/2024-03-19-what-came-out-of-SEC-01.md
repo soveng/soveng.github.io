@@ -19,24 +19,22 @@ Some of the things that came out of SEC-01 are already live:
 - [noStrudel on StartOS](https://github.com/hzrd149/nostrudel-startos)
 - [nsecBunker on StartOS](https://github.com/hzrd149/nsecbunker-startos)
 
-A lot of the projects that participants worked on or came up with have a strong
-focus on DVMs...
+A lot of the projects that participants worked on have a strong focus on DVMs...
 
-- [Nostr-DVM-Kit](https://github.com/nourspace/nostr-dvm-kit)
 - [Malware DVM](https://malware.dvms.app/) ([code](https://github.com/sebdeveloper6952/malware.dvms.app))
+- [Nostr-DVM-Kit](https://github.com/nourspace/nostr-dvm-kit)
 - [Confidential DVM](https://ungovernable.tech/)
 - [WASM DVM](https://github.com/benthecarman/wasm-dvm/)
 - [WADM DVM plugins](https://github.com/benthecarman/wasm-plugins/)
 - [Go-DVM](https://github.com/sebdeveloper6952/godvm)
 
-...as well as developer tooling...
+...as well as developer collaboration and tooling...
 
 - [nostrocket](https://nostrocket.org/) ([code](https://github.com/nostrocket))
 - [alphaama v3](https://wip.alphaama.com/) ([code](https://github.com/eskema/alphaama/tree/v3))
 - [gitpear](https://github.com/dzdidi/gitpear)
 - [nostr-idb](https://github.com/hzrd149/nostr-idb)
 - [Nostr Community Helm Charts](https://github.com/nostr-community/helm-charts)
-- [gonuts](https://github.com/elnosh/gonuts)
 
 ...and NWC:
 
@@ -53,12 +51,15 @@ Many more things are still in the making:
 - [Flare eCash Wallet](https://github.com/zmeyer44/flare/tree/main/app/wallet)
 - [KeyNest](https://github.com/gzuuus/keynest)
 - [LowEnt](https://github.com/gzuuus/lowent)
+- [gonuts](https://github.com/elnosh/gonuts)
 - [nostr-geotags](https://github.com/sandwichfarm/nostr-geotags)
 - [featurestr-bountiestr](https://github.com/sebdeveloper6952/featurestr-bountiestr)
 
 And if my Spidey senses are to be
 trusted, a lot more things will come out of the conversations that were had in
-the last 2 months. Keep an eye out for:
+the last 2 months.
+
+Keep an eye out for:
 
 - `ghole.xyz`
 - `pubkey.studio`
