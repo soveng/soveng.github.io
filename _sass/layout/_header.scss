@@ -13,7 +13,6 @@
 
 	#header {
 		@include vendor('display', 'flex');
-		background-color: _palette(bg-alt);
 		box-shadow: 0 0 0.25em 0 rgba(0,0,0,0.15);
 		cursor: default;
 		font-weight: _font(weight-bold);
@@ -34,14 +33,14 @@
 			font-size: 0.8em;
 			height: inherit;
 			line-height: inherit;
-			padding: 0 1.5em;
+			padding: 0 4.5em;
+			margin: 1em 1.5em;
+			background-image: url("/assets/images/logo.svg");
+			background-size: contain;
+			background-repeat: no-repeat;
+
 
 			strong {
-				@include vendor('transition', (
-					'background-color #{_duration(transition)} ease-in-out',
-					'color #{_duration(transition)} ease-in-out'
-				));
-				background-color: _palette(fg-bold);
 				color: _palette(bg);
 				display: inline-block;
 				line-height: 1.65em;
@@ -49,17 +48,6 @@
 				padding: 0 0.125em 0 (_font(letter-spacing-alt) + 0.125em);
 			}
 
-			&:hover {
-				strong {
-					background-color: _palette(highlight);
-				}
-			}
-
-			&:active {
-				strong {
-					background-color: desaturate(darken(_palette(highlight), 15), 5);
-				}
-			}
 		}
 
 		nav {
@@ -185,6 +173,10 @@
 
 			.logo {
 				padding: 0 1em;
+
+				span {
+					display: none;
+				}
 			}
 
 			nav {
