@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Madeira
-description: May 6 - Jun 28
+description: Sep 30 - Nov 22
 image: assets/images/madeira.jpg
 nav-menu: true
 order: A
