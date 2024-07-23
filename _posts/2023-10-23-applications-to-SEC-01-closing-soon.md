@@ -18,7 +18,7 @@ how it's going to be. It's the first of its kind (we think), and we hope it
 won't be the last.
 
 The idea is simple: get the best, brightest, and most motivated people in one
-place and lock them into a room for two months (figure of speech; there won't be
+place and lock them into a room for eight weeks (figure of speech; there won't be
 a room). Give them the tools, the support, and the freedom to build real
 solutions to real problems and see what comes out. In terms of projects, apps,
 services, teams, and—potentially—businesses.

@@ -13,7 +13,7 @@ author: null
 - [Is this a free program?](#is-this-a-free-program)
 - [Do you pay for flights and accommodation?](#do-you-pay-for-flights-and-accommodation)
 - [Do you provide accommodation?](#do-you-provide-accommodation)
-- [How do I need to prepare for the two months?](#how-do-i-need-to-prepare-for-the-two-months)
+- [How do I need to prepare for the eight weeks?](#how-do-i-need-to-prepare-for-the-eight-weeks)
 - [What is the cost of living in Madeira?](#what-is-the-cost-of-living-in-madeira)
 - [How do I best contact you?](#how-do-i-best-contact-you)
 - [How do I apply?](#how-do-i-apply)
@@ -59,11 +59,11 @@ No, but you can search for a roof over your head on:
 There's also [madeirafriends.org](https://madeirafriends.org) which is a
 community that can help with many things.
 
-### How do I need to prepare for the two months?
+### How do I need to prepare for the eight weeks?
 
 There’s of course a difference if you travel to Madeira on your own, or with a
 family. Besides this, your preparations should be approached like a longer than
-normal working holiday of two months. So, pack enough clothes and hardware that
+normal working holiday of eight weeks. So, pack enough clothes and hardware that
 you’ll be needing for living out of your suitcase for a while.  
   
 If you have special needs, please send us a message through the

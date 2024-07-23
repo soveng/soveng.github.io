@@ -29,12 +29,12 @@ build upon these protocols and the necessary grit to ship a great product.
 
 ![](/assets/images/mutiny-team.jpg)
 
-We are beyond excited to have them in Madeira for the whole two months of the
+We are beyond excited to have them in Madeira for the whole eight weeks of the
 [first cohort](https://sovereignengineering.io/madeira.html) so that we and the
 participants can learn from them and with them, explore the uncharted seas as a
 crew, and look up to them as a guiding north star in case we get lost.
 
-If you love Bitcoin, lightning, and nostr and want to spend two months with the
+If you love Bitcoin, lightning, and nostr and want to spend eight weeks with the
 best and brightest—building, hacking, and ideating on how to ship a future that
 we and our kids deserve—don't hesitate to sign up for SEC-01. We have a
 fantastic group of participants coming to Madeira, and you could be one of them.

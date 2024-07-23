@@ -112,7 +112,7 @@ order: C
 		</header>
 		<p>
 		Do you love Bitcoin, and what it represents? Do you enjoy the crazyness
-		of nostr? Do you need an excuse to get away for two months, hiding out
+		of nostr? Do you need an excuse to get away for eight weeks, hiding out
 		on a remote island with some <s>crazy people</s> technically versed
 		optimists that want to fix the money, and fix the web? Well... what are
 		you waiting for?
