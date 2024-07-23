@@ -72,7 +72,7 @@ If you have special needs, please send us a message through the
 ### What is the cost of living in Madeira?
 
 If you are invited to come after you’re selected, you need to take care of a
-personal budget for 2 months, including flight tickets, rent for accommodation,
+personal budget for 8 weeks, including flight tickets, rent for accommodation,
 spending money for daily expenses such as breakfast, lunch and dinner. Pocket
 money for the weekend outings is also not a bad idea, since you’ll be able to
 explore beautiful Madeira once you’re there.  

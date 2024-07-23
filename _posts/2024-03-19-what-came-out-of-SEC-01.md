@@ -57,7 +57,7 @@ Many more things are still in the making:
 
 And if my Spidey senses are to be
 trusted, a lot more things will come out of the conversations that were had in
-the last 2 months.
+the last 8 weeks.
 
 Keep an eye out for:
 
