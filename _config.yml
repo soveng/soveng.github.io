@@ -14,8 +14,8 @@ city: Funchal
 state: Funchal
 zip_code: 9000-224
 country: "Madeira, Portugal"
-nostr: npub1s0veng2gvfwr62acrxhnqexq76sj6ldg3a5t935jy8e6w3shr5vsnwrmq5
-nostr_short: npub1s0veng...vsnwrmq5
+npub: npub1s0veng2gvfwr62acrxhnqexq76sj6ldg3a5t935jy8e6w3shr5vsnwrmq5
+npub_short: "@sovereignengineering.io"
 typeform: https://sovereignengineering.typeform.com/SEC-03
 
 # homepage tiles
