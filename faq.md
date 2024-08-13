@@ -82,7 +82,9 @@ cheaper for participants who come from the US or north-west Europe. If you come
 from southern Europe or Asia or the Americas it might be more expensive. Besides
 this it also depends on your personal preferences for accommodation, etc.
 
-Be sure to check out: [https://nomadlist.com/cost-of-living/in/madeira](https://nomadlist.com/cost-of-living/in/madeira).  
+Be sure to check out: 
+- [Nomadlist - Cost of Living in Madeira](https://nomadlist.com/cost-of-living/in/madeira)
+- [Satlantis - Madeira Stats & Facts](https://www.satlantis.io/place/pt/madeira/funchal/R8421413/stats)
   
 ### How do I best contact you?
 
