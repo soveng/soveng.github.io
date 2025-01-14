@@ -13,7 +13,7 @@ author: null
 - [Is this a free program?](#is-this-a-free-program)
 - [Do you pay for flights and accommodation?](#do-you-pay-for-flights-and-accommodation)
 - [Do you provide accommodation?](#do-you-provide-accommodation)
-- [How do I need to prepare for the six weeks?](#how-do-i-need-to-prepare-for-the-eight-weeks)
+- [How do I need to prepare for the six weeks?](#how-do-i-need-to-prepare-for-the-six-weeks)
 - [What is the cost of living in Madeira?](#what-is-the-cost-of-living-in-madeira)
 - [How do I best contact you?](#how-do-i-best-contact-you)
 - [How do I apply?](#how-do-i-apply)
