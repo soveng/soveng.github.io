@@ -4,7 +4,7 @@ subtitle: Sovereign Engineering
 email: info@sovereignengineering.io
 description: "Sovereign Engineering Cohort"
 preview_title: "Sovereign Engineering: Build the tools. Ship the future."
-preview_description: "Eight weeks of hacking, building, mentorship, ideation, and discussions on how to build kickass applications, services, and businesses for a self-sovereign future."
+preview_description: "Six weeks of hacking, building, mentorship, ideation, and discussions on how to build kickass applications, services, and businesses for a self-sovereign future."
 preview_image: "assets/images/preview.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site

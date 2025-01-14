@@ -101,7 +101,7 @@ order: A
 		</header>
 		<p>
 		Do you love Bitcoin and what it represents? Do you enjoy the craziness of nostr?
-		Do you need an excuse to get away for eight weeks, hiding out on a remote island
+		Do you need an excuse to get away for six weeks, hiding out on a remote island
 		with some <s>crazy people</s> technically versed optimists who want to fix the
 		money and the Web? Well, what are you waiting for?
 		</p>
