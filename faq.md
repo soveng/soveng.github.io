@@ -30,7 +30,7 @@ Funchal](https://www.openstreetmap.org/node/3947240594#map=19/32.65134/-16.91158
 which is located in the capital of Madeira, an island in the Atlantic Ocean and
 part of Portugal.  
   
-Address: Rua das Mercês 29, 9000-224 Funchal, Portugal
+Address: Rua das Mercês 41, 9000-224 Funchal, Portugal
 
 ### Is this a free program?
 
