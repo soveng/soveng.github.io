@@ -20,7 +20,7 @@ author: null
 
 ### When does the next Sovereign Engineering Cohort start?
 
-If you are selected for SEC-03, we expect and welcome you on Monday **Mar 03th**
+If you are selected for SEC-04, we expect and welcome you on Monday **Mar 03th**
 2024 at 9am.
 
 ### Where does the Sovereign Engineering Cohort take place?
@@ -95,4 +95,4 @@ We’ll do our best to get back to you as soon as possible.
 
 ### How do I apply?
 
-By filling out the [SEC-03 application form](https://sovereignengineering.typeform.com/SEC-03).
+By filling out the [SEC-04 application form](https://sovereignengineering.typeform.com/SEC-04).
