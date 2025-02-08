@@ -1,0 +1,69 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" version="2.0">
+  <channel>
+    <title>No Solutions</title>
+    <description>No solutions; only trade-offs. A walking dialog on what the right trade-off balance might be. 
+Est. 882,690. Inspired by Sovereign Engineering https://njump.me/sovereignengineering.io</description>
+    <language>en</language>
+    <itunes:image href="https://haven.sovereignengineering.io/5c534684d544b519bbb09cc126ac0095f093949498091ca818a55baee26e0e44.png"/>
+    <link>https://njump.me/no-solutions@sovereignengineering.io</link>
+    <generator>Sovereign Feeds</generator>
+    <image>
+      <url>https://haven.sovereignengineering.io/5c534684d544b519bbb09cc126ac0095f093949498091ca818a55baee26e0e44.png</url>
+      <link>https://njump.me/no-solutions@sovereignengineering.io</link>
+      <title>No Solutions</title>
+      <description>No solutions; only trade-offs. A walking dialog on what the right trade-off balance might be. 
+Est. 882,690. Inspired by Sovereign Engineering https://njump.me/sovereignengineering.io</description>
+      <width>144</width>
+      <height>144</height>
+    </image>
+    <itunes:category text="Technology"/>
+    <itunes:category text=""/>
+    <podcast:medium>podcast</podcast:medium>
+    <podcast:person href="https://dergigi.com/" img="https://dergigi.com/assets/images/avatars/09.png" group="cast" role="host">Gigi</podcast:person>
+    <podcast:person href="https://njump.me/f7z.io" img="https://primal.b-cdn.net/media-upload?u=https%3A%2F%2Fmedia.primal.net%2Fuploads%2Ff%2F32%2F11%2Ff32111d4786fd98af5ab2b89160f5f9c7f394feb9c9ea1a05d67d29f594c2c5f.jpg" group="cast" role="co-host">Pablo</podcast:person>
+    <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+      <podcast:valueRecipient name="Gigi" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="100"/>
+      <podcast:valueRecipient name="Pablo" type="node" address="pablof7z@primal.net" split="100"/>
+      <podcast:valueRecipient name="Sovereign Feeds" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" type="node" fee="true" split="1"/>
+    </podcast:value>
+    <podcast:complete>no</podcast:complete>
+    <podcast:block>no</podcast:block>
+    <podcast:license url="">cc-by-sa-4.0</podcast:license>
+    <itunes:owner>
+      <itunes:email/>
+      <itunes:name>Gigi</itunes:name>
+    </itunes:owner>
+    <podcast:funding url="https://njump.me/npub1n00yy9y3704drtpph5wszen64w287nquftkcwcjv7gnnkpk2q54s73000n">Zaps are appreciated! #value4value ⚡🧡</podcast:funding>
+    <itunes:keywords>nostr, development, sovereign engineering, shipping, memes, web, internet, conversation, dialog</itunes:keywords>
+    <itunes:author>Gigi</itunes:author>
+    <managingEditor>Sovereign Feeds</managingEditor>
+    <pubDate>Sat, 08 Feb 2025 16:20:57 +0000</pubDate>
+    <lastBuildDate>Sat, 08 Feb 2025 16:20:57 +0000</lastBuildDate>
+    <category>Technology</category>
+    <category/>
+    <podcast:guid>f2a99a0c-94a3-55c1-baad-b31352ebe997</podcast:guid>
+    <item>
+      <title>#00 - Test Recording / Teaser</title>
+      <description><![CDATA[<p>A teaser.</p>]]></description>
+      <itunes:image href="https://haven.sovereignengineering.io/5c534684d544b519bbb09cc126ac0095f093949498091ca818a55baee26e0e44.png"/>
+      <enclosure url="https://haven.sovereignengineering.io/d8b969dcdd4e956b581ac66933076b1a9080d219aeddf03110c768bec43e842f.ogg" length="1649225" type="audio/mpeg"/>
+      <podcast:person href="https://njump.me/f7z.io" img="https://primal.b-cdn.net/media-upload?u=https%3A%2F%2Fmedia.primal.net%2Fuploads%2Ff%2F32%2F11%2Ff32111d4786fd98af5ab2b89160f5f9c7f394feb9c9ea1a05d67d29f594c2c5f.jpg" group="cast" role="co-host">Pablo</podcast:person>
+      <podcast:funding url="https://njump.me/npub1n00yy9y3704drtpph5wszen64w287nquftkcwcjv7gnnkpk2q54s73000n">Zaps are appreciated! #value4value ⚡🧡</podcast:funding>
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+        <podcast:valueRecipient name="Gigi" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="100"/>
+        <podcast:valueRecipient name="Pablo" type="lnaddress" address="pablof7z@primal.net" split="100"/>
+        <podcast:valueRecipient name="Sovereign Feeds" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" type="node" fee="true" split="1"/>
+      </podcast:value>
+      <guid isPermaLink="false">424cb8ef-a99a-4a0b-b7ce-02b960283814</guid>
+      <itunes:subtitle>#00 - Test Recording / Teaser</itunes:subtitle>
+      <itunes:duration>229</itunes:duration>
+      <link>https://njump.me/nevent1qqs8h87t6xu22nsxlu5pa6jfztlfchsvm894h8qt2w5kadrvjs7j6fgzyzdauss5j8e745dvyx736qtx024egl6vr39wmpmzfnezwwcxegzjkdw4nl9</link>
+      <pubDate>Fri, 07 Feb 2025 10:00:00 +0000</pubDate>
+      <author>Gigi</author>
+      <itunes:author>Gigi</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>nostr, development, sovereign engineering, shipping, memes, web, internet, conversation, dialog</itunes:keywords>
+      <itunes:summary><![CDATA[<p>A teaser.</p>]]></itunes:summary>
+    </item>
+  </channel>
+</rss>
