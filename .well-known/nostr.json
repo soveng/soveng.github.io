@@ -1,7 +1,9 @@
 {
   "names": {
     "_": "83d999a148625c3d2bb819af3064c0f6a12d7da88f68b2c69221f3a746171d19",
-    "no-solutions": "9bde421491f3ead1ac21bd1d01667aab947f4c1c4aed87624cf2273b06ca052b"
+    "no-solutions": "9bde421491f3ead1ac21bd1d01667aab947f4c1c4aed87624cf2273b06ca052b",
+    "nosolutions": "9bde421491f3ead1ac21bd1d01667aab947f4c1c4aed87624cf2273b06ca052b",
+    "nosl": "9bde421491f3ead1ac21bd1d01667aab947f4c1c4aed87624cf2273b06ca052b"
   },
   "relays": {
     "83d999a148625c3d2bb819af3064c0f6a12d7da88f68b2c69221f3a746171d19": [
