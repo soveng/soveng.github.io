@@ -37,11 +37,40 @@ Est. 882,690. Inspired by Sovereign Engineering https://njump.me/sovereignengine
     <itunes:keywords>nostr, development, sovereign engineering, shipping, memes, web, internet, conversation, dialog</itunes:keywords>
     <itunes:author>Gigi</itunes:author>
     <managingEditor>Sovereign Feeds</managingEditor>
-    <pubDate>Sat, 08 Feb 2025 16:20:57 +0000</pubDate>
-    <lastBuildDate>Sat, 08 Feb 2025 16:20:57 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Feb 2025 10:00:05 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Feb 2025 10:00:05 +0000</lastBuildDate>
     <category>Technology</category>
     <category/>
-    <podcast:guid>f2a99a0c-94a3-55c1-baad-b31352ebe997</podcast:guid>
+    <podcast:guid>b87fb840-bdf5-5825-9c8a-70f83b6102f7</podcast:guid>
+    <item>
+      <title>#01 - Start Ugly</title>
+      <description><![CDATA[<p>&ldquo;We have the chance of building the next iteration of the internet, and hopefully, not repeat the mistakes of the past."</p>
+<p>In this dialogue:<br />- Why starting ugly and shipping early is hard<br />- The ugliest thing that Pablo ever shipped<br />- "Happiness is shipping"<br />- Make it real first, you can make it pretty later<br />- Getting into the habit of shipping<br />- Highlighter and the hang-up of shipping something big<br />- How nostr allows you to have cash flow from the get-go<br />- #value4value for artists and devs<br />- What DHH &amp; 37Signals got right</p>
+<p>People and projects mentioned:&nbsp;<br />- fiatjaf<br />- DHH<br />- SuperTestnet<br />- nostr.build<br />- Highlighter<br />- Primal<br />- ProtonMail<br />- Hey</p>
+<p>Further links:<br />- https://excellentjourney.net/2015/03/04/art-fear-the-ceramics-class-and-quantity-before-quality/<br />- https://world.hey.com/dhh/that-shipping-feeling-b7c8c565<br />- https://world.hey.com/dhh/i-was-wrong-we-need-crypto-587ccb03<br />- https://sovereignengineering.io/<br />- https://dergigi.com/2023/04/04/purple-text-orange-highlights/<br />- https://highlighter.com/<br />- https://njump.me/nosolutions@sovereignengineering.io</p>]]></description>
+      <itunes:image href="https://haven.sovereignengineering.io/ecb05eff1c32855b96048f97b94580c7a4d9ee053245afd2051c433c64b39c20.jpg"/>
+      <enclosure url="https://haven.sovereignengineering.io/efd05ea087e894bfa056803f881e8de25e775cee3d65f2ae303c1f282b619a61.mp3" length="34303296" type="audio/mpeg"/>
+      <podcast:person href="https://njump.me/f7z.io" img="https://primal.b-cdn.net/media-upload?u=https%3A%2F%2Fmedia.primal.net%2Fuploads%2Ff%2F32%2F11%2Ff32111d4786fd98af5ab2b89160f5f9c7f394feb9c9ea1a05d67d29f594c2c5f.jpg" group="cast" role="co-host">Pablo</podcast:person>
+      <podcast:funding url="https://njump.me/npub1n00yy9y3704drtpph5wszen64w287nquftkcwcjv7gnnkpk2q54s73000n">Zaps are appreciated! #value4value ⚡🧡</podcast:funding>
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+        <podcast:valueRecipient name="Gigi" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="100"/>
+        <podcast:valueRecipient name="Pablo" type="lnaddress" address="pablof7z@primal.net" split="100"/>
+        <podcast:valueRecipient name="Sovereign Feeds" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" type="node" fee="true" split="1"/>
+      </podcast:value>
+      <guid isPermaLink="false">cecd9520-2fc8-4d45-9161-34d58e563e0f</guid>
+      <itunes:subtitle>#01 - Start Ugly</itunes:subtitle>
+      <itunes:duration>2798</itunes:duration>
+      <link>https://njump.me/nevent1qvzqqqqqqypzpx77gg2frul26xkzr0gaq9n842u50axpcjhdsa3yeu388vrv5pftqys8wumn8ghj7mn0wd68ytn9d9h82mny0fmkzmn6d9njuumsv93k2tcppemhxue69uhkummn9ekx7mp0qqsq92p3qgyjnqn9rm7k87fdaq4aqqhwpdteuaam2q0s7dqjsf9lpgq27jj59</link>
+      <pubDate>Sun, 09 Feb 2025 09:53:46 +0000</pubDate>
+      <author>Gigi</author>
+      <itunes:author>Gigi</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>nostr, development, sovereign engineering, shipping, memes, web, internet, conversation, dialog</itunes:keywords>
+      <itunes:summary><![CDATA[<p>&ldquo;We have the chance of building the next iteration of the internet, and hopefully, not repeat the mistakes of the past."</p>
+<p>In this dialogue:<br />- Why starting ugly and shipping early is hard<br />- The ugliest thing that Pablo ever shipped<br />- "Happiness is shipping"<br />- Make it real first, you can make it pretty later<br />- Getting into the habit of shipping<br />- Highlighter and the hang-up of shipping something big<br />- How nostr allows you to have cash flow from the get-go<br />- #value4value for artists and devs<br />- What DHH &amp; 37Signals got right</p>
+<p>People and projects mentioned:&nbsp;<br />- fiatjaf<br />- DHH<br />- SuperTestnet<br />- nostr.build<br />- Highlighter<br />- Primal<br />- ProtonMail<br />- Hey</p>
+<p>Further links:<br />- https://excellentjourney.net/2015/03/04/art-fear-the-ceramics-class-and-quantity-before-quality/<br />- https://world.hey.com/dhh/that-shipping-feeling-b7c8c565<br />- https://world.hey.com/dhh/i-was-wrong-we-need-crypto-587ccb03<br />- https://sovereignengineering.io/<br />- https://dergigi.com/2023/04/04/purple-text-orange-highlights/<br />- https://highlighter.com/<br />- https://njump.me/nosolutions@sovereignengineering.io</p>]]></itunes:summary>
+    </item>
     <item>
       <title>#00 - Test Recording / Teaser</title>
       <description><![CDATA[<p>A teaser.</p>]]></description>
