@@ -4,11 +4,11 @@
     <description>No solutions; only trade-offs. A walking dialog on what the right trade-off balance might be. 
 Est. 882,690. Inspired by Sovereign Engineering https://njump.me/sovereignengineering.io</description>
     <language>en</language>
-    <itunes:image href="https://haven.sovereignengineering.io/5c534684d544b519bbb09cc126ac0095f093949498091ca818a55baee26e0e44.png"/>
+    <itunes:image href="https://haven.sovereignengineering.io/29995d6f3c18f5cd881519e08a34292ccbd2f0996df288e9b125dea69d259eee.jpg"/>
     <link>https://njump.me/no-solutions@sovereignengineering.io</link>
     <generator>Sovereign Feeds</generator>
     <image>
-      <url>https://haven.sovereignengineering.io/5c534684d544b519bbb09cc126ac0095f093949498091ca818a55baee26e0e44.png</url>
+      <url>https://haven.sovereignengineering.io/29995d6f3c18f5cd881519e08a34292ccbd2f0996df288e9b125dea69d259eee.jpg</url>
       <link>https://njump.me/no-solutions@sovereignengineering.io</link>
       <title>No Solutions</title>
       <description>No solutions; only trade-offs. A walking dialog on what the right trade-off balance might be. 
@@ -37,11 +37,38 @@ Est. 882,690. Inspired by Sovereign Engineering https://njump.me/sovereignengine
     <itunes:keywords>nostr, development, sovereign engineering, shipping, memes, web, internet, conversation, dialog</itunes:keywords>
     <itunes:author>Gigi</itunes:author>
     <managingEditor>Sovereign Feeds</managingEditor>
-    <pubDate>Sun, 09 Feb 2025 10:18:19 +0000</pubDate>
-    <lastBuildDate>Sun, 09 Feb 2025 10:18:19 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Feb 2025 19:35:12 +0000</pubDate>
+    <lastBuildDate>Sat, 15 Feb 2025 19:35:12 +0000</lastBuildDate>
     <category>Technology</category>
     <category/>
-    <podcast:guid>e6b15b10-b579-5f88-9a0c-bca98a19c4b4</podcast:guid>
+    <podcast:guid>f5e79e28-04cc-5bcc-95c5-fe5f63e9e0af</podcast:guid>
+    <item>
+      <title>#02 - There is No Global</title>
+      <description><![CDATA[<p>&ldquo;We do not have the answers."</p>
+<p>In this dialogue:<br />- What is this No Solutions thing anyway?<br />- Why dialogue and distributed cognition is so important<br />- Why is nostr exiting for developers?<br />- Evolution, Life, and nostr<br />- What is the perfect nostr app, and why can't there be THE perfect nostr app?<br />- Why there is no "global" view in nostr<br />- Impossible problems vs. possible (but still hard) problems<br />- Blossom, blossom, and more blossom<br />- Zooko's Triangle<br />- Freedom Tech Building Blocks<br />- NIP-60/61, NIP-89<br />- Email vs ICQ<br />- Accepting constraints &amp; moving forward<br />- Nostr has data integrity, but no data guarantees<br />- Bitcoin as an extreme RAID system<br />- Fault tolerance vs. efficiency<br />- "Build the infrastructure, don't run it."<br />- eCash fixes 402<br />- Everything in nostr can be one-click<br />- There's infinite nsecs (and they are free!)<br />- The magic of the nostr view-only mode<br />- The Local-first movement<br />- How to monetize without putting yourself in the middle?<br />- RoboSats as an example of open-source monetization<br />- The YouTube like count is a lie</p>
+<p>Further links:<br />- https://en.wikipedia.org/wiki/Distributed_cognition<br />- https://nips.nostr.com/60<br />- https://nips.nostr.com/61<br />- https://nips.nostr.com/89<br />- https://github.com/hzrd149/blossom<br />- https://en.wikipedia.org/wiki/Zooko's_triangle<br />- https://www.jrepodcast.com/guest/adam-curry/<br />- https://localfirstweb.dev/<br />- https://www.localfirstconf.com/<br />- https://en.wikipedia.org/wiki/ICQ<br />- https://appleinsider.com/articles/24/05/25/icq-1996-2024-the-first-universal-messenger-had-a-good-run-and-is-leaving-us-soon<br />- https://www.chatinum.com/articles/the-old-chat-apps-of-the-2000s<br />- https://en.wikipedia.org/wiki/Standard_RAID_levels<br />- https://www.youtube.com/watch?v=oIkhgagvrjI<br />- https://njump.me/nosolutions@sovereignengineering.io</p>]]></description>
+      <itunes:image href="https://haven.sovereignengineering.io/47751a709b26379178c6da4817bae2c7ec0df90ac56c5660a72f805268e54525.jpg"/>
+      <enclosure url="https://haven.sovereignengineering.io/454ec3ebf261084fe0abbcb6b31409cb29db23ed97784f896b60d7226bfe17ba.mp3" length="57403392" type="audio/mpeg"/>
+      <podcast:person href="https://njump.me/f7z.io" img="https://primal.b-cdn.net/media-upload?u=https%3A%2F%2Fmedia.primal.net%2Fuploads%2Ff%2F32%2F11%2Ff32111d4786fd98af5ab2b89160f5f9c7f394feb9c9ea1a05d67d29f594c2c5f.jpg" group="cast" role="co-host">Pablo</podcast:person>
+      <podcast:funding url="https://njump.me/npub1n00yy9y3704drtpph5wszen64w287nquftkcwcjv7gnnkpk2q54s73000n">Zaps are appreciated! #value4value ⚡🧡</podcast:funding>
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+        <podcast:valueRecipient name="Gigi" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="100"/>
+        <podcast:valueRecipient name="Pablo" type="lnaddress" address="pablof7z@primal.net" split="100"/>
+        <podcast:valueRecipient name="Sovereign Feeds" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" type="node" fee="true" split="1"/>
+      </podcast:value>
+      <guid isPermaLink="false">4222eeb9-a217-487d-8fa5-a9d7e4489691</guid>
+      <itunes:subtitle>#02 - There is No Global</itunes:subtitle>
+      <itunes:duration>4524</itunes:duration>
+      <link>https://njump.me/nevent1qvzqqqqqqypzpx77gg2frul26xkzr0gaq9n842u50axpcjhdsa3yeu388vrv5pftqys8wumn8ghj7mn0wd68ytn9d9h82mny0fmkzmn6d9njuumsv93k2tcppemhxue69uhkummn9ekx7mp0qqsgkx392393mpne6kepe03jvsk3rpq7pcnuxmggjyxhdwp4x3qrc0casaqag</link>
+      <pubDate>Sat, 15 Feb 2025 19:08:23 +0000</pubDate>
+      <author>Gigi</author>
+      <itunes:author>Gigi</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>nostr, development, sovereign engineering, shipping, memes, web, internet, conversation, dialog</itunes:keywords>
+      <itunes:summary><![CDATA[<p>&ldquo;We do not have the answers."</p>
+<p>In this dialogue:<br />- What is this No Solutions thing anyway?<br />- Why dialogue and distributed cognition is so important<br />- Why is nostr exiting for developers?<br />- Evolution, Life, and nostr<br />- What is the perfect nostr app, and why can't there be THE perfect nostr app?<br />- Why there is no "global" view in nostr<br />- Impossible problems vs. possible (but still hard) problems<br />- Blossom, blossom, and more blossom<br />- Zooko's Triangle<br />- Freedom Tech Building Blocks<br />- NIP-60/61, NIP-89<br />- Email vs ICQ<br />- Accepting constraints &amp; moving forward<br />- Nostr has data integrity, but no data guarantees<br />- Bitcoin as an extreme RAID system<br />- Fault tolerance vs. efficiency<br />- "Build the infrastructure, don't run it."<br />- eCash fixes 402<br />- Everything in nostr can be one-click<br />- There's infinite nsecs (and they are free!)<br />- The magic of the nostr view-only mode<br />- The Local-first movement<br />- How to monetize without putting yourself in the middle?<br />- RoboSats as an example of open-source monetization<br />- The YouTube like count is a lie</p>
+<p>Further links:<br />- https://en.wikipedia.org/wiki/Distributed_cognition<br />- https://nips.nostr.com/60<br />- https://nips.nostr.com/61<br />- https://nips.nostr.com/89<br />- https://github.com/hzrd149/blossom<br />- https://en.wikipedia.org/wiki/Zooko's_triangle<br />- https://www.jrepodcast.com/guest/adam-curry/<br />- https://localfirstweb.dev/<br />- https://www.localfirstconf.com/<br />- https://en.wikipedia.org/wiki/ICQ<br />- https://appleinsider.com/articles/24/05/25/icq-1996-2024-the-first-universal-messenger-had-a-good-run-and-is-leaving-us-soon<br />- https://www.chatinum.com/articles/the-old-chat-apps-of-the-2000s<br />- https://en.wikipedia.org/wiki/Standard_RAID_levels<br />- https://www.youtube.com/watch?v=oIkhgagvrjI<br />- https://njump.me/nosolutions@sovereignengineering.io</p>]]></itunes:summary>
+    </item>
     <item>
       <title>#01 - Start Ugly</title>
       <description><![CDATA[<p>&ldquo;We have the chance of building the next iteration of the internet, and hopefully, not repeat the mistakes of the past."</p>
