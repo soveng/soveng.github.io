@@ -1,17 +1,17 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" version="2.0">
   <channel>
     <title>No Solutions</title>
-    <description>No solutions; only trade-offs. A walking dialog on what the right trade-off balance might be. 
+    <description>No solutions; only trade-offs. Walking towards a better internet. 
 Est. 882,690. Inspired by Sovereign Engineering https://njump.me/sovereignengineering.io</description>
     <language>en</language>
-    <itunes:image href="https://haven.sovereignengineering.io/47751a709b26379178c6da4817bae2c7ec0df90ac56c5660a72f805268e54525.jpg"/>
+    <itunes:image href="https://haven.sovereignengineering.io/29995d6f3c18f5cd881519e08a34292ccbd2f0996df288e9b125dea69d259eee.jpg"/>
     <link>https://njump.me/no-solutions@sovereignengineering.io</link>
     <generator>Sovereign Feeds</generator>
     <image>
-      <url>https://haven.sovereignengineering.io/47751a709b26379178c6da4817bae2c7ec0df90ac56c5660a72f805268e54525.jpg</url>
+      <url>https://haven.sovereignengineering.io/29995d6f3c18f5cd881519e08a34292ccbd2f0996df288e9b125dea69d259eee.jpg</url>
       <link>https://njump.me/no-solutions@sovereignengineering.io</link>
       <title>No Solutions</title>
-      <description>No solutions; only trade-offs. A walking dialog on what the right trade-off balance might be. 
+      <description>No solutions; only trade-offs. Walking towards a better internet. 
 Est. 882,690. Inspired by Sovereign Engineering https://njump.me/sovereignengineering.io</description>
       <width>144</width>
       <height>144</height>
@@ -37,11 +37,11 @@ Est. 882,690. Inspired by Sovereign Engineering https://njump.me/sovereignengine
     <itunes:keywords>nostr, development, sovereign engineering, shipping, memes, web, internet, conversation, dialog</itunes:keywords>
     <itunes:author>Gigi</itunes:author>
     <managingEditor>Sovereign Feeds</managingEditor>
-    <pubDate>Sun, 23 Feb 2025 18:47:21 +0000</pubDate>
-    <lastBuildDate>Sun, 23 Feb 2025 18:47:21 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Feb 2025 19:04:45 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Feb 2025 19:04:45 +0000</lastBuildDate>
     <category>Technology</category>
     <category/>
-    <podcast:guid>54739014-2572-5a84-93b3-70a1f9973ae0</podcast:guid>
+    <podcast:guid>15ac8ac0-24a7-5690-bbf4-ef6f6f02007a</podcast:guid>
     <item>
       <title>#03 - Data Ownership is a Lie</title>
       <description><![CDATA[<p><span style="font-weight: 400;">&ldquo;You&rsquo;ll get all that for free if you build it right&rdquo;</span></p>
@@ -78,7 +78,7 @@ Est. 882,690. Inspired by Sovereign Engineering https://njump.me/sovereignengine
 <li><span style="font-weight: 400;">&ldquo;</span><a href="https://dergigi.com/2024/03/25/speaking-freely-online/"><span style="font-weight: 400;">Free Speech platforms cannot exist</span></a><span style="font-weight: 400;">; if there is a &lsquo;deplatform&rsquo; button, the button will be pressed.&rdquo;</span></li>
 <li><span style="font-weight: 400;">&ldquo;</span><a href="https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ"><span style="font-weight: 400;">Neither nostalgia nor utopia.</span></a><span style="font-weight: 400;">&rdquo;</span></li>
 <li><span style="font-weight: 400;">Solutions that make stuff worse over time vs solutions that make stuff better over time.</span></li>
-<li><span style="font-weight: 400;">#asknostr on passkeys, and why we think they&rsquo;ll make things worse over time.</span></li>
+<li><span style="font-weight: 400;">#asknostr on <a href="https://njump.me/nevent1qqs8mnlq5lgxceec4u7a3qkzxaguyqm347w9l6vmp4mg7ht5064qjncpz3mhxue69uhhyetvv9ujuerpd46hxtnfdupzqmjxss3dld622uu8q25gywum9qtg4w4cv4064jmg20xsac2aam5nl6v27c">passkeys</a>, and why we think they&rsquo;ll make things <a href="https://world.hey.com/dhh/passwords-have-problems-but-passkeys-have-more-95285df9">worse over time</a>.</span></li>
 <li><span style="font-weight: 400;">Authentication vs identity: &ldquo;</span><a href="https://www.authx.com/blog/identification-vs-authentication/"><span style="font-weight: 400;">identification asks, authentication proves</span></a><span style="font-weight: 400;">&rdquo;</span></li>
 <li><a href="https://web.archive.org/web/20161221170031/https://www.wired.com/2011/10/you-are-not-your-name-and-photo-a-call-to-re-imagine-identity/"><span style="font-weight: 400;">You are not your name and photo</span></a><span style="font-weight: 400;">; identity is prismatic</span></li>
 <li><span style="font-weight: 400;">(m00t&rsquo;s talk on it at </span><a href="https://youtu.be/e3Zs74IH0mc"><span style="font-weight: 400;">web summit 2011</span></a><span style="font-weight: 400;">)</span></li>
@@ -147,7 +147,7 @@ Est. 882,690. Inspired by Sovereign Engineering https://njump.me/sovereignengine
 <li><span style="font-weight: 400;">&ldquo;</span><a href="https://dergigi.com/2024/03/25/speaking-freely-online/"><span style="font-weight: 400;">Free Speech platforms cannot exist</span></a><span style="font-weight: 400;">; if there is a &lsquo;deplatform&rsquo; button, the button will be pressed.&rdquo;</span></li>
 <li><span style="font-weight: 400;">&ldquo;</span><a href="https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ"><span style="font-weight: 400;">Neither nostalgia nor utopia.</span></a><span style="font-weight: 400;">&rdquo;</span></li>
 <li><span style="font-weight: 400;">Solutions that make stuff worse over time vs solutions that make stuff better over time.</span></li>
-<li><span style="font-weight: 400;">#asknostr on passkeys, and why we think they&rsquo;ll make things worse over time.</span></li>
+<li><span style="font-weight: 400;">#asknostr on <a href="https://njump.me/nevent1qqs8mnlq5lgxceec4u7a3qkzxaguyqm347w9l6vmp4mg7ht5064qjncpz3mhxue69uhhyetvv9ujuerpd46hxtnfdupzqmjxss3dld622uu8q25gywum9qtg4w4cv4064jmg20xsac2aam5nl6v27c">passkeys</a>, and why we think they&rsquo;ll make things <a href="https://world.hey.com/dhh/passwords-have-problems-but-passkeys-have-more-95285df9">worse over time</a>.</span></li>
 <li><span style="font-weight: 400;">Authentication vs identity: &ldquo;</span><a href="https://www.authx.com/blog/identification-vs-authentication/"><span style="font-weight: 400;">identification asks, authentication proves</span></a><span style="font-weight: 400;">&rdquo;</span></li>
 <li><a href="https://web.archive.org/web/20161221170031/https://www.wired.com/2011/10/you-are-not-your-name-and-photo-a-call-to-re-imagine-identity/"><span style="font-weight: 400;">You are not your name and photo</span></a><span style="font-weight: 400;">; identity is prismatic</span></li>
 <li><span style="font-weight: 400;">(m00t&rsquo;s talk on it at </span><a href="https://youtu.be/e3Zs74IH0mc"><span style="font-weight: 400;">web summit 2011</span></a><span style="font-weight: 400;">)</span></li>
@@ -167,9 +167,54 @@ Est. 882,690. Inspired by Sovereign Engineering https://njump.me/sovereignengine
     </item>
     <item>
       <title>#02 - There is No Global</title>
-      <description><![CDATA[<p>&ldquo;We do not have the answers."</p>
-<p>In this dialogue:<br />- What is this No Solutions thing anyway?<br />- Why dialogue and distributed cognition is so important<br />- Why is nostr exiting for developers?<br />- Evolution, Life, and nostr<br />- What is the perfect nostr app, and why can't there be THE perfect nostr app?<br />- Why there is no "global" view in nostr<br />- Impossible problems vs. possible (but still hard) problems<br />- Blossom, blossom, and more blossom<br />- Zooko's Triangle<br />- Freedom Tech Building Blocks<br />- NIP-60/61, NIP-89<br />- Email vs ICQ<br />- Accepting constraints &amp; moving forward<br />- Nostr has data integrity, but no data guarantees<br />- Bitcoin as an extreme RAID system<br />- Fault tolerance vs. efficiency<br />- "Build the infrastructure, don't run it."<br />- eCash fixes 402<br />- Everything in nostr can be one-click<br />- There's infinite nsecs (and they are free!)<br />- The magic of the nostr view-only mode<br />- The Local-first movement<br />- How to monetize without putting yourself in the middle?<br />- RoboSats as an example of open-source monetization<br />- The YouTube like count is a lie</p>
-<p>Further links:<br />- https://en.wikipedia.org/wiki/Distributed_cognition<br />- https://nips.nostr.com/60<br />- https://nips.nostr.com/61<br />- https://nips.nostr.com/89<br />- https://github.com/hzrd149/blossom<br />- https://en.wikipedia.org/wiki/Zooko's_triangle<br />- https://www.jrepodcast.com/guest/adam-curry/<br />- https://localfirstweb.dev/<br />- https://www.localfirstconf.com/<br />- https://en.wikipedia.org/wiki/ICQ<br />- https://appleinsider.com/articles/24/05/25/icq-1996-2024-the-first-universal-messenger-had-a-good-run-and-is-leaving-us-soon<br />- https://www.chatinum.com/articles/the-old-chat-apps-of-the-2000s<br />- https://en.wikipedia.org/wiki/Standard_RAID_levels<br />- https://www.youtube.com/watch?v=oIkhgagvrjI<br />- https://njump.me/nosolutions@sovereignengineering.io</p>]]></description>
+      <description><![CDATA[<p><span style="font-weight: 400;">&ldquo;We do not have the answers."</span></p>
+<p><span style="font-weight: 400;">In this dialogue:</span></p>
+<ul>
+<li><span style="font-weight: 400;">What is this No Solutions thing anyway?</span></li>
+<li><span style="font-weight: 400;">Why dialogue and distributed cognition is so important</span></li>
+<li><span style="font-weight: 400;">Why is nostr exiting for developers?</span></li>
+<li><span style="font-weight: 400;">Evolution, Life, and nostr</span></li>
+<li><span style="font-weight: 400;">What is the perfect nostr app, and why can&rsquo;t there be THE perfect nostr app?</span></li>
+<li><span style="font-weight: 400;">Why there is no &ldquo;global&rdquo; view in nostr</span></li>
+<li><span style="font-weight: 400;">Impossible problems vs. possible (but still hard) problems</span></li>
+<li><span style="font-weight: 400;">Blossom, blossom, and more blossom</span></li>
+<li><span style="font-weight: 400;">Zooko&rsquo;s Triangle</span></li>
+<li><span style="font-weight: 400;">Freedom Tech Building Blocks</span></li>
+<li><span style="font-weight: 400;">NIP-60/61, NIP-89</span></li>
+<li><span style="font-weight: 400;">Email vs ICQ</span></li>
+<li><span style="font-weight: 400;">Accepting constraints &amp; moving forward</span></li>
+<li><span style="font-weight: 400;">Nostr has data integrity, but no data guarantees</span></li>
+<li><span style="font-weight: 400;">Bitcoin as an extreme RAID system</span></li>
+<li><span style="font-weight: 400;">Fault tolerance vs. efficiency</span></li>
+<li><span style="font-weight: 400;">&ldquo;Build the infrastructure, don&rsquo;t run it.&rdquo;</span></li>
+<li><span style="font-weight: 400;">eCash fixes 402</span></li>
+<li><span style="font-weight: 400;">Everything in nostr can be one-click</span></li>
+<li><span style="font-weight: 400;">There&rsquo;s infinite nsecs (and they are free!)</span></li>
+<li><span style="font-weight: 400;">The magic of the nostr view-only mode</span></li>
+<li><span style="font-weight: 400;">The Local-first movement</span></li>
+<li><span style="font-weight: 400;">How to monetize without putting yourself in the middle?</span></li>
+<li><span style="font-weight: 400;">RoboSats as an example of open-source monetization</span></li>
+<li><span style="font-weight: 400;">The YouTube like count is a lie</span></li>
+</ul>
+<p><span style="font-weight: 400;">Further links:</span></p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Distributed_cognition"><span style="font-weight: 400;">https://en.wikipedia.org/wiki/Distributed_cognition</span></a></li>
+<li><a href="https://nips.nostr.com/60"><span style="font-weight: 400;">https://nips.nostr.com/60</span></a></li>
+<li><a href="https://nips.nostr.com/61"><span style="font-weight: 400;">https://nips.nostr.com/61</span></a></li>
+<li><a href="https://nips.nostr.com/89"><span style="font-weight: 400;">https://nips.nostr.com/89</span></a></li>
+<li><a href="https://github.com/hzrd149/blossom"><span style="font-weight: 400;">https://github.com/hzrd149/blossom</span></a></li>
+<li><a href="https://en.wikipedia.org/wiki/Zooko's_triangle"><span style="font-weight: 400;">https://en.wikipedia.org/wiki/Zooko&rsquo;s_triangle</span></a></li>
+<li><a href="https://www.jrepodcast.com/guest/adam-curry/"><span style="font-weight: 400;">https://www.jrepodcast.com/guest/adam-curry/</span></a></li>
+<li><a href="https://localfirstweb.dev/"><span style="font-weight: 400;">https://localfirstweb.dev/</span></a></li>
+<li><a href="https://www.localfirstconf.com/"><span style="font-weight: 400;">https://www.localfirstconf.com/</span></a></li>
+<li><a href="https://en.wikipedia.org/wiki/ICQ"><span style="font-weight: 400;">https://en.wikipedia.org/wiki/ICQ</span></a></li>
+<li><a href="https://appleinsider.com/articles/24/05/25/icq-1996-2024-the-first-universal-messenger-had-a-good-run-and-is-leaving-us-soon"><span style="font-weight: 400;">https://appleinsider.com/articles/24/05/25/icq-1996-2024-the-first-universal-messenger-had-a-good-run-and-is-leaving-us-soon</span></a></li>
+<li><a href="https://www.chatinum.com/articles/the-old-chat-apps-of-the-2000s"><span style="font-weight: 400;">https://www.chatinum.com/articles/the-old-chat-apps-of-the-2000s</span></a></li>
+<li><a href="https://en.wikipedia.org/wiki/Standard_RAID_levels"><span style="font-weight: 400;">https://en.wikipedia.org/wiki/Standard_RAID_levels</span></a></li>
+<li><a href="https://www.youtube.com/watch?v=oIkhgagvrjI"><span style="font-weight: 400;">https://www.youtube.com/watch?v=oIkhgagvrjI</span></a></li>
+<li><a href="https://njump.me/nosolutions@sovereignengineering.io"><span style="font-weight: 400;">https://njump.me/nosolutions@sovereignengineering.io</span></a></li>
+</ul>
+<p><br /><br /></p>]]></description>
       <itunes:image href="https://haven.sovereignengineering.io/47751a709b26379178c6da4817bae2c7ec0df90ac56c5660a72f805268e54525.jpg"/>
       <enclosure url="https://haven.sovereignengineering.io/454ec3ebf261084fe0abbcb6b31409cb29db23ed97784f896b60d7226bfe17ba.mp3" length="57403392" type="audio/mpeg"/>
       <podcast:person href="https://njump.me/f7z.io" img="https://primal.b-cdn.net/media-upload?u=https%3A%2F%2Fmedia.primal.net%2Fuploads%2Ff%2F32%2F11%2Ff32111d4786fd98af5ab2b89160f5f9c7f394feb9c9ea1a05d67d29f594c2c5f.jpg" group="cast" role="co-host">Pablo</podcast:person>
@@ -188,16 +233,91 @@ Est. 882,690. Inspired by Sovereign Engineering https://njump.me/sovereignengine
       <itunes:author>Gigi</itunes:author>
       <itunes:explicit>No</itunes:explicit>
       <itunes:keywords>nostr, development, sovereign engineering, shipping, memes, web, internet, conversation, dialog</itunes:keywords>
-      <itunes:summary><![CDATA[<p>&ldquo;We do not have the answers."</p>
-<p>In this dialogue:<br />- What is this No Solutions thing anyway?<br />- Why dialogue and distributed cognition is so important<br />- Why is nostr exiting for developers?<br />- Evolution, Life, and nostr<br />- What is the perfect nostr app, and why can't there be THE perfect nostr app?<br />- Why there is no "global" view in nostr<br />- Impossible problems vs. possible (but still hard) problems<br />- Blossom, blossom, and more blossom<br />- Zooko's Triangle<br />- Freedom Tech Building Blocks<br />- NIP-60/61, NIP-89<br />- Email vs ICQ<br />- Accepting constraints &amp; moving forward<br />- Nostr has data integrity, but no data guarantees<br />- Bitcoin as an extreme RAID system<br />- Fault tolerance vs. efficiency<br />- "Build the infrastructure, don't run it."<br />- eCash fixes 402<br />- Everything in nostr can be one-click<br />- There's infinite nsecs (and they are free!)<br />- The magic of the nostr view-only mode<br />- The Local-first movement<br />- How to monetize without putting yourself in the middle?<br />- RoboSats as an example of open-source monetization<br />- The YouTube like count is a lie</p>
-<p>Further links:<br />- https://en.wikipedia.org/wiki/Distributed_cognition<br />- https://nips.nostr.com/60<br />- https://nips.nostr.com/61<br />- https://nips.nostr.com/89<br />- https://github.com/hzrd149/blossom<br />- https://en.wikipedia.org/wiki/Zooko's_triangle<br />- https://www.jrepodcast.com/guest/adam-curry/<br />- https://localfirstweb.dev/<br />- https://www.localfirstconf.com/<br />- https://en.wikipedia.org/wiki/ICQ<br />- https://appleinsider.com/articles/24/05/25/icq-1996-2024-the-first-universal-messenger-had-a-good-run-and-is-leaving-us-soon<br />- https://www.chatinum.com/articles/the-old-chat-apps-of-the-2000s<br />- https://en.wikipedia.org/wiki/Standard_RAID_levels<br />- https://www.youtube.com/watch?v=oIkhgagvrjI<br />- https://njump.me/nosolutions@sovereignengineering.io</p>]]></itunes:summary>
+      <itunes:summary><![CDATA[<p><span style="font-weight: 400;">&ldquo;We do not have the answers."</span></p>
+<p><span style="font-weight: 400;">In this dialogue:</span></p>
+<ul>
+<li><span style="font-weight: 400;">What is this No Solutions thing anyway?</span></li>
+<li><span style="font-weight: 400;">Why dialogue and distributed cognition is so important</span></li>
+<li><span style="font-weight: 400;">Why is nostr exiting for developers?</span></li>
+<li><span style="font-weight: 400;">Evolution, Life, and nostr</span></li>
+<li><span style="font-weight: 400;">What is the perfect nostr app, and why can&rsquo;t there be THE perfect nostr app?</span></li>
+<li><span style="font-weight: 400;">Why there is no &ldquo;global&rdquo; view in nostr</span></li>
+<li><span style="font-weight: 400;">Impossible problems vs. possible (but still hard) problems</span></li>
+<li><span style="font-weight: 400;">Blossom, blossom, and more blossom</span></li>
+<li><span style="font-weight: 400;">Zooko&rsquo;s Triangle</span></li>
+<li><span style="font-weight: 400;">Freedom Tech Building Blocks</span></li>
+<li><span style="font-weight: 400;">NIP-60/61, NIP-89</span></li>
+<li><span style="font-weight: 400;">Email vs ICQ</span></li>
+<li><span style="font-weight: 400;">Accepting constraints &amp; moving forward</span></li>
+<li><span style="font-weight: 400;">Nostr has data integrity, but no data guarantees</span></li>
+<li><span style="font-weight: 400;">Bitcoin as an extreme RAID system</span></li>
+<li><span style="font-weight: 400;">Fault tolerance vs. efficiency</span></li>
+<li><span style="font-weight: 400;">&ldquo;Build the infrastructure, don&rsquo;t run it.&rdquo;</span></li>
+<li><span style="font-weight: 400;">eCash fixes 402</span></li>
+<li><span style="font-weight: 400;">Everything in nostr can be one-click</span></li>
+<li><span style="font-weight: 400;">There&rsquo;s infinite nsecs (and they are free!)</span></li>
+<li><span style="font-weight: 400;">The magic of the nostr view-only mode</span></li>
+<li><span style="font-weight: 400;">The Local-first movement</span></li>
+<li><span style="font-weight: 400;">How to monetize without putting yourself in the middle?</span></li>
+<li><span style="font-weight: 400;">RoboSats as an example of open-source monetization</span></li>
+<li><span style="font-weight: 400;">The YouTube like count is a lie</span></li>
+</ul>
+<p><span style="font-weight: 400;">Further links:</span></p>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Distributed_cognition"><span style="font-weight: 400;">https://en.wikipedia.org/wiki/Distributed_cognition</span></a></li>
+<li><a href="https://nips.nostr.com/60"><span style="font-weight: 400;">https://nips.nostr.com/60</span></a></li>
+<li><a href="https://nips.nostr.com/61"><span style="font-weight: 400;">https://nips.nostr.com/61</span></a></li>
+<li><a href="https://nips.nostr.com/89"><span style="font-weight: 400;">https://nips.nostr.com/89</span></a></li>
+<li><a href="https://github.com/hzrd149/blossom"><span style="font-weight: 400;">https://github.com/hzrd149/blossom</span></a></li>
+<li><a href="https://en.wikipedia.org/wiki/Zooko's_triangle"><span style="font-weight: 400;">https://en.wikipedia.org/wiki/Zooko&rsquo;s_triangle</span></a></li>
+<li><a href="https://www.jrepodcast.com/guest/adam-curry/"><span style="font-weight: 400;">https://www.jrepodcast.com/guest/adam-curry/</span></a></li>
+<li><a href="https://localfirstweb.dev/"><span style="font-weight: 400;">https://localfirstweb.dev/</span></a></li>
+<li><a href="https://www.localfirstconf.com/"><span style="font-weight: 400;">https://www.localfirstconf.com/</span></a></li>
+<li><a href="https://en.wikipedia.org/wiki/ICQ"><span style="font-weight: 400;">https://en.wikipedia.org/wiki/ICQ</span></a></li>
+<li><a href="https://appleinsider.com/articles/24/05/25/icq-1996-2024-the-first-universal-messenger-had-a-good-run-and-is-leaving-us-soon"><span style="font-weight: 400;">https://appleinsider.com/articles/24/05/25/icq-1996-2024-the-first-universal-messenger-had-a-good-run-and-is-leaving-us-soon</span></a></li>
+<li><a href="https://www.chatinum.com/articles/the-old-chat-apps-of-the-2000s"><span style="font-weight: 400;">https://www.chatinum.com/articles/the-old-chat-apps-of-the-2000s</span></a></li>
+<li><a href="https://en.wikipedia.org/wiki/Standard_RAID_levels"><span style="font-weight: 400;">https://en.wikipedia.org/wiki/Standard_RAID_levels</span></a></li>
+<li><a href="https://www.youtube.com/watch?v=oIkhgagvrjI"><span style="font-weight: 400;">https://www.youtube.com/watch?v=oIkhgagvrjI</span></a></li>
+<li><a href="https://njump.me/nosolutions@sovereignengineering.io"><span style="font-weight: 400;">https://njump.me/nosolutions@sovereignengineering.io</span></a></li>
+</ul>
+<p><br /><br /></p>]]></itunes:summary>
     </item>
     <item>
       <title>#01 - Start Ugly</title>
-      <description><![CDATA[<p>&ldquo;We have the chance of building the next iteration of the internet, and hopefully, not repeat the mistakes of the past."</p>
-<p>In this dialogue:<br />- Why starting ugly and shipping early is hard<br />- The ugliest thing that Pablo ever shipped<br />- "Happiness is shipping"<br />- Make it real first, you can make it pretty later<br />- Getting into the habit of shipping<br />- Highlighter and the hang-up of shipping something big<br />- How nostr allows you to have cash flow from the get-go<br />- #value4value for artists and devs<br />- What DHH &amp; 37Signals got right</p>
-<p>People and projects mentioned:&nbsp;<br />- fiatjaf<br />- DHH<br />- SuperTestnet<br />- nostr.build<br />- Highlighter<br />- Primal<br />- ProtonMail<br />- Hey</p>
-<p>Further links:<br />- https://excellentjourney.net/2015/03/04/art-fear-the-ceramics-class-and-quantity-before-quality/<br />- https://world.hey.com/dhh/that-shipping-feeling-b7c8c565<br />- https://world.hey.com/dhh/i-was-wrong-we-need-crypto-587ccb03<br />- https://sovereignengineering.io/<br />- https://dergigi.com/2023/04/04/purple-text-orange-highlights/<br />- https://highlighter.com/<br />- https://njump.me/nosolutions@sovereignengineering.io</p>]]></description>
+      <description><![CDATA[<p><span style="font-weight: 400;">&ldquo;We have the chance of building the next iteration of the internet, and hopefully, not repeat the mistakes of the past."</span></p>
+<p><span style="font-weight: 400;">In this dialogue:</span></p>
+<ul>
+<li><span style="font-weight: 400;">Why starting ugly and shipping early is hard</span></li>
+<li><span style="font-weight: 400;">The ugliest thing that Pablo ever shipped</span></li>
+<li><span style="font-weight: 400;">&ldquo;Happiness is shipping&rdquo;</span></li>
+<li><span style="font-weight: 400;">Make it real first, you can make it pretty later</span></li>
+<li><span style="font-weight: 400;">Getting into the habit of shipping</span></li>
+<li><span style="font-weight: 400;">Highlighter and the hang-up of shipping something big</span></li>
+<li><span style="font-weight: 400;">How nostr allows you to have cash flow from the get-go</span></li>
+<li><span style="font-weight: 400;">#value4value for artists and devs</span></li>
+<li><span style="font-weight: 400;">What DHH &amp; 37Signals got right</span></li>
+</ul>
+<p><span style="font-weight: 400;">People and projects mentioned:</span></p>
+<ul>
+<li><span style="font-weight: 400;">fiatjaf</span></li>
+<li><span style="font-weight: 400;">DHH</span></li>
+<li><span style="font-weight: 400;">SuperTestnet</span></li>
+<li><span style="font-weight: 400;">nostr.build</span></li>
+<li><span style="font-weight: 400;">Highlighter</span></li>
+<li><span style="font-weight: 400;">Primal</span></li>
+<li><span style="font-weight: 400;">ProtonMail</span></li>
+<li><span style="font-weight: 400;">Hey</span></li>
+</ul>
+<p><span style="font-weight: 400;">Further links:</span></p>
+<ul>
+<li><a href="https://excellentjourney.net/2015/03/04/art-fear-the-ceramics-class-and-quantity-before-quality/"><span style="font-weight: 400;">https://excellentjourney.net/2015/03/04/art-fear-the-ceramics-class-and-quantity-before-quality/</span></a></li>
+<li><a href="https://world.hey.com/dhh/that-shipping-feeling-b7c8c565"><span style="font-weight: 400;">https://world.hey.com/dhh/that-shipping-feeling-b7c8c565</span></a></li>
+<li><a href="https://world.hey.com/dhh/i-was-wrong-we-need-crypto-587ccb03"><span style="font-weight: 400;">https://world.hey.com/dhh/i-was-wrong-we-need-crypto-587ccb03</span></a></li>
+<li><a href="https://sovereignengineering.io/"><span style="font-weight: 400;">https://sovereignengineering.io/</span></a></li>
+<li><a href="https://dergigi.com/2023/04/04/purple-text-orange-highlights/"><span style="font-weight: 400;">https://dergigi.com/2023/04/04/purple-text-orange-highlights/</span></a></li>
+<li><a href="https://highlighter.com/"><span style="font-weight: 400;">https://highlighter.com/</span></a></li>
+<li><a href="https://njump.me/nosolutions@sovereignengineering.io"><span style="font-weight: 400;">https://njump.me/nosolutions@sovereignengineering.io</span></a></li>
+</ul>]]></description>
       <itunes:image href="https://haven.sovereignengineering.io/ecb05eff1c32855b96048f97b94580c7a4d9ee053245afd2051c433c64b39c20.jpg"/>
       <enclosure url="https://haven.sovereignengineering.io/efd05ea087e894bfa056803f881e8de25e775cee3d65f2ae303c1f282b619a61.mp3" length="34303296" type="audio/mpeg"/>
       <podcast:person href="https://njump.me/f7z.io" img="https://primal.b-cdn.net/media-upload?u=https%3A%2F%2Fmedia.primal.net%2Fuploads%2Ff%2F32%2F11%2Ff32111d4786fd98af5ab2b89160f5f9c7f394feb9c9ea1a05d67d29f594c2c5f.jpg" group="cast" role="co-host">Pablo</podcast:person>
@@ -216,10 +336,40 @@ Est. 882,690. Inspired by Sovereign Engineering https://njump.me/sovereignengine
       <itunes:author>Gigi</itunes:author>
       <itunes:explicit>No</itunes:explicit>
       <itunes:keywords>nostr, development, sovereign engineering, shipping, memes, web, internet, conversation, dialog</itunes:keywords>
-      <itunes:summary><![CDATA[<p>&ldquo;We have the chance of building the next iteration of the internet, and hopefully, not repeat the mistakes of the past."</p>
-<p>In this dialogue:<br />- Why starting ugly and shipping early is hard<br />- The ugliest thing that Pablo ever shipped<br />- "Happiness is shipping"<br />- Make it real first, you can make it pretty later<br />- Getting into the habit of shipping<br />- Highlighter and the hang-up of shipping something big<br />- How nostr allows you to have cash flow from the get-go<br />- #value4value for artists and devs<br />- What DHH &amp; 37Signals got right</p>
-<p>People and projects mentioned:&nbsp;<br />- fiatjaf<br />- DHH<br />- SuperTestnet<br />- nostr.build<br />- Highlighter<br />- Primal<br />- ProtonMail<br />- Hey</p>
-<p>Further links:<br />- https://excellentjourney.net/2015/03/04/art-fear-the-ceramics-class-and-quantity-before-quality/<br />- https://world.hey.com/dhh/that-shipping-feeling-b7c8c565<br />- https://world.hey.com/dhh/i-was-wrong-we-need-crypto-587ccb03<br />- https://sovereignengineering.io/<br />- https://dergigi.com/2023/04/04/purple-text-orange-highlights/<br />- https://highlighter.com/<br />- https://njump.me/nosolutions@sovereignengineering.io</p>]]></itunes:summary>
+      <itunes:summary><![CDATA[<p><span style="font-weight: 400;">&ldquo;We have the chance of building the next iteration of the internet, and hopefully, not repeat the mistakes of the past."</span></p>
+<p><span style="font-weight: 400;">In this dialogue:</span></p>
+<ul>
+<li><span style="font-weight: 400;">Why starting ugly and shipping early is hard</span></li>
+<li><span style="font-weight: 400;">The ugliest thing that Pablo ever shipped</span></li>
+<li><span style="font-weight: 400;">&ldquo;Happiness is shipping&rdquo;</span></li>
+<li><span style="font-weight: 400;">Make it real first, you can make it pretty later</span></li>
+<li><span style="font-weight: 400;">Getting into the habit of shipping</span></li>
+<li><span style="font-weight: 400;">Highlighter and the hang-up of shipping something big</span></li>
+<li><span style="font-weight: 400;">How nostr allows you to have cash flow from the get-go</span></li>
+<li><span style="font-weight: 400;">#value4value for artists and devs</span></li>
+<li><span style="font-weight: 400;">What DHH &amp; 37Signals got right</span></li>
+</ul>
+<p><span style="font-weight: 400;">People and projects mentioned:</span></p>
+<ul>
+<li><span style="font-weight: 400;">fiatjaf</span></li>
+<li><span style="font-weight: 400;">DHH</span></li>
+<li><span style="font-weight: 400;">SuperTestnet</span></li>
+<li><span style="font-weight: 400;">nostr.build</span></li>
+<li><span style="font-weight: 400;">Highlighter</span></li>
+<li><span style="font-weight: 400;">Primal</span></li>
+<li><span style="font-weight: 400;">ProtonMail</span></li>
+<li><span style="font-weight: 400;">Hey</span></li>
+</ul>
+<p><span style="font-weight: 400;">Further links:</span></p>
+<ul>
+<li><a href="https://excellentjourney.net/2015/03/04/art-fear-the-ceramics-class-and-quantity-before-quality/"><span style="font-weight: 400;">https://excellentjourney.net/2015/03/04/art-fear-the-ceramics-class-and-quantity-before-quality/</span></a></li>
+<li><a href="https://world.hey.com/dhh/that-shipping-feeling-b7c8c565"><span style="font-weight: 400;">https://world.hey.com/dhh/that-shipping-feeling-b7c8c565</span></a></li>
+<li><a href="https://world.hey.com/dhh/i-was-wrong-we-need-crypto-587ccb03"><span style="font-weight: 400;">https://world.hey.com/dhh/i-was-wrong-we-need-crypto-587ccb03</span></a></li>
+<li><a href="https://sovereignengineering.io/"><span style="font-weight: 400;">https://sovereignengineering.io/</span></a></li>
+<li><a href="https://dergigi.com/2023/04/04/purple-text-orange-highlights/"><span style="font-weight: 400;">https://dergigi.com/2023/04/04/purple-text-orange-highlights/</span></a></li>
+<li><a href="https://highlighter.com/"><span style="font-weight: 400;">https://highlighter.com/</span></a></li>
+<li><a href="https://njump.me/nosolutions@sovereignengineering.io"><span style="font-weight: 400;">https://njump.me/nosolutions@sovereignengineering.io</span></a></li>
+</ul>]]></itunes:summary>
     </item>
     <item>
       <title>#00 - Test Recording / Teaser</title>
