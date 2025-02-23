@@ -4,11 +4,11 @@
     <description>No solutions; only trade-offs. A walking dialog on what the right trade-off balance might be. 
 Est. 882,690. Inspired by Sovereign Engineering https://njump.me/sovereignengineering.io</description>
     <language>en</language>
-    <itunes:image href="https://haven.sovereignengineering.io/29995d6f3c18f5cd881519e08a34292ccbd2f0996df288e9b125dea69d259eee.jpg"/>
+    <itunes:image href="https://haven.sovereignengineering.io/47751a709b26379178c6da4817bae2c7ec0df90ac56c5660a72f805268e54525.jpg"/>
     <link>https://njump.me/no-solutions@sovereignengineering.io</link>
     <generator>Sovereign Feeds</generator>
     <image>
-      <url>https://haven.sovereignengineering.io/29995d6f3c18f5cd881519e08a34292ccbd2f0996df288e9b125dea69d259eee.jpg</url>
+      <url>https://haven.sovereignengineering.io/47751a709b26379178c6da4817bae2c7ec0df90ac56c5660a72f805268e54525.jpg</url>
       <link>https://njump.me/no-solutions@sovereignengineering.io</link>
       <title>No Solutions</title>
       <description>No solutions; only trade-offs. A walking dialog on what the right trade-off balance might be. 
@@ -37,11 +37,134 @@ Est. 882,690. Inspired by Sovereign Engineering https://njump.me/sovereignengine
     <itunes:keywords>nostr, development, sovereign engineering, shipping, memes, web, internet, conversation, dialog</itunes:keywords>
     <itunes:author>Gigi</itunes:author>
     <managingEditor>Sovereign Feeds</managingEditor>
-    <pubDate>Sat, 15 Feb 2025 19:35:12 +0000</pubDate>
-    <lastBuildDate>Sat, 15 Feb 2025 19:35:12 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Feb 2025 18:47:21 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Feb 2025 18:47:21 +0000</lastBuildDate>
     <category>Technology</category>
     <category/>
-    <podcast:guid>f5e79e28-04cc-5bcc-95c5-fe5f63e9e0af</podcast:guid>
+    <podcast:guid>54739014-2572-5a84-93b3-70a1f9973ae0</podcast:guid>
+    <item>
+      <title>#03 - Data Ownership is a Lie</title>
+      <description><![CDATA[<p><span style="font-weight: 400;">&ldquo;You&rsquo;ll get all that for free if you build it right&rdquo;</span></p>
+<p><span style="font-weight: 400;">In this dialogue:</span></p>
+<ul>
+<li><span style="font-weight: 400;">01: </span><a href="https://episodes.fm/aHR0cHM6Ly9zb3ZlcmVpZ25lbmdpbmVlcmluZy5pby9kaWFsb2d1ZXMueG1s/episode/Y2VjZDk1MjAtMmZjOC00ZDQ1LTkxNjEtMzRkNThlNTYzZTBm"><span style="font-weight: 400;">Start Ugly</span></a></li>
+<li><span style="font-weight: 400;">02: </span><a href="https://episodes.fm/aHR0cHM6Ly9zb3ZlcmVpZ25lbmdpbmVlcmluZy5pby9kaWFsb2d1ZXMueG1s/episode/NDIyMmVlYjktYTIxNy00ODdkLThmYTUtYTlkN2U0NDg5Njkx"><span style="font-weight: 400;">There is No Global</span></a></li>
+<li><span style="font-weight: 400;">Concept of ownership &amp; &ldquo;</span><a href="https://readwriteown.com/"><span style="font-weight: 400;">Read, Write, Own</span></a><span style="font-weight: 400;">&rdquo;</span></li>
+<li><a href="https://en.wikipedia.org/wiki/Shamir%27s_secret_sharing"><span style="font-weight: 400;">Shamir Secret Sharing</span></a><span style="font-weight: 400;"> and </span><a href="https://en.bitcoin.it/wiki/Timelock"><span style="font-weight: 400;">Timelocks</span></a></li>
+<li><a href="https://njump.me/nevent1qqs0pqg80hhm24zk8tu4r8ldqc49v2wmmfmqu0qqf6aux6eexnaecsczyzr4wpwsxjtrhpy84qjxg6rp92z5a5444antaymwreyvyh8fdf6s6vn8h9t"><span style="font-weight: 400;">&ldquo;No amount of violence will ever solve a math problem.&rdquo;</span></a></li>
+<li><span style="font-weight: 400;">You </span><a href="https://security.stackexchange.com/questions/35627/prove-that-you-deleted-the-file#comment55345_35627"><span style="font-weight: 400;">can&rsquo;t prove deletion</span></a><span style="font-weight: 400;"> of a key (or anything, really); best you can do is &ldquo;</span><a href="https://bitcoin.stackexchange.com/a/89560"><span style="font-weight: 400;">burn</span></a><span style="font-weight: 400;">&rdquo; bitcoin</span></li>
+<li><span style="font-weight: 400;">Data is information, which </span><a href="https://dergigi.com/threads/memes-vs-the-world"><span style="font-weight: 400;">behaves like an idea</span></a><span style="font-weight: 400;"> (not like an apple)</span></li>
+<li><span style="font-weight: 400;">&ldquo;If you have an apple and I have an apple and we exchange these apples then you and I will still each have one apple. But if you have an idea and I have an idea and we exchange these ideas, then each of us will have two ideas.&rdquo; &ndash; </span><a href="https://dergigi.com/threads/memes-vs-the-world"><span style="font-weight: 400;">https://dergigi.com/threads/memes-vs-the-world</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Why the </span><a href="https://www.pubky.org/"><span style="font-weight: 400;">Pubky</span></a><span style="font-weight: 400;"> architecture isn&rsquo;t great</span></li>
+<li><a href="https://cashu.space/"><span style="font-weight: 400;">Cashu</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Nutzaps: </span><a href="https://nips.nostr.com/60"><span style="font-weight: 400;">NIP-60</span></a><span style="font-weight: 400;"> / </span><a href="https://nips.nostr.com/61"><span style="font-weight: 400;">NIP-61</span></a></li>
+<li><span style="font-weight: 400;">How nutzaps fix fake zaps on </span><a href="https://zaplife.lol/"><span style="font-weight: 400;">zaplife.lol</span></a></li>
+<li><span style="font-weight: 400;">&ldquo;Ecash fixes </span><a href="https://err402.com/"><span style="font-weight: 400;">HTTP 402</span></a><span style="font-weight: 400;">&rdquo;</span></li>
+<li><span style="font-weight: 400;">&ldquo;[Bitcoin [and nostr]] take advantage of the nature of information being easy to spread but hard to stifle.&rdquo; &ndash;</span><a href="https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/"><span style="font-weight: 400;">Satoshi Nakamoto</span></a></li>
+<li><span style="font-weight: 400;">Discovery with </span><a href="https://nips.nostr.com/89"><span style="font-weight: 400;">NIP-89</span></a></li>
+<li><a href="https://nostr.band/?q=%23RunDVM"><span style="font-weight: 400;">#RunDVM</span></a><span style="font-weight: 400;"> with </span><a href="https://nips.nostr.com/90"><span style="font-weight: 400;">NIP-90</span></a></li>
+<li><span style="font-weight: 400;">Why micropayments can&rsquo;t work on credit rails, and how bitcoin is the </span><a href="https://dergigi.com/2022/12/02/bitcoin-is-the-rediscovery-of-money/"><span style="font-weight: 400;">rediscovery of money</span></a><span style="font-weight: 400;">.</span></li>
+<li><span style="font-weight: 400;">Putting payments into </span><a href="https://github.com/hzrd149/blossom"><span style="font-weight: 400;">blossom</span></a></li>
+<li><span style="font-weight: 400;">&ldquo;Money is essen&shy;tially a tool to keep track of who owes what to whom. Broadly speaking, every&shy;thing we have used as money up to now falls into two categories: physical artifacts and infor&shy;ma&shy;tional lists. Or, to use more common parlance: </span><a href="https://dergigi.com/2021/01/14/bitcoin-is-time/"><span style="font-weight: 400;">tokens and ledgers</span></a><span style="font-weight: 400;">.&rdquo;</span></li>
+<li><span style="font-weight: 400;">&ldquo;maximum utility in the world of Bitcoin entails the adoption of </span><a href="https://dergigi.com/2021/03/14/the-responsibility-of-adopting-bitcoin/"><span style="font-weight: 400;">maximum responsibility</span></a><span style="font-weight: 400;">.&rdquo;</span></li>
+<li><span style="font-weight: 400;">Complexity of Lightning vs the simplicity of eCash</span></li>
+<li><a href="https://github.com/greenart7c3/Amber"><span style="font-weight: 400;">Amber</span></a><span style="font-weight: 400;"> and </span><a href="https://github.com/greenart7c3/Citrine"><span style="font-weight: 400;">Citrine</span></a></li>
+<li><span style="font-weight: 400;">How Pablo became the </span><a href="https://www.bis.org/"><span style="font-weight: 400;">BIS</span></a></li>
+<li><span style="font-weight: 400;">12 words in your head can literally save your life</span></li>
+<li><span style="font-weight: 400;">The in-between of custodial and non-custodial in a multi-mint world</span></li>
+<li><span style="font-weight: 400;">Nutzaps integrated in </span><a href="https://chachi.chat/"><span style="font-weight: 400;">chachi.chat</span></a></li>
+<li><span style="font-weight: 400;">The intermediacy of nostr is magic</span></li>
+<li><span style="font-weight: 400;">In nostr you&rsquo;ll get a lot for free </span><a href="https://sovereignengineering.io/"><span style="font-weight: 400;">IF YOU BUILD IT RIGHT</span></a></li>
+<li><span style="font-weight: 400;">&ldquo;</span><a href="https://dergigi.com/2024/03/25/speaking-freely-online/"><span style="font-weight: 400;">Free Speech platforms cannot exist</span></a><span style="font-weight: 400;">; if there is a &lsquo;deplatform&rsquo; button, the button will be pressed.&rdquo;</span></li>
+<li><span style="font-weight: 400;">&ldquo;</span><a href="https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ"><span style="font-weight: 400;">Neither nostalgia nor utopia.</span></a><span style="font-weight: 400;">&rdquo;</span></li>
+<li><span style="font-weight: 400;">Solutions that make stuff worse over time vs solutions that make stuff better over time.</span></li>
+<li><span style="font-weight: 400;">#asknostr on passkeys, and why we think they&rsquo;ll make things worse over time.</span></li>
+<li><span style="font-weight: 400;">Authentication vs identity: &ldquo;</span><a href="https://www.authx.com/blog/identification-vs-authentication/"><span style="font-weight: 400;">identification asks, authentication proves</span></a><span style="font-weight: 400;">&rdquo;</span></li>
+<li><a href="https://web.archive.org/web/20161221170031/https://www.wired.com/2011/10/you-are-not-your-name-and-photo-a-call-to-re-imagine-identity/"><span style="font-weight: 400;">You are not your name and photo</span></a><span style="font-weight: 400;">; identity is prismatic</span></li>
+<li><span style="font-weight: 400;">(m00t&rsquo;s talk on it at </span><a href="https://youtu.be/e3Zs74IH0mc"><span style="font-weight: 400;">web summit 2011</span></a><span style="font-weight: 400;">)</span></li>
+<li><span style="font-weight: 400;">Starbug from CCC </span><a href="https://media.ccc.de/v/31c3_-_6450_-_de_-_saal_1_-_201412272030_-_ich_sehe_also_bin_ich_du_-_starbug#t=1859"><span style="font-weight: 400;">pwning TouchID</span></a><span style="font-weight: 400;"> biometrics from a high-res photo (<a href="https://arstechnica.com/information-technology/2014/12/politicians-fingerprint-reproduced-using-photos-of-her-hands/">article</a>)</span></li>
+<li><span style="font-weight: 400;">Key rotation and (American) </span><a href="https://njump.me/npub1rtlqca8r6auyaw5n5h3l5422dm4sry5dzfee4696fqe8s6qgudks7djtfs"><span style="font-weight: 400;">HODL</span></a></li>
+<li><span style="font-weight: 400;">Social recovery&nbsp;</span></li>
+<li><span style="font-weight: 400;">Multi-sig for nostr with </span><a href="https://github.com/nickfarrow/frostr"><span style="font-weight: 400;">FROSTR</span></a></li>
+</ul>
+<p><span style="font-weight: 400;">Links &amp; References</span></p>
+<ul>
+<li><span style="font-weight: 400;">Nostr Protocol Repository: </span><a href="https://github.com/nostr-protocol"><span style="font-weight: 400;">https://github.com/nostr-protocol</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Cashu (e-cash): </span><a href="https://github.com/cashubtc"><span style="font-weight: 400;">https://github.com/cashubtc</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">NIP-60 (Nutzaps): </span><a href="https://github.com/nostr-protocol/nips/blob/master/60.md"><span style="font-weight: 400;">https://github.com/nostr-protocol/nips/blob/master/60.md</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">NIP-89 (Service Discovery) &amp; NIP-90 (DVMs) &ndash; upcoming proposals: </span><a href="https://nips.nostr.com/89"><span style="font-weight: 400;">https://nips.nostr.com/89</span></a><span style="font-weight: 400;"> &amp; </span><a href="https://nips.nostr.com/90"><span style="font-weight: 400;">https://nips.nostr.com/90</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+</ul>
+<p>&nbsp;</p>]]></description>
+      <itunes:image href="https://haven.sovereignengineering.io/79d1c142837197308b8ec89478d33de473a87c3f27a1e14d25585c12bae15723.jpg"/>
+      <enclosure url="https://haven.sovereignengineering.io/d6cba62896e2db1220038210de2941420dbe768cef819327fdd0c55c71b0d46f.mp3" length="43295852" type="audio/mpeg"/>
+      <podcast:person href="https://njump.me/f7z.io" img="https://primal.b-cdn.net/media-upload?u=https%3A%2F%2Fmedia.primal.net%2Fuploads%2Ff%2F32%2F11%2Ff32111d4786fd98af5ab2b89160f5f9c7f394feb9c9ea1a05d67d29f594c2c5f.jpg" group="cast" role="co-host">Pablo</podcast:person>
+      <podcast:funding url="https://njump.me/npub1n00yy9y3704drtpph5wszen64w287nquftkcwcjv7gnnkpk2q54s73000n">Zaps are appreciated! #value4value ⚡🧡</podcast:funding>
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+        <podcast:valueRecipient name="Gigi" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="100"/>
+        <podcast:valueRecipient name="Pablo" type="lnaddress" address="pablof7z@primal.net" split="100"/>
+        <podcast:valueRecipient name="Sovereign Feeds" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" type="node" fee="true" split="1"/>
+      </podcast:value>
+      <guid isPermaLink="false">61015ff9-beb2-448d-84a1-cc1db2e8e70c</guid>
+      <itunes:subtitle>#03 - Data Ownership is a Lie</itunes:subtitle>
+      <itunes:duration>5412</itunes:duration>
+      <link>https://njump.me/nevent1qqsv9qtr2afluu7wea4qnd8syucaecudwysws4h6vdn3up7mm7wnayszyzdauss5j8e745dvyx736qtx024egl6vr39wmpmzfnezwwcxegzjkdtwwk6</link>
+      <pubDate>Sun, 23 Feb 2025 18:39:32 +0000</pubDate>
+      <author>Gigi</author>
+      <itunes:author>Gigi</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>nostr, development, sovereign engineering, shipping, memes, web, internet, conversation, dialog</itunes:keywords>
+      <itunes:summary><![CDATA[<p><span style="font-weight: 400;">&ldquo;You&rsquo;ll get all that for free if you build it right&rdquo;</span></p>
+<p><span style="font-weight: 400;">In this dialogue:</span></p>
+<ul>
+<li><span style="font-weight: 400;">01: </span><a href="https://episodes.fm/aHR0cHM6Ly9zb3ZlcmVpZ25lbmdpbmVlcmluZy5pby9kaWFsb2d1ZXMueG1s/episode/Y2VjZDk1MjAtMmZjOC00ZDQ1LTkxNjEtMzRkNThlNTYzZTBm"><span style="font-weight: 400;">Start Ugly</span></a></li>
+<li><span style="font-weight: 400;">02: </span><a href="https://episodes.fm/aHR0cHM6Ly9zb3ZlcmVpZ25lbmdpbmVlcmluZy5pby9kaWFsb2d1ZXMueG1s/episode/NDIyMmVlYjktYTIxNy00ODdkLThmYTUtYTlkN2U0NDg5Njkx"><span style="font-weight: 400;">There is No Global</span></a></li>
+<li><span style="font-weight: 400;">Concept of ownership &amp; &ldquo;</span><a href="https://readwriteown.com/"><span style="font-weight: 400;">Read, Write, Own</span></a><span style="font-weight: 400;">&rdquo;</span></li>
+<li><a href="https://en.wikipedia.org/wiki/Shamir%27s_secret_sharing"><span style="font-weight: 400;">Shamir Secret Sharing</span></a><span style="font-weight: 400;"> and </span><a href="https://en.bitcoin.it/wiki/Timelock"><span style="font-weight: 400;">Timelocks</span></a></li>
+<li><a href="https://njump.me/nevent1qqs0pqg80hhm24zk8tu4r8ldqc49v2wmmfmqu0qqf6aux6eexnaecsczyzr4wpwsxjtrhpy84qjxg6rp92z5a5444antaymwreyvyh8fdf6s6vn8h9t"><span style="font-weight: 400;">&ldquo;No amount of violence will ever solve a math problem.&rdquo;</span></a></li>
+<li><span style="font-weight: 400;">You </span><a href="https://security.stackexchange.com/questions/35627/prove-that-you-deleted-the-file#comment55345_35627"><span style="font-weight: 400;">can&rsquo;t prove deletion</span></a><span style="font-weight: 400;"> of a key (or anything, really); best you can do is &ldquo;</span><a href="https://bitcoin.stackexchange.com/a/89560"><span style="font-weight: 400;">burn</span></a><span style="font-weight: 400;">&rdquo; bitcoin</span></li>
+<li><span style="font-weight: 400;">Data is information, which </span><a href="https://dergigi.com/threads/memes-vs-the-world"><span style="font-weight: 400;">behaves like an idea</span></a><span style="font-weight: 400;"> (not like an apple)</span></li>
+<li><span style="font-weight: 400;">&ldquo;If you have an apple and I have an apple and we exchange these apples then you and I will still each have one apple. But if you have an idea and I have an idea and we exchange these ideas, then each of us will have two ideas.&rdquo; &ndash; </span><a href="https://dergigi.com/threads/memes-vs-the-world"><span style="font-weight: 400;">https://dergigi.com/threads/memes-vs-the-world</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Why the </span><a href="https://www.pubky.org/"><span style="font-weight: 400;">Pubky</span></a><span style="font-weight: 400;"> architecture isn&rsquo;t great</span></li>
+<li><a href="https://cashu.space/"><span style="font-weight: 400;">Cashu</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Nutzaps: </span><a href="https://nips.nostr.com/60"><span style="font-weight: 400;">NIP-60</span></a><span style="font-weight: 400;"> / </span><a href="https://nips.nostr.com/61"><span style="font-weight: 400;">NIP-61</span></a></li>
+<li><span style="font-weight: 400;">How nutzaps fix fake zaps on </span><a href="https://zaplife.lol/"><span style="font-weight: 400;">zaplife.lol</span></a></li>
+<li><span style="font-weight: 400;">&ldquo;Ecash fixes </span><a href="https://err402.com/"><span style="font-weight: 400;">HTTP 402</span></a><span style="font-weight: 400;">&rdquo;</span></li>
+<li><span style="font-weight: 400;">&ldquo;[Bitcoin [and nostr]] take advantage of the nature of information being easy to spread but hard to stifle.&rdquo; &ndash;</span><a href="https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/"><span style="font-weight: 400;">Satoshi Nakamoto</span></a></li>
+<li><span style="font-weight: 400;">Discovery with </span><a href="https://nips.nostr.com/89"><span style="font-weight: 400;">NIP-89</span></a></li>
+<li><a href="https://nostr.band/?q=%23RunDVM"><span style="font-weight: 400;">#RunDVM</span></a><span style="font-weight: 400;"> with </span><a href="https://nips.nostr.com/90"><span style="font-weight: 400;">NIP-90</span></a></li>
+<li><span style="font-weight: 400;">Why micropayments can&rsquo;t work on credit rails, and how bitcoin is the </span><a href="https://dergigi.com/2022/12/02/bitcoin-is-the-rediscovery-of-money/"><span style="font-weight: 400;">rediscovery of money</span></a><span style="font-weight: 400;">.</span></li>
+<li><span style="font-weight: 400;">Putting payments into </span><a href="https://github.com/hzrd149/blossom"><span style="font-weight: 400;">blossom</span></a></li>
+<li><span style="font-weight: 400;">&ldquo;Money is essen&shy;tially a tool to keep track of who owes what to whom. Broadly speaking, every&shy;thing we have used as money up to now falls into two categories: physical artifacts and infor&shy;ma&shy;tional lists. Or, to use more common parlance: </span><a href="https://dergigi.com/2021/01/14/bitcoin-is-time/"><span style="font-weight: 400;">tokens and ledgers</span></a><span style="font-weight: 400;">.&rdquo;</span></li>
+<li><span style="font-weight: 400;">&ldquo;maximum utility in the world of Bitcoin entails the adoption of </span><a href="https://dergigi.com/2021/03/14/the-responsibility-of-adopting-bitcoin/"><span style="font-weight: 400;">maximum responsibility</span></a><span style="font-weight: 400;">.&rdquo;</span></li>
+<li><span style="font-weight: 400;">Complexity of Lightning vs the simplicity of eCash</span></li>
+<li><a href="https://github.com/greenart7c3/Amber"><span style="font-weight: 400;">Amber</span></a><span style="font-weight: 400;"> and </span><a href="https://github.com/greenart7c3/Citrine"><span style="font-weight: 400;">Citrine</span></a></li>
+<li><span style="font-weight: 400;">How Pablo became the </span><a href="https://www.bis.org/"><span style="font-weight: 400;">BIS</span></a></li>
+<li><span style="font-weight: 400;">12 words in your head can literally save your life</span></li>
+<li><span style="font-weight: 400;">The in-between of custodial and non-custodial in a multi-mint world</span></li>
+<li><span style="font-weight: 400;">Nutzaps integrated in </span><a href="https://chachi.chat/"><span style="font-weight: 400;">chachi.chat</span></a></li>
+<li><span style="font-weight: 400;">The intermediacy of nostr is magic</span></li>
+<li><span style="font-weight: 400;">In nostr you&rsquo;ll get a lot for free </span><a href="https://sovereignengineering.io/"><span style="font-weight: 400;">IF YOU BUILD IT RIGHT</span></a></li>
+<li><span style="font-weight: 400;">&ldquo;</span><a href="https://dergigi.com/2024/03/25/speaking-freely-online/"><span style="font-weight: 400;">Free Speech platforms cannot exist</span></a><span style="font-weight: 400;">; if there is a &lsquo;deplatform&rsquo; button, the button will be pressed.&rdquo;</span></li>
+<li><span style="font-weight: 400;">&ldquo;</span><a href="https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ"><span style="font-weight: 400;">Neither nostalgia nor utopia.</span></a><span style="font-weight: 400;">&rdquo;</span></li>
+<li><span style="font-weight: 400;">Solutions that make stuff worse over time vs solutions that make stuff better over time.</span></li>
+<li><span style="font-weight: 400;">#asknostr on passkeys, and why we think they&rsquo;ll make things worse over time.</span></li>
+<li><span style="font-weight: 400;">Authentication vs identity: &ldquo;</span><a href="https://www.authx.com/blog/identification-vs-authentication/"><span style="font-weight: 400;">identification asks, authentication proves</span></a><span style="font-weight: 400;">&rdquo;</span></li>
+<li><a href="https://web.archive.org/web/20161221170031/https://www.wired.com/2011/10/you-are-not-your-name-and-photo-a-call-to-re-imagine-identity/"><span style="font-weight: 400;">You are not your name and photo</span></a><span style="font-weight: 400;">; identity is prismatic</span></li>
+<li><span style="font-weight: 400;">(m00t&rsquo;s talk on it at </span><a href="https://youtu.be/e3Zs74IH0mc"><span style="font-weight: 400;">web summit 2011</span></a><span style="font-weight: 400;">)</span></li>
+<li><span style="font-weight: 400;">Starbug from CCC </span><a href="https://media.ccc.de/v/31c3_-_6450_-_de_-_saal_1_-_201412272030_-_ich_sehe_also_bin_ich_du_-_starbug#t=1859"><span style="font-weight: 400;">pwning TouchID</span></a><span style="font-weight: 400;"> biometrics from a high-res photo (<a href="https://arstechnica.com/information-technology/2014/12/politicians-fingerprint-reproduced-using-photos-of-her-hands/">article</a>)</span></li>
+<li><span style="font-weight: 400;">Key rotation and (American) </span><a href="https://njump.me/npub1rtlqca8r6auyaw5n5h3l5422dm4sry5dzfee4696fqe8s6qgudks7djtfs"><span style="font-weight: 400;">HODL</span></a></li>
+<li><span style="font-weight: 400;">Social recovery&nbsp;</span></li>
+<li><span style="font-weight: 400;">Multi-sig for nostr with </span><a href="https://github.com/nickfarrow/frostr"><span style="font-weight: 400;">FROSTR</span></a></li>
+</ul>
+<p><span style="font-weight: 400;">Links &amp; References</span></p>
+<ul>
+<li><span style="font-weight: 400;">Nostr Protocol Repository: </span><a href="https://github.com/nostr-protocol"><span style="font-weight: 400;">https://github.com/nostr-protocol</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Cashu (e-cash): </span><a href="https://github.com/cashubtc"><span style="font-weight: 400;">https://github.com/cashubtc</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">NIP-60 (Nutzaps): </span><a href="https://github.com/nostr-protocol/nips/blob/master/60.md"><span style="font-weight: 400;">https://github.com/nostr-protocol/nips/blob/master/60.md</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">NIP-89 (Service Discovery) &amp; NIP-90 (DVMs) &ndash; upcoming proposals: </span><a href="https://nips.nostr.com/89"><span style="font-weight: 400;">https://nips.nostr.com/89</span></a><span style="font-weight: 400;"> &amp; </span><a href="https://nips.nostr.com/90"><span style="font-weight: 400;">https://nips.nostr.com/90</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+</ul>
+<p>&nbsp;</p>]]></itunes:summary>
+    </item>
     <item>
       <title>#02 - There is No Global</title>
       <description><![CDATA[<p>&ldquo;We do not have the answers."</p>
