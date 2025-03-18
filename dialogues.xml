@@ -37,11 +37,206 @@ Est. 882,690. Inspired by Sovereign Engineering https://njump.me/no-solutions@so
     <itunes:keywords>nostr, development, sovereign engineering, shipping, memes, web, internet, conversation, dialog</itunes:keywords>
     <itunes:author>Gigi</itunes:author>
     <managingEditor>Sovereign Feeds</managingEditor>
-    <pubDate>Fri, 14 Mar 2025 00:14:00 +0000</pubDate>
-    <lastBuildDate>Fri, 14 Mar 2025 00:14:00 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Mar 2025 16:46:19 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Mar 2025 16:46:19 +0000</lastBuildDate>
     <category>Technology</category>
     <category/>
-    <podcast:guid>291e3ebb-3dff-57c8-a5f4-1d4f7c1903f4</podcast:guid>
+    <podcast:guid>29c98dc6-6561-5e6c-b861-3855bb286b7a</podcast:guid>
+    <item>
+      <title><![CDATA[#05 - Prompt & Pray]]></title>
+      <description><![CDATA[<p><span style="font-weight: 400;">"What should the next iteration of the internet look like?"&nbsp;</span></p>
+<p><span style="font-weight: 400;">In this dialogue:</span></p>
+<ul>
+<li><a href="https://njump.me/npub1p4kg8zxukpym3h20erfa3samj00rm2gt4q5wfuyu3tg0x3jg3gesvncxf8"><span style="font-weight: 400;">Paul</span></a><span style="font-weight: 400;"> and his awesome </span><a href="https://lightning.store/product/nostr/"><span style="font-weight: 400;">nostr t-shirt</span></a></li>
+<li><span style="font-weight: 400;">Are we all just nostalgic?</span></li>
+<li><span style="font-weight: 400;">Where did the optimism of computing and the information superhighway go?</span></li>
+<li><span style="font-weight: 400;">We went from interop to pay-to-unlock.</span></li>
+<li><span style="font-weight: 400;">Do we have to live in the digital gulags forever?</span></li>
+<li><span style="font-weight: 400;">Homecooked meals and homecooked apps</span></li>
+<li><span style="font-weight: 400;">Paper straws and the downfall of Western Civilization</span></li>
+<li><span style="font-weight: 400;">"You need to be okay with people getting rekt"</span></li>
+<li><span style="font-weight: 400;">If the car would be introduced today, it would be illegal</span></li>
+<li><span style="font-weight: 400;">Bravery and personal </span><a href="https://dergigi.com/2021/03/14/the-responsibility-of-adopting-bitcoin/"><span style="font-weight: 400;">responsibility</span></a></li>
+<li><span style="font-weight: 400;">"nostr will only be what diehards will build it to be"</span></li>
+<li><span style="font-weight: 400;">Bad teleology is built into the current (non-nostr) app landscape&nbsp;</span></li>
+<li><span style="font-weight: 400;">"You can get a lot of the upside without holding your own keys&rdquo;</span></li>
+<li><span style="font-weight: 400;">&ldquo;...but you can't get ALL of the upside!"</span></li>
+<li><span style="font-weight: 400;">Expressiveness and </span><a href="https://dergigi.com/2024/03/25/speaking-freely-online/"><span style="font-weight: 400;">free speech online</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Freedom of Speech, Freedom of Assembly, and Financial Freedom in Cyberspace&nbsp;</span></li>
+<li><span style="font-weight: 400;">Self-publishing vs platform publishing&nbsp;</span></li>
+<li><span style="font-weight: 400;">Information calories. Can we count them?&nbsp;</span></li>
+<li><a href="https://en.wikipedia.org/wiki/Don%27t_Make_Me_Think"><span style="font-weight: 400;">Don't make me think!&nbsp;</span></a></li>
+<li><span style="font-weight: 400;">Is not being forced to think part of the problem?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Mutiny &amp; bitcoin UX that's too easy&nbsp;</span></li>
+<li><span style="font-weight: 400;">Games and costly mistakes&nbsp;</span></li>
+<li><span style="font-weight: 400;">The early days: software distribution via print magazines&nbsp;</span></li>
+<li><span style="font-weight: 400;">Prompting allows you to define your own teleology&nbsp;</span></li>
+<li><a href="https://vibetools-xyz.vercel.app/"><span style="font-weight: 400;">Vibe coding</span></a><span style="font-weight: 400;"> and </span><a href="https://cursor.ai/"><span style="font-weight: 400;">Cursor</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">"The hard part is to figure out what you want."&nbsp;</span></li>
+<li><span style="font-weight: 400;">"What should the next iteration of the internet look like?"&nbsp;</span></li>
+<li><span style="font-weight: 400;">GenZ doesn't know shit about </span><a href="https://futurism.com/the-byte/gen-z-kids-file-systems"><span style="font-weight: 400;">files and folders</span></a></li>
+<li><span style="font-weight: 400;">Why files are great&nbsp;</span></li>
+<li><span style="font-weight: 400;">Gigi's </span><a href="https://syncthing.net/"><span style="font-weight: 400;">SyncThing</span></a><span style="font-weight: 400;"> &amp; </span><a href="https://standardnotes.com/"><span style="font-weight: 400;">Standard Notes</span></a><span style="font-weight: 400;"> setup&nbsp;</span></li>
+<li><span style="font-weight: 400;">File-based apps like </span><a href="https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer"><span style="font-weight: 400;">Smart AudioBook Player</span></a></li>
+<li><span style="font-weight: 400;">Reading apps like Pocket, Instapaper, and </span><a href="https://readwise.io/read"><span style="font-weight: 400;">Readwise Reader</span></a></li>
+<li><span style="font-weight: 400;">Saving </span><a href="https://hoarder.app/"><span style="font-weight: 400;">all the things</span></a><span style="font-weight: 400;"> &amp; linking stuff together&nbsp;</span></li>
+<li><span style="font-weight: 400;">Clips of podcasts and videos, e.g. </span><a href="https://fountain.fm/"><span style="font-weight: 400;">Fountain</span></a></li>
+<li><span style="font-weight: 400;">A </span><a href="https://en.wikipedia.org/wiki/Commonplace_book"><span style="font-weight: 400;">Commonplace Book</span></a><span style="font-weight: 400;"> to cyberspace</span></li>
+<li><span style="font-weight: 400;">Creating a "Family Bible" app</span></li>
+<li><span style="font-weight: 400;">If you want to maximize profits in the attention economy, you have to get users </span><a href="https://archive.org/details/hookedhowtobuild0000eyal"><span style="font-weight: 400;">addicted</span></a></li>
+<li><span style="font-weight: 400;">(Zaps potentially fix this, as </span><a href="https://njump.me/nevent1qvzqqqqqqypzqmjxss3dld622uu8q25gywum9qtg4w4cv4064jmg20xsac2aam5nqyghwumn8ghj7mn0wd68ytnhd9hx2tcpz4mhxue69uhkummnw3ezummcw3ezuer9wchsqgqd403237d80jx3q705graa8j0s6kwyhgy228tlsywwawjckq4z25vvfpra"><span style="font-weight: 400;">you wouldn&rsquo;t zap a car crash</span></a><span style="font-weight: 400;">)</span></li>
+<li><span style="font-weight: 400;">Let computers do computer work, let humans be humans</span></li>
+<li><span style="font-weight: 400;">"The end is not being on the computer"</span></li>
+<li><span style="font-weight: 400;">Solo private / group private / public&nbsp;</span></li>
+<li><span style="font-weight: 400;">Liberal vs Conservative sentiment in social environments&nbsp;</span></li>
+<li><span style="font-weight: 400;">Whom to care about?&nbsp;</span></li>
+<li><a href="https://www.nobsbitcoin.com/vertex-web-of-trust-as-a-service/"><span style="font-weight: 400;">Web of trust</span></a><span style="font-weight: 400;"> &amp; our understanding of it</span></li>
+<li><span style="font-weight: 400;">Forgiveness, Trust, and Repeat Games&nbsp;</span></li>
+<li><span style="font-weight: 400;">Tit-for-tat and </span><a href="https://youtu.be/puN_vAsWipQ"><span style="font-weight: 400;">forgiving tit-for-tat</span></a></li>
+<li><span style="font-weight: 400;">Three strikes and you're out!&nbsp;</span></li>
+<li><span style="font-weight: 400;">"Choose your gulag" is the alternative to nostr&nbsp;</span></li>
+<li><span style="font-weight: 400;">7-generation thinking&nbsp;</span></li>
+<li><a href="https://2140.dev/"><span style="font-weight: 400;">2140</span></a></li>
+<li><a href="https://bitcoin-resources.com/books/the-sovereign-individual"><span style="font-weight: 400;">The Sovereign Individual</span></a><span style="font-weight: 400;"> is embedded in a social structure, always</span></li>
+<li><a href="https://njump.me/nevent1qvzqqqqqqypzpq7enxs5scju854msxd0xpjvpa4p94763rmgktrfyg0n5arpw8geqyg8wumn8ghj7mn09eehgu3wvdez7qgewaehxw309aex2mrp0yh8xmn0wf6zuum0vd5kzmp0qqsqquq920a7psq8x3w9apyttdwa8glz6rm8scgaqjur6kg868gvfxgte0cu9"><span style="font-weight: 400;">I, Pencil</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Jungle vs Civilization&nbsp;</span></li>
+<li><span style="font-weight: 400;">Fiat = because I said so (&ldquo;Fiat Lux&rdquo; - </span><a href="https://en.wikipedia.org/wiki/Let_there_be_light"><span style="font-weight: 400;">Let there be light</span></a><span style="font-weight: 400;">)</span></li>
+<li><span style="font-weight: 400;">Do we need leaders in bitcoin?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Peterson Fallacy / </span><a href="https://youtu.be/Xh0HW-GS-zk"><span style="font-weight: 400;">God vs Bitcoin</span></a></li>
+<li><span style="font-weight: 400;">Jesus early followers were the </span><a href="https://www.faithexplorershub.in/2024/09/followers-of-way-early-identity-of.html"><span style="font-weight: 400;">Followers of The Way</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Zaps are not payments&nbsp;</span></li>
+<li><span style="font-weight: 400;">Zaps are not "</span><a href="https://value4value.info/"><span style="font-weight: 400;">tips</span></a><span style="font-weight: 400;">"&nbsp;</span></li>
+<li><span style="font-weight: 400;">Bitstein &amp; Pierre: </span><a href="https://news.nakamotoinstitute.org/p/introducing-the-reorg"><span style="font-weight: 400;">The Reorg</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Vervaeke: &ldquo;</span><a href="https://youtu.be/yImlXr5Tr8g?t=4637"><span style="font-weight: 400;">Where do you go for wisdom?</span></a><span style="font-weight: 400;">&rdquo;</span></li>
+<li><span style="font-weight: 400;">Rough consensus and </span><a href="https://scholar.google.com/citations?user=bi4fAa0AAAAJ&amp;hl=en"><span style="font-weight: 400;">Pieter Wuille</span></a></li>
+<li><span style="font-weight: 400;">"There is no such thing as a leaderless system"&nbsp;</span></li>
+<li><a href="https://youtu.be/2kecGImu334"><span style="font-weight: 400;">Wisdom</span></a><span style="font-weight: 400;"> in cyberspace&nbsp;</span></li>
+<li><span style="font-weight: 400;">Can we build wise tools?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Prompting the Bible, </span><a href="https://github.com/ortegaalfredo/ChristGPT"><span style="font-weight: 400;">ChristGPT</span></a><span style="font-weight: 400;">, and Bible Slop&nbsp;</span></li>
+<li><a href="https://en.wikipedia.org/wiki/Gell-Mann_amnesia_effect"><span style="font-weight: 400;">Gell-Mann amnesia</span></a><span style="font-weight: 400;"> effect</span></li>
+<li><span style="font-weight: 400;">Vervaekes AI argument: </span><a href="https://youtu.be/A-_RdKiDbz4"><span style="font-weight: 400;">The Coming Thresholds and The Path We Must Take</span></a></li>
+<li><span style="font-weight: 400;">Where do new ideas come from?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Sandwich prompting style&nbsp;</span></li>
+<li><span style="font-weight: 400;">The Tale of </span><a href="https://www.americanfolklore.net/john-henry-the-steel-driving-man/"><span style="font-weight: 400;">John Henry</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><a href="https://youtu.be/t98QhYdCyEc"><span style="font-weight: 400;">Silicon Sages</span></a></li>
+<li><a href="https://en.wikipedia.org/wiki/Conscience"><span style="font-weight: 400;">Conscience</span></a><span style="font-weight: 400;"> and </span><a href="https://www.goodreads.com/quotes/445636-this-is-the-other-secret-that-real-artists-know-and"><span style="font-weight: 400;">The Muse</span></a></li>
+<li><span style="font-weight: 400;">Hypermedia and </span><a href="https://github.com/futurepaul/hypernote/"><span style="font-weight: 400;">HyperNote</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><a href="https://www.wired.com/2013/12/glasshole/"><span style="font-weight: 400;">Glassholes</span></a><span style="font-weight: 400;">, Google Glasses, and wearable technology</span></li>
+<li><span style="font-weight: 400;">Prompting &amp; Praying for </span><a href="https://njump.me/nevent1qvzqqqqqqypzqmjxss3dld622uu8q25gywum9qtg4w4cv4064jmg20xsac2aam5nqyghwumn8ghj7mn0wd68ytnhd9hx2tcpz4mhxue69uhkummnw3ezummcw3ezuer9wchsqgqd403237d80jx3q705graa8j0s6kwyhgy228tlsywwawjckq4z25vvfpra"><span style="font-weight: 400;">An Internet Worth Having</span></a></li>
+</ul>
+<p><span style="font-weight: 400;">Books mentioned:</span></p>
+<ul>
+<li><span style="font-weight: 400;">The Bible</span></li>
+<li><a href="https://fee.org/ebooks/i-pencil/"><span style="font-weight: 400;">I, Pencil</span></a><span style="font-weight: 400;"> by Leonard E. Read</span></li>
+<li><a href="https://en.wikipedia.org/wiki/Don%27t_Make_Me_Think"><span style="font-weight: 400;">Don't make me think! </span></a><span style="font-weight: 400;">by Steve Krug</span></li>
+<li><a href="https://bitcoin-resources.com/books/the-sovereign-individual"><span style="font-weight: 400;">The Sovereign Individual</span></a><span style="font-weight: 400;"> by James Dale Davidson and William Rees-Mogg</span></li>
+</ul>]]></description>
+      <itunes:image href="https://haven.sovereignengineering.io/20d8fed3d974416aed076f70d7ed203f40e462f8f9581ae85f97f9cbcf3f34d4.jpg"/>
+      <enclosure url="https://haven.sovereignengineering.io/409edb5b9bdf2a76b0b94747667e815f9388c80b0ffed213cf0b4d4346bc3c72.mp3" length="51983084" type="audio/mpeg"/>
+      <podcast:person href="https://paul.lol/" img="https://paul.lol/waffle_animated.gif" group="cast" role="guest">Paul</podcast:person>
+      <podcast:funding url="https://njump.me/npub1n00yy9y3704drtpph5wszen64w287nquftkcwcjv7gnnkpk2q54s73000n">Zaps are appreciated! #value4value ⚡🧡</podcast:funding>
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+        <podcast:valueRecipient name="Gigi" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="100"/>
+        <podcast:valueRecipient name="Sovereign Feeds" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" type="node" fee="true" split="1"/>
+        <podcast:valueRecipient name="Paul" type="lnaddress" address="futurepaul@primal.net" split="100"/>
+      </podcast:value>
+      <guid isPermaLink="false">35ccd902-2bf8-4e61-8212-e7a770a9faa4</guid>
+      <itunes:subtitle><![CDATA[#05 - Prompt & Pray]]></itunes:subtitle>
+      <itunes:duration>6498</itunes:duration>
+      <link>https://njump.me/nevent1qvzqqqqqqypzpx77gg2frul26xkzr0gaq9n842u50axpcjhdsa3yeu388vrv5pftqys8wumn8ghj7mn0wd68ytn9d9h82mny0fmkzmn6d9njuumsv93k2tcppemhxue69uhkummn9ekx7mp0qqsfcc4s4duhjfv6kv5dnp32qf5eud3p05ljc4kyvdwjgv8ldqctd7q8h0pj5</link>
+      <pubDate>Tue, 18 Mar 2025 15:23:09 +0000</pubDate>
+      <author>Gigi</author>
+      <itunes:author>Gigi</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>nostr, development, sovereign engineering, shipping, memes, web, internet, conversation, dialog</itunes:keywords>
+      <itunes:summary><![CDATA[<p><span style="font-weight: 400;">"What should the next iteration of the internet look like?"&nbsp;</span></p>
+<p><span style="font-weight: 400;">In this dialogue:</span></p>
+<ul>
+<li><a href="https://njump.me/npub1p4kg8zxukpym3h20erfa3samj00rm2gt4q5wfuyu3tg0x3jg3gesvncxf8"><span style="font-weight: 400;">Paul</span></a><span style="font-weight: 400;"> and his awesome </span><a href="https://lightning.store/product/nostr/"><span style="font-weight: 400;">nostr t-shirt</span></a></li>
+<li><span style="font-weight: 400;">Are we all just nostalgic?</span></li>
+<li><span style="font-weight: 400;">Where did the optimism of computing and the information superhighway go?</span></li>
+<li><span style="font-weight: 400;">We went from interop to pay-to-unlock.</span></li>
+<li><span style="font-weight: 400;">Do we have to live in the digital gulags forever?</span></li>
+<li><span style="font-weight: 400;">Homecooked meals and homecooked apps</span></li>
+<li><span style="font-weight: 400;">Paper straws and the downfall of Western Civilization</span></li>
+<li><span style="font-weight: 400;">"You need to be okay with people getting rekt"</span></li>
+<li><span style="font-weight: 400;">If the car would be introduced today, it would be illegal</span></li>
+<li><span style="font-weight: 400;">Bravery and personal </span><a href="https://dergigi.com/2021/03/14/the-responsibility-of-adopting-bitcoin/"><span style="font-weight: 400;">responsibility</span></a></li>
+<li><span style="font-weight: 400;">"nostr will only be what diehards will build it to be"</span></li>
+<li><span style="font-weight: 400;">Bad teleology is built into the current (non-nostr) app landscape&nbsp;</span></li>
+<li><span style="font-weight: 400;">"You can get a lot of the upside without holding your own keys&rdquo;</span></li>
+<li><span style="font-weight: 400;">&ldquo;...but you can't get ALL of the upside!"</span></li>
+<li><span style="font-weight: 400;">Expressiveness and </span><a href="https://dergigi.com/2024/03/25/speaking-freely-online/"><span style="font-weight: 400;">free speech online</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Freedom of Speech, Freedom of Assembly, and Financial Freedom in Cyberspace&nbsp;</span></li>
+<li><span style="font-weight: 400;">Self-publishing vs platform publishing&nbsp;</span></li>
+<li><span style="font-weight: 400;">Information calories. Can we count them?&nbsp;</span></li>
+<li><a href="https://en.wikipedia.org/wiki/Don%27t_Make_Me_Think"><span style="font-weight: 400;">Don't make me think!&nbsp;</span></a></li>
+<li><span style="font-weight: 400;">Is not being forced to think part of the problem?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Mutiny &amp; bitcoin UX that's too easy&nbsp;</span></li>
+<li><span style="font-weight: 400;">Games and costly mistakes&nbsp;</span></li>
+<li><span style="font-weight: 400;">The early days: software distribution via print magazines&nbsp;</span></li>
+<li><span style="font-weight: 400;">Prompting allows you to define your own teleology&nbsp;</span></li>
+<li><a href="https://vibetools-xyz.vercel.app/"><span style="font-weight: 400;">Vibe coding</span></a><span style="font-weight: 400;"> and </span><a href="https://cursor.ai/"><span style="font-weight: 400;">Cursor</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">"The hard part is to figure out what you want."&nbsp;</span></li>
+<li><span style="font-weight: 400;">"What should the next iteration of the internet look like?"&nbsp;</span></li>
+<li><span style="font-weight: 400;">GenZ doesn't know shit about </span><a href="https://futurism.com/the-byte/gen-z-kids-file-systems"><span style="font-weight: 400;">files and folders</span></a></li>
+<li><span style="font-weight: 400;">Why files are great&nbsp;</span></li>
+<li><span style="font-weight: 400;">Gigi's </span><a href="https://syncthing.net/"><span style="font-weight: 400;">SyncThing</span></a><span style="font-weight: 400;"> &amp; </span><a href="https://standardnotes.com/"><span style="font-weight: 400;">Standard Notes</span></a><span style="font-weight: 400;"> setup&nbsp;</span></li>
+<li><span style="font-weight: 400;">File-based apps like </span><a href="https://play.google.com/store/apps/details?id=ak.alizandro.smartaudiobookplayer"><span style="font-weight: 400;">Smart AudioBook Player</span></a></li>
+<li><span style="font-weight: 400;">Reading apps like Pocket, Instapaper, and </span><a href="https://readwise.io/read"><span style="font-weight: 400;">Readwise Reader</span></a></li>
+<li><span style="font-weight: 400;">Saving </span><a href="https://hoarder.app/"><span style="font-weight: 400;">all the things</span></a><span style="font-weight: 400;"> &amp; linking stuff together&nbsp;</span></li>
+<li><span style="font-weight: 400;">Clips of podcasts and videos, e.g. </span><a href="https://fountain.fm/"><span style="font-weight: 400;">Fountain</span></a></li>
+<li><span style="font-weight: 400;">A </span><a href="https://en.wikipedia.org/wiki/Commonplace_book"><span style="font-weight: 400;">Commonplace Book</span></a><span style="font-weight: 400;"> to cyberspace</span></li>
+<li><span style="font-weight: 400;">Creating a "Family Bible" app</span></li>
+<li><span style="font-weight: 400;">If you want to maximize profits in the attention economy, you have to get users </span><a href="https://archive.org/details/hookedhowtobuild0000eyal"><span style="font-weight: 400;">addicted</span></a></li>
+<li><span style="font-weight: 400;">(Zaps potentially fix this, as </span><a href="https://njump.me/nevent1qvzqqqqqqypzqmjxss3dld622uu8q25gywum9qtg4w4cv4064jmg20xsac2aam5nqyghwumn8ghj7mn0wd68ytnhd9hx2tcpz4mhxue69uhkummnw3ezummcw3ezuer9wchsqgqd403237d80jx3q705graa8j0s6kwyhgy228tlsywwawjckq4z25vvfpra"><span style="font-weight: 400;">you wouldn&rsquo;t zap a car crash</span></a><span style="font-weight: 400;">)</span></li>
+<li><span style="font-weight: 400;">Let computers do computer work, let humans be humans</span></li>
+<li><span style="font-weight: 400;">"The end is not being on the computer"</span></li>
+<li><span style="font-weight: 400;">Solo private / group private / public&nbsp;</span></li>
+<li><span style="font-weight: 400;">Liberal vs Conservative sentiment in social environments&nbsp;</span></li>
+<li><span style="font-weight: 400;">Whom to care about?&nbsp;</span></li>
+<li><a href="https://www.nobsbitcoin.com/vertex-web-of-trust-as-a-service/"><span style="font-weight: 400;">Web of trust</span></a><span style="font-weight: 400;"> &amp; our understanding of it</span></li>
+<li><span style="font-weight: 400;">Forgiveness, Trust, and Repeat Games&nbsp;</span></li>
+<li><span style="font-weight: 400;">Tit-for-tat and </span><a href="https://youtu.be/puN_vAsWipQ"><span style="font-weight: 400;">forgiving tit-for-tat</span></a></li>
+<li><span style="font-weight: 400;">Three strikes and you're out!&nbsp;</span></li>
+<li><span style="font-weight: 400;">"Choose your gulag" is the alternative to nostr&nbsp;</span></li>
+<li><span style="font-weight: 400;">7-generation thinking&nbsp;</span></li>
+<li><a href="https://2140.dev/"><span style="font-weight: 400;">2140</span></a></li>
+<li><a href="https://bitcoin-resources.com/books/the-sovereign-individual"><span style="font-weight: 400;">The Sovereign Individual</span></a><span style="font-weight: 400;"> is embedded in a social structure, always</span></li>
+<li><a href="https://njump.me/nevent1qvzqqqqqqypzpq7enxs5scju854msxd0xpjvpa4p94763rmgktrfyg0n5arpw8geqyg8wumn8ghj7mn09eehgu3wvdez7qgewaehxw309aex2mrp0yh8xmn0wf6zuum0vd5kzmp0qqsqquq920a7psq8x3w9apyttdwa8glz6rm8scgaqjur6kg868gvfxgte0cu9"><span style="font-weight: 400;">I, Pencil</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Jungle vs Civilization&nbsp;</span></li>
+<li><span style="font-weight: 400;">Fiat = because I said so (&ldquo;Fiat Lux&rdquo; - </span><a href="https://en.wikipedia.org/wiki/Let_there_be_light"><span style="font-weight: 400;">Let there be light</span></a><span style="font-weight: 400;">)</span></li>
+<li><span style="font-weight: 400;">Do we need leaders in bitcoin?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Peterson Fallacy / </span><a href="https://youtu.be/Xh0HW-GS-zk"><span style="font-weight: 400;">God vs Bitcoin</span></a></li>
+<li><span style="font-weight: 400;">Jesus early followers were the </span><a href="https://www.faithexplorershub.in/2024/09/followers-of-way-early-identity-of.html"><span style="font-weight: 400;">Followers of The Way</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Zaps are not payments&nbsp;</span></li>
+<li><span style="font-weight: 400;">Zaps are not "</span><a href="https://value4value.info/"><span style="font-weight: 400;">tips</span></a><span style="font-weight: 400;">"&nbsp;</span></li>
+<li><span style="font-weight: 400;">Bitstein &amp; Pierre: </span><a href="https://news.nakamotoinstitute.org/p/introducing-the-reorg"><span style="font-weight: 400;">The Reorg</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Vervaeke: &ldquo;</span><a href="https://youtu.be/yImlXr5Tr8g?t=4637"><span style="font-weight: 400;">Where do you go for wisdom?</span></a><span style="font-weight: 400;">&rdquo;</span></li>
+<li><span style="font-weight: 400;">Rough consensus and </span><a href="https://scholar.google.com/citations?user=bi4fAa0AAAAJ&amp;hl=en"><span style="font-weight: 400;">Pieter Wuille</span></a></li>
+<li><span style="font-weight: 400;">"There is no such thing as a leaderless system"&nbsp;</span></li>
+<li><a href="https://youtu.be/2kecGImu334"><span style="font-weight: 400;">Wisdom</span></a><span style="font-weight: 400;"> in cyberspace&nbsp;</span></li>
+<li><span style="font-weight: 400;">Can we build wise tools?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Prompting the Bible, </span><a href="https://github.com/ortegaalfredo/ChristGPT"><span style="font-weight: 400;">ChristGPT</span></a><span style="font-weight: 400;">, and Bible Slop&nbsp;</span></li>
+<li><a href="https://en.wikipedia.org/wiki/Gell-Mann_amnesia_effect"><span style="font-weight: 400;">Gell-Mann amnesia</span></a><span style="font-weight: 400;"> effect</span></li>
+<li><span style="font-weight: 400;">Vervaekes AI argument: </span><a href="https://youtu.be/A-_RdKiDbz4"><span style="font-weight: 400;">The Coming Thresholds and The Path We Must Take</span></a></li>
+<li><span style="font-weight: 400;">Where do new ideas come from?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Sandwich prompting style&nbsp;</span></li>
+<li><span style="font-weight: 400;">The Tale of </span><a href="https://www.americanfolklore.net/john-henry-the-steel-driving-man/"><span style="font-weight: 400;">John Henry</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><a href="https://youtu.be/t98QhYdCyEc"><span style="font-weight: 400;">Silicon Sages</span></a></li>
+<li><a href="https://en.wikipedia.org/wiki/Conscience"><span style="font-weight: 400;">Conscience</span></a><span style="font-weight: 400;"> and </span><a href="https://www.goodreads.com/quotes/445636-this-is-the-other-secret-that-real-artists-know-and"><span style="font-weight: 400;">The Muse</span></a></li>
+<li><span style="font-weight: 400;">Hypermedia and </span><a href="https://github.com/futurepaul/hypernote/"><span style="font-weight: 400;">HyperNote</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><a href="https://www.wired.com/2013/12/glasshole/"><span style="font-weight: 400;">Glassholes</span></a><span style="font-weight: 400;">, Google Glasses, and wearable technology</span></li>
+<li><span style="font-weight: 400;">Prompting &amp; Praying for </span><a href="https://njump.me/nevent1qvzqqqqqqypzqmjxss3dld622uu8q25gywum9qtg4w4cv4064jmg20xsac2aam5nqyghwumn8ghj7mn0wd68ytnhd9hx2tcpz4mhxue69uhkummnw3ezummcw3ezuer9wchsqgqd403237d80jx3q705graa8j0s6kwyhgy228tlsywwawjckq4z25vvfpra"><span style="font-weight: 400;">An Internet Worth Having</span></a></li>
+</ul>
+<p><span style="font-weight: 400;">Books mentioned:</span></p>
+<ul>
+<li><span style="font-weight: 400;">The Bible</span></li>
+<li><a href="https://fee.org/ebooks/i-pencil/"><span style="font-weight: 400;">I, Pencil</span></a><span style="font-weight: 400;"> by Leonard E. Read</span></li>
+<li><a href="https://en.wikipedia.org/wiki/Don%27t_Make_Me_Think"><span style="font-weight: 400;">Don't make me think! </span></a><span style="font-weight: 400;">by Steve Krug</span></li>
+<li><a href="https://bitcoin-resources.com/books/the-sovereign-individual"><span style="font-weight: 400;">The Sovereign Individual</span></a><span style="font-weight: 400;"> by James Dale Davidson and William Rees-Mogg</span></li>
+</ul>]]></itunes:summary>
+    </item>
     <item>
       <title>#04 - Ecash Fixes 402</title>
       <description><![CDATA[<p><span style="font-weight: 400;">&ldquo;I don&rsquo;t believe in Utopia anymore. I&rsquo;m too old for that.&rdquo;</span></p>
