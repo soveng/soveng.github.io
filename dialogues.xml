@@ -37,11 +37,250 @@ Est. 882,690. Inspired by Sovereign Engineering https://njump.me/no-solutions@so
     <itunes:keywords>nostr, development, sovereign engineering, shipping, memes, web, internet, conversation, dialog</itunes:keywords>
     <itunes:author>Gigi</itunes:author>
     <managingEditor>Sovereign Feeds</managingEditor>
-    <pubDate>Tue, 18 Mar 2025 16:46:19 +0000</pubDate>
-    <lastBuildDate>Tue, 18 Mar 2025 16:46:19 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Mar 2025 18:16:41 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Mar 2025 18:16:41 +0000</lastBuildDate>
     <category>Technology</category>
     <category/>
-    <podcast:guid>29c98dc6-6561-5e6c-b861-3855bb286b7a</podcast:guid>
+    <podcast:guid>2135c2cd-3101-573f-b76a-59fddef21207</podcast:guid>
+    <item>
+      <title>#06 - The Winds of AI</title>
+      <description><![CDATA[<p><span style="font-weight: 400;">&ldquo;The human spirit should remain in charge.&rdquo;</span></p>
+<p><a href="https://njump.me/npub1l2vyh47mk2p0qlsku7hg0vn29faehy9hy34ygaclpn66ukqp3afqutajft"><span style="font-weight: 400;">Pablo</span></a><span style="font-weight: 400;"> &amp; </span><a href="https://njump.me/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc"><span style="font-weight: 400;">Gigi</span></a><span style="font-weight: 400;"> talk about the wind.</span></p>
+<p><span style="font-weight: 400;">In this dialogue:</span></p>
+<ul>
+<li><span dir="auto">Wind </span></li>
+<li><span dir="auto">More </span><span dir="auto">Wind </span></li>
+<li><span dir="auto">Information </span><span dir="auto">Calories, </span><span dir="auto">and </span><span dir="auto">how </span><span dir="auto">to </span><span dir="auto">measure </span><span dir="auto">them </span></li>
+<li><span dir="auto"><a href="https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing">Digital Wellbeing</a> </span></li>
+<li><span dir="auto"><a href="https://www.rescuetime.com/">Rescue Time</a> </span></li>
+<li><span dir="auto">Teleology </span><span dir="auto">of </span><span dir="auto">Technology </span></li>
+<li><span dir="auto">Platforms </span><span dir="auto">get </span><span dir="auto">users </span> <a href="https://www.uxmatters.com/mt/archives/2021/06/book-review-hooked-how-to-build-habit-forming-products.php">Hooked</a> <span dir="auto">(book) </span></li>
+<li><span dir="auto">Feeds </span><span dir="auto">are </span> <a href="https://ihpi.umich.edu/news/social-media-copies-gambling-methods-create-psychological-cravings">slot machines</a></li>
+<li><a href="https://cdn.wallpapersafari.com/87/8/PeUWbM.jpg"><span dir="auto">Movie </span><span dir="auto">Walls </span></a></li>
+<li><span dir="auto">Tweetdeck </span><span dir="auto">and </span> <a href="https://damus.io/notedeck/">Notedeck</a></li>
+<li><span dir="auto">IRC </span><span dir="auto">vs </span><span dir="auto">the </span><span dir="auto">modern </span><span dir="auto">feed </span></li>
+<li><span dir="auto">37Signals: </span><span dir="auto">&ldquo;</span><a href="https://www.hey.com/pricing/">Hey</a> <span dir="auto">, </span><span dir="auto">let&rsquo;s </span><span dir="auto">just </span><span dir="auto">charge </span><span dir="auto">users!&rdquo; </span></li>
+<li><span dir="auto">&ldquo;</span><a href="https://njump.me/nevent1qqsqm2lz4ru6wlydzpulgs8m60ylp4vufwsg55whlqgua6a93vp2y4gzyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxzzxtzc">You wouldn&rsquo;t zap a car crash</a><span dir="auto">&rdquo; </span></li>
+<li><span dir="auto">Catering </span><span dir="auto">to </span><span dir="auto">our </span><span dir="auto">highest </span><span dir="auto">self </span><span dir="auto">VS </span><span dir="auto">catering </span><span dir="auto">to </span><span dir="auto">our </span><span dir="auto">lowest </span><span dir="auto">self </span></li>
+<li><span dir="auto">Devolution </span><span dir="auto">of </span><span dir="auto">YouTube </span> <a href="https://daringfireball.net/linked/2017/03/18/youtube-thumbs-stars">5-star ratings</a> <span dir="auto">to </span><span dir="auto">thumb </span><span dir="auto">up/down </span><span dir="auto">to </span> <a href="https://www.makeuseof.com/the-real-reason-why-youtube-hid-dislikes/">views</a></li>
+<li><span dir="auto">Long </span><span dir="auto">videos </span><span dir="auto">vs </span><span dir="auto">shorts </span></li>
+<li><span dir="auto">The </span><span dir="auto">internet </span><span dir="auto">had </span><span dir="auto">to </span><span dir="auto">monetize </span><span dir="auto">itself </span><span dir="auto">somehow </span><span dir="auto">(with </span> <a href="https://dergigi.com/2022/12/18/a-vision-for-a-value-enabled-web/#attention">attention</a> <span dir="auto">) </span></li>
+<li><span dir="auto">&ldquo;Don&rsquo;t </span><span dir="auto">be </span><span dir="auto">evil&rdquo; </span><span dir="auto">and </span><span dir="auto">why </span><span dir="auto">Google </span><span dir="auto">had </span><span dir="auto">to </span> <a href="https://www.zdnet.com/article/google-erases-dont-be-evil-from-code-of-conduct-after-18-years/">remove it</a></li>
+<li><span dir="auto"><a href="https://questr.vercel.app/">Questr</a> : 2D exploration of nostr </span></li>
+<li><span dir="auto"><a href="https://www.onosendai.tech/">ONOSENDAI</a> by Arkinox </span></li>
+<li><span dir="auto">Freedom </span><span dir="auto">tech </span><span dir="auto">&amp; </span><span dir="auto">Freedom </span><span dir="auto">from </span><span dir="auto">Tech </span></li>
+<li><span dir="auto">DAUs </span><span dir="auto">of </span><span dir="auto">jumper </span><span dir="auto">cables </span></li>
+<li><span dir="auto"><a href="https://github.com/mikedilger/gossip">Gossip</a> and it&rsquo;s choices </span></li>
+<li><span dir="auto"><a href="https://highlighter.com/a/naddr1qvzqqqr4gupzqmjxss3dld622uu8q25gywum9qtg4w4cv4064jmg20xsac2aam5nqqxnzd3exsmrswfjxsurxvf3qvlsju">&ldquo;The secret to life is to send it&rdquo;</a> </span></li>
+<li><span dir="auto">Flying </span><span dir="auto">water </span><span dir="auto">&amp; </span><span dir="auto">flying </span><span dir="auto">bus </span><span dir="auto">stops </span></li>
+<li><span dir="auto"><a href="https://github.com/fiatjaf/narr">RSS readers</a> , <a href="https://mailbrew.com/">Mailbrew</a> , and daily digests </span></li>
+<li><span dir="auto">Nostr </span><span dir="auto">is </span><span dir="auto">high </span><span dir="auto">signal </span><span dir="auto">and </span><span dir="auto">less </span><span dir="auto">addictive </span></li>
+<li><span dir="auto">Calling </span><span dir="auto">nostr </span><span dir="auto">posts </span><span dir="auto">&ldquo; </span><a href="https://nostr.band/?q=tweet+by%3Anpub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc">tweets</a> <span dir="auto">&rdquo; </span><span dir="auto">and </span><span dir="auto">recordings </span><span dir="auto">being </span><span dir="auto">&ldquo;on </span><span dir="auto">tape&rdquo; </span></li>
+<li><span dir="auto">Pivoting </span><span dir="auto">from </span><span dir="auto">nostr </span><span dir="auto">dialogues </span><span dir="auto">to </span><span dir="auto">a </span><span dir="auto">podcast </span><span dir="auto">about </span><span dir="auto">wind </span></li>
+<li><span dir="auto">The </span><span dir="auto">unnecessary </span><span dir="auto">complexity </span><span dir="auto">of </span> <a href="https://github.com/nostr-protocol/nips/blob/master/96.md">NIP-96</a></li>
+<li><span dir="auto"><a href="https://github.com/hzrd149/blossom">Blossom</a> (and wind) </span></li>
+<li><span dir="auto">Undoing </span><span dir="auto">URLs, </span><span dir="auto">APIs, </span><span dir="auto">and </span><span dir="auto">REST </span></li>
+<li><span dir="auto">ISBNs </span><span dir="auto">and </span><span dir="auto">cryptographic </span><span dir="auto">identifiers </span></li>
+<li><span dir="auto">SaaS </span><span dir="auto">and </span><span dir="auto">the </span><span dir="auto">DAU </span><span dir="auto">metric </span></li>
+<li><span dir="auto"><a href="https://highlighter.com/">Highlighter</a> </span></li>
+<li><span dir="auto">Not </span><span dir="auto">caring </span><span dir="auto">where </span><span dir="auto">stuff </span><span dir="auto">is </span><span dir="auto">hosted </span></li>
+<li><span dir="auto">When </span><span dir="auto">is </span><span dir="auto">an </span><span dir="auto">edited </span><span dir="auto">thing </span><span dir="auto">a </span><span dir="auto">new </span><span dir="auto">thing? </span></li>
+<li><span dir="auto">Edits, </span><span dir="auto">the </span><span dir="auto">edit </span><span dir="auto">wars, </span><span dir="auto">and </span> <a href="https://blog.udaya.dev/fiatjaf/ad84e3b3">the case against edits</a></li>
+<li><span dir="auto"><a href="https://nips.nostr.com/60">NIP-60</a> and inconsistent balances </span></li>
+<li><span dir="auto">Scroll </span><span dir="auto">to </span> <a href="https://mgearon.com/html/text-fragments/">text fragment</a> <span dir="auto">and </span><span dir="auto">best </span><span dir="auto">effort </span><span dir="auto">matching </span></li>
+<li><span dir="auto">Proximity </span><span dir="auto">hashes </span><span dir="auto">&amp; </span> <a href="https://en.wikipedia.org/wiki/Locality-sensitive_hashing">locality-sensitive hashing</a></li>
+<li><span dir="auto">Helping </span><span dir="auto">your </span><span dir="auto">Uncle </span><span dir="auto">Jack </span><span dir="auto">of </span><span dir="auto">a </span><span dir="auto">horse </span></li>
+<li><span dir="auto">Helping </span><span dir="auto">your </span><span dir="auto">uncle </span> <a href="https://en.wikipedia.org/wiki/Mr._Hands_(album)">jack of a horse</a></li>
+<li><span dir="auto">Can </span><span dir="auto">we </span><span dir="auto">fix </span><span dir="auto">it </span><span dir="auto">with </span><span dir="auto">WoT? </span></li>
+<li><span dir="auto"><a href="https://vertexlab.io/">Vertex</a> &amp; vibe-coding a proper search for nostr </span></li>
+<li><span dir="auto">Linking </span><span dir="auto">to </span><span dir="auto">hashtags </span><span dir="auto">&amp; </span><span dir="auto">search </span><span dir="auto">queries </span></li>
+<li><span dir="auto">Advanced </span><span dir="auto">search </span><span dir="auto">and </span><span dir="auto">why </span><span dir="auto">it&rsquo;s </span><span dir="auto">great </span></li>
+<li><span dir="auto">Search </span><span dir="auto">scopes </span><span dir="auto">&amp; </span><span dir="auto">web </span><span dir="auto">of </span><span dir="auto">trust </span></li>
+<li><span dir="auto">The </span><span dir="auto">UNIX </span><span dir="auto">tools </span><span dir="auto">of </span><span dir="auto">nostr </span></li>
+<li><span dir="auto">Pablo&rsquo;s </span> <a href="https://nostr-dev-kit.github.io/ndk/snippets/">NDK snippets</a></li>
+<li><span dir="auto">Meredith </span><span dir="auto">on </span><span dir="auto">the </span> <a href="https://njump.me/nevent1qqsts24dta3nay5ypkhnqd8aphynhw7z89qw69sp3pceady2xujakygpzemhxue69uhhyetvv9ujumn0wd68ytnzv9hxgq3qguh5grefa7vkay4ps6udxg8lrqxg2kgr3qh9n4gduxut64nfxq0quyzs70">privacy nightmare of Agentic AI</a></li>
+<li><span dir="auto">Blog-post-driven </span><span dir="auto">development </span><span dir="auto">( </span><a href="https://dergigi.com/2023/03/12/lightning-prisms/">Lightning Prisms</a> <span dir="auto">, </span> <a href="https://dergigi.com/2023/04/04/purple-text-orange-highlights/">Highlighter</a> <span dir="auto">) </span></li>
+<li><span dir="auto">Sandwich-style </span><span dir="auto">LLM </span><span dir="auto">prompting, </span><span dir="auto">Waterfall </span><span dir="auto">for </span><span dir="auto">LLMs </span><span dir="auto">( </span><a href="https://gist.github.com/dskvr/b34f836b68ff2ca51bcc8fe7763eceec">HLDD / LLDD</a> <span dir="auto">) </span></li>
+<li><span dir="auto">&ldquo;Speed </span><span dir="auto">itself </span><span dir="auto">is </span><span dir="auto">a </span><span dir="auto">feature&rdquo; </span></li>
+<li><span dir="auto">MCP </span><span dir="auto">&amp; </span> <a href="https://mcp.so/server/dvmcp">DVMCP</a></li>
+<li><span dir="auto">Monorepos </span><span dir="auto">and </span><span dir="auto">git </span><span dir="auto">submodules </span></li>
+<li><span dir="auto"><a href="https://olas.app/">Olas</a> &amp; NDK </span></li>
+<li><span dir="auto">Pablo&rsquo;s </span> <a href="https://njump.me/npub17hsu5gd24stmzuuezwvavgeuwwac233nfzg59dfyhf4fvel8n2sqw3d0k9">RemindMe</a> <span dir="auto">bot </span></li>
+<li><span dir="auto">&ldquo;Breaking </span><span dir="auto">changes </span><span dir="auto">kinda </span><span dir="auto">suck&rdquo; </span></li>
+<li><span dir="auto">Stories, </span><span dir="auto">shorts, </span><span dir="auto">TikTok, </span><span dir="auto">and </span><span dir="auto">OnlyFans </span></li>
+<li><span dir="auto">LLM-generated </span><span dir="auto">sticker </span><span dir="auto">styles </span></li>
+<li><span dir="auto">LLMs </span><span dir="auto">and </span> <a href="https://dergigi.com/2022/09/25/creativity/">creativity</a> <span dir="auto">(and </span><span dir="auto">Gigi&rsquo;s </span> <a href="https://gist.github.com/dergigi/04760fbcaa3769bb243db2b0e31c75df">old email</a> <span dir="auto">) </span></li>
+<li><span dir="auto">&ldquo;AI-generated </span><span dir="auto">art </span><span dir="auto">has </span><span dir="auto">no </span><span dir="auto">soul&rdquo; </span></li>
+<li><span dir="auto">Nostr, </span><span dir="auto">zaps, </span><span dir="auto">and </span><span dir="auto">realness </span></li>
+<li><span dir="auto">Does </span><span dir="auto">the </span><span dir="auto">source </span><span dir="auto">matter? </span></li>
+<li><span dir="auto">Poker </span><span dir="auto">client </span><span dir="auto">in </span> <a href="https://github.com/search?q=repo%3Atrottier%2Foriginal-bitcoin%20poker&amp;type=code">bitcoin v0.0.1</a></li>
+<li><span dir="auto">Quotes </span><span dir="auto">from </span><span dir="auto">Hitler </span><span dir="auto">and </span><span dir="auto">how </span><span dir="auto">additional </span><span dir="auto">context </span><span dir="auto">changes </span><span dir="auto">meaning </span></li>
+<li><span dir="auto">Greek </span><span dir="auto">finance </span><span dir="auto">minister </span><span dir="auto">on </span><span dir="auto">crypto </span><span dir="auto">and </span><span dir="auto">bitcoin </span><span dir="auto">( </span><a href="https://www.goodreads.com/book/show/75560036-technofeudalism">Technofeudalism</a> <span dir="auto">, </span><span dir="auto">book) </span></li>
+<li><span dir="auto">Is </span><span dir="auto">more </span><span dir="auto">context </span><span dir="auto">always </span><span dir="auto">good? </span></li>
+<li><span dir="auto"><a href="https://www.youtube.com/watch?v=A-_RdKiDbz4&amp;list=PLND1JCRq8Vui2YOOfrxbeRwJk5jZPmAth">Vervaeke&rsquo;s AI argument</a> </span></li>
+<li><span dir="auto">What </span><span dir="auto">is </span><span dir="auto">meaningful? </span></li>
+<li><span dir="auto">How </span><span dir="auto">do </span><span dir="auto">you </span><span dir="auto">extract </span><span dir="auto">meaning </span><span dir="auto">from </span><span dir="auto">information? </span></li>
+<li><span dir="auto">How </span><span dir="auto">do </span><span dir="auto">you </span><span dir="auto">extract </span><span dir="auto">meaning </span><span dir="auto">from </span><span dir="auto">experience? </span></li>
+<li><span dir="auto">&ldquo;</span><a href="https://youtu.be/ms2BvRbjOYo">What the hell is water</a><span dir="auto">&rdquo; </span></li>
+<li><span dir="auto">Creativity, </span><span dir="auto">imagination, </span><span dir="auto">hallucination, </span><span dir="auto">and </span><span dir="auto">losing </span><span dir="auto">touch </span><span dir="auto">with </span><span dir="auto">reality </span></li>
+<li><span dir="auto">&ldquo;</span><a href="https://njump.me/nevent1qqswawr4cz68sjswhtdkat8qgnpfsc6wygx4xmq2d5gd5fg9extvl4gpzamhxue69uhhyetvv9ujumn0wd68ytnzv9hxgtczyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxqcyqqqqqqg74yxgf">Bitcoin is singularity insurance</a><span dir="auto">&rdquo; </span></li>
+<li><span dir="auto">Will </span><span dir="auto">vibe </span><span dir="auto">coding </span><span dir="auto">make </span><span dir="auto">developers </span><span dir="auto">obsolete? </span></li>
+<li><span dir="auto">Knowing </span><span dir="auto">what </span><span dir="auto">to </span><span dir="auto">build </span><span dir="auto">vs </span><span dir="auto">knowing </span><span dir="auto">how </span><span dir="auto">to </span><span dir="auto">build </span></li>
+<li><span dir="auto">10min </span><span dir="auto">block </span><span dir="auto">time </span><span dir="auto">&amp; </span><span dir="auto">the </span> <a href="https://dergigi.com/threads/physical-limits">physical limits of consensus</a></li>
+<li><span dir="auto">Satoshi&rsquo;s </span><span dir="auto">reasons </span><span dir="auto">articulated </span><span dir="auto">in </span><span dir="auto">his </span> <a href="https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/">announcement post</a></li>
+<li><span dir="auto">Why </span><span dir="auto">do </span><span dir="auto">anything? </span><span dir="auto">Why </span><span dir="auto">stack </span><span dir="auto">sats? </span><span dir="auto">Why </span><span dir="auto">have </span><span dir="auto">kids? </span></li>
+<li><span dir="auto">All </span><span dir="auto">you </span><span dir="auto">need </span><span dir="auto">now </span><span dir="auto">is </span><span dir="auto">motivation </span></li>
+<li><span dir="auto">Upcoming </span><span dir="auto">agents </span><span dir="auto">will </span><span dir="auto">actually </span><span dir="auto">do </span><span dir="auto">the </span><span dir="auto">thing </span></li>
+<li><span dir="auto">Proliferation </span><span dir="auto">of </span><span dir="auto">writers: </span><span dir="auto">quantity </span><span dir="auto">VS </span><span dir="auto">quality </span></li>
+<li><span dir="auto">Crisis </span><span dir="auto">of </span><span dir="auto">sameness </span><span dir="auto">&amp; </span><span dir="auto">the </span><span dir="auto">problem </span><span dir="auto">of </span><span dir="auto">distribution </span></li>
+<li><span dir="auto">Patronage, </span><span dir="auto">belle </span><span dir="auto">epoche, </span><span dir="auto">and </span> <a href="https://x.com/FractalEncrypt">bitcoin art</a></li>
+<li><span dir="auto">Niches, </span><span dir="auto">and </span><span dir="auto">how </span><span dir="auto">the </span><span dir="auto">internet </span><span dir="auto">fractioned </span><span dir="auto">society </span></li>
+<li><span dir="auto">Joe&rsquo;s </span><span dir="auto">songs </span></li>
+<li><span dir="auto">Hyper-personalized </span><span dir="auto">stories </span></li>
+<li><span dir="auto">Shared </span><span dir="auto">stories </span><span dir="auto">&amp; </span><span dir="auto">myths </span><span dir="auto">(</span><a href="https://www.thesymbolicworld.com/team/jonathan-pageau">Jonathan Pageau</a><span dir="auto">) </span></li>
+<li><span dir="auto">Hyper-personalized </span><span dir="auto">apps </span><span dir="auto">VS </span><span dir="auto">shared </span><span dir="auto">apps </span></li>
+<li><span dir="auto">Agency, </span><span dir="auto">free </span><span dir="auto">expression, </span><span dir="auto">and </span> <a href="https://dergigi.com/2024/03/25/speaking-freely-online/">free speech</a></li>
+<li><span dir="auto">Edgy </span><span dir="auto">content </span><span dir="auto">&amp; </span> <a href="https://www.talkesport.com/news/what-is-the-twitch-meta-decoding-trends-and-controversies/">twitch meta</a> <span dir="auto">, </span><span dir="auto">aka </span><span dir="auto">skating </span><span dir="auto">the </span><span dir="auto">line </span><span dir="auto">of </span><span dir="auto">demonetization </span><span dir="auto">and </span><span dir="auto">deplatforming </span></li>
+<li><span dir="auto">Using </span><span dir="auto">attention </span><span dir="auto">as </span><span dir="auto">a </span><span dir="auto">proxy </span><span dir="auto">currency </span></li>
+<li><span dir="auto">Farming </span><span dir="auto">eyeballs </span><span dir="auto">and </span><span dir="auto">brain </span><span dir="auto">cycles </span></li>
+<li><span dir="auto">Engagement </span><span dir="auto">as </span><span dir="auto">a </span><span dir="auto">success </span><span dir="auto">metric </span><span dir="auto">&amp; </span><span dir="auto">engagement </span><span dir="auto">bait </span></li>
+<li><span dir="auto">&ldquo;</span><a href="https://njump.me/nevent1qqsqm2lz4ru6wlydzpulgs8m60ylp4vufwsg55whlqgua6a93vp2y4gzyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxzzxtzc">You wouldn&rsquo;t zap a car crash</a><span dir="auto">&rdquo; </span></li>
+<li><span dir="auto">Attention </span><span dir="auto">economy </span><span dir="auto">is </span><span dir="auto">parasitic </span><span dir="auto">on </span><span dir="auto">humanity </span></li>
+<li><span dir="auto">The </span><span dir="auto">importance </span><span dir="auto">of </span> <a href="https://nostr-resources.com/">speech</a> <span dir="auto">&amp; </span> <a href="https://bitcoin-resources.com/">money</a></li>
+<li><span dir="auto">What </span><span dir="auto">should </span><span dir="auto">be </span><span dir="auto">done </span><span dir="auto">by </span><span dir="auto">a </span><span dir="auto">machine? </span></li>
+<li><span dir="auto">What </span><span dir="auto">should </span><span dir="auto">be </span><span dir="auto">done </span><span dir="auto">by </span><span dir="auto">a </span><span dir="auto">human? </span></li>
+<li><span dir="auto">&ldquo;The </span><span dir="auto">human </span><span dir="auto">spirit </span><span dir="auto">should </span><span dir="auto">remain </span><span dir="auto">in </span><span dir="auto">charge&rdquo; </span></li>
+<li><span dir="auto">Our </span><span dir="auto">relationship </span><span dir="auto">with </span><span dir="auto">fiat </span><span dir="auto">money </span></li>
+<li><span dir="auto">Active </span><span dir="auto">vs </span><span dir="auto">passive, </span><span dir="auto">agency </span><span dir="auto">vs </span><span dir="auto">serfdom </span></li>
+</ul>]]></description>
+      <itunes:image href="https://haven.sovereignengineering.io/e2fd652ae95de02b27c0e65667c67dff3e46a55d807ef37e78c0e8951beba240.jpg"/>
+      <enclosure url="https://haven.sovereignengineering.io/a4c661358690b68e5cce8583111c8ab3bb9fef1a9e4e1a347cf543b7dc76c4fb.mpga" length="76009770" type="audio/mpeg"/>
+      <podcast:person href="https://njump.me/f7z.io" img="https://avatars.githubusercontent.com/u/779813?v=4" group="cast" role="co-host">Pablo</podcast:person>
+      <podcast:funding url="https://njump.me/npub1n00yy9y3704drtpph5wszen64w287nquftkcwcjv7gnnkpk2q54s73000n">Zaps are appreciated! #value4value ⚡🧡</podcast:funding>
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+        <podcast:valueRecipient name="Gigi" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="100"/>
+        <podcast:valueRecipient name="Sovereign Feeds" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" type="node" fee="true" split="1"/>
+        <podcast:valueRecipient name="Pablo" type="lnaddress" address="pablof7z@primal.net" split="100"/>
+      </podcast:value>
+      <guid isPermaLink="false">732a61fd-bd8e-4618-a2fb-42f3014e6b23</guid>
+      <itunes:subtitle>#06 - The Winds of AI</itunes:subtitle>
+      <itunes:duration>5955</itunes:duration>
+      <link>https://njump.me/nevent1qvzqqqqqqypzpx77gg2frul26xkzr0gaq9n842u50axpcjhdsa3yeu388vrv5pftqys8wumn8ghj7mn0wd68ytn9d9h82mny0fmkzmn6d9njuumsv93k2tcppemhxue69uhkummn9ekx7mp0qqszlf337y0lkg4sz5ax9ath4y5vk6rpqn9tfewaln2989zavvqrg4cpt2krs</link>
+      <pubDate>Thu, 27 Mar 2025 17:23:24 +0000</pubDate>
+      <author>Gigi</author>
+      <itunes:author>Gigi</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>nostr, development, sovereign engineering, shipping, memes, web, internet, conversation, dialog</itunes:keywords>
+      <itunes:summary><![CDATA[<p><span style="font-weight: 400;">&ldquo;The human spirit should remain in charge.&rdquo;</span></p>
+<p><a href="https://njump.me/npub1l2vyh47mk2p0qlsku7hg0vn29faehy9hy34ygaclpn66ukqp3afqutajft"><span style="font-weight: 400;">Pablo</span></a><span style="font-weight: 400;"> &amp; </span><a href="https://njump.me/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc"><span style="font-weight: 400;">Gigi</span></a><span style="font-weight: 400;"> talk about the wind.</span></p>
+<p><span style="font-weight: 400;">In this dialogue:</span></p>
+<ul>
+<li><span dir="auto">Wind </span></li>
+<li><span dir="auto">More </span><span dir="auto">Wind </span></li>
+<li><span dir="auto">Information </span><span dir="auto">Calories, </span><span dir="auto">and </span><span dir="auto">how </span><span dir="auto">to </span><span dir="auto">measure </span><span dir="auto">them </span></li>
+<li><span dir="auto"><a href="https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing">Digital Wellbeing</a> </span></li>
+<li><span dir="auto"><a href="https://www.rescuetime.com/">Rescue Time</a> </span></li>
+<li><span dir="auto">Teleology </span><span dir="auto">of </span><span dir="auto">Technology </span></li>
+<li><span dir="auto">Platforms </span><span dir="auto">get </span><span dir="auto">users </span> <a href="https://www.uxmatters.com/mt/archives/2021/06/book-review-hooked-how-to-build-habit-forming-products.php">Hooked</a> <span dir="auto">(book) </span></li>
+<li><span dir="auto">Feeds </span><span dir="auto">are </span> <a href="https://ihpi.umich.edu/news/social-media-copies-gambling-methods-create-psychological-cravings">slot machines</a></li>
+<li><a href="https://cdn.wallpapersafari.com/87/8/PeUWbM.jpg"><span dir="auto">Movie </span><span dir="auto">Walls </span></a></li>
+<li><span dir="auto">Tweetdeck </span><span dir="auto">and </span> <a href="https://damus.io/notedeck/">Notedeck</a></li>
+<li><span dir="auto">IRC </span><span dir="auto">vs </span><span dir="auto">the </span><span dir="auto">modern </span><span dir="auto">feed </span></li>
+<li><span dir="auto">37Signals: </span><span dir="auto">&ldquo;</span><a href="https://www.hey.com/pricing/">Hey</a> <span dir="auto">, </span><span dir="auto">let&rsquo;s </span><span dir="auto">just </span><span dir="auto">charge </span><span dir="auto">users!&rdquo; </span></li>
+<li><span dir="auto">&ldquo;</span><a href="https://njump.me/nevent1qqsqm2lz4ru6wlydzpulgs8m60ylp4vufwsg55whlqgua6a93vp2y4gzyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxzzxtzc">You wouldn&rsquo;t zap a car crash</a><span dir="auto">&rdquo; </span></li>
+<li><span dir="auto">Catering </span><span dir="auto">to </span><span dir="auto">our </span><span dir="auto">highest </span><span dir="auto">self </span><span dir="auto">VS </span><span dir="auto">catering </span><span dir="auto">to </span><span dir="auto">our </span><span dir="auto">lowest </span><span dir="auto">self </span></li>
+<li><span dir="auto">Devolution </span><span dir="auto">of </span><span dir="auto">YouTube </span> <a href="https://daringfireball.net/linked/2017/03/18/youtube-thumbs-stars">5-star ratings</a> <span dir="auto">to </span><span dir="auto">thumb </span><span dir="auto">up/down </span><span dir="auto">to </span> <a href="https://www.makeuseof.com/the-real-reason-why-youtube-hid-dislikes/">views</a></li>
+<li><span dir="auto">Long </span><span dir="auto">videos </span><span dir="auto">vs </span><span dir="auto">shorts </span></li>
+<li><span dir="auto">The </span><span dir="auto">internet </span><span dir="auto">had </span><span dir="auto">to </span><span dir="auto">monetize </span><span dir="auto">itself </span><span dir="auto">somehow </span><span dir="auto">(with </span> <a href="https://dergigi.com/2022/12/18/a-vision-for-a-value-enabled-web/#attention">attention</a> <span dir="auto">) </span></li>
+<li><span dir="auto">&ldquo;Don&rsquo;t </span><span dir="auto">be </span><span dir="auto">evil&rdquo; </span><span dir="auto">and </span><span dir="auto">why </span><span dir="auto">Google </span><span dir="auto">had </span><span dir="auto">to </span> <a href="https://www.zdnet.com/article/google-erases-dont-be-evil-from-code-of-conduct-after-18-years/">remove it</a></li>
+<li><span dir="auto"><a href="https://questr.vercel.app/">Questr</a> : 2D exploration of nostr </span></li>
+<li><span dir="auto"><a href="https://www.onosendai.tech/">ONOSENDAI</a> by Arkinox </span></li>
+<li><span dir="auto">Freedom </span><span dir="auto">tech </span><span dir="auto">&amp; </span><span dir="auto">Freedom </span><span dir="auto">from </span><span dir="auto">Tech </span></li>
+<li><span dir="auto">DAUs </span><span dir="auto">of </span><span dir="auto">jumper </span><span dir="auto">cables </span></li>
+<li><span dir="auto"><a href="https://github.com/mikedilger/gossip">Gossip</a> and it&rsquo;s choices </span></li>
+<li><span dir="auto"><a href="https://highlighter.com/a/naddr1qvzqqqr4gupzqmjxss3dld622uu8q25gywum9qtg4w4cv4064jmg20xsac2aam5nqqxnzd3exsmrswfjxsurxvf3qvlsju">&ldquo;The secret to life is to send it&rdquo;</a> </span></li>
+<li><span dir="auto">Flying </span><span dir="auto">water </span><span dir="auto">&amp; </span><span dir="auto">flying </span><span dir="auto">bus </span><span dir="auto">stops </span></li>
+<li><span dir="auto"><a href="https://github.com/fiatjaf/narr">RSS readers</a> , <a href="https://mailbrew.com/">Mailbrew</a> , and daily digests </span></li>
+<li><span dir="auto">Nostr </span><span dir="auto">is </span><span dir="auto">high </span><span dir="auto">signal </span><span dir="auto">and </span><span dir="auto">less </span><span dir="auto">addictive </span></li>
+<li><span dir="auto">Calling </span><span dir="auto">nostr </span><span dir="auto">posts </span><span dir="auto">&ldquo; </span><a href="https://nostr.band/?q=tweet+by%3Anpub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc">tweets</a> <span dir="auto">&rdquo; </span><span dir="auto">and </span><span dir="auto">recordings </span><span dir="auto">being </span><span dir="auto">&ldquo;on </span><span dir="auto">tape&rdquo; </span></li>
+<li><span dir="auto">Pivoting </span><span dir="auto">from </span><span dir="auto">nostr </span><span dir="auto">dialogues </span><span dir="auto">to </span><span dir="auto">a </span><span dir="auto">podcast </span><span dir="auto">about </span><span dir="auto">wind </span></li>
+<li><span dir="auto">The </span><span dir="auto">unnecessary </span><span dir="auto">complexity </span><span dir="auto">of </span> <a href="https://github.com/nostr-protocol/nips/blob/master/96.md">NIP-96</a></li>
+<li><span dir="auto"><a href="https://github.com/hzrd149/blossom">Blossom</a> (and wind) </span></li>
+<li><span dir="auto">Undoing </span><span dir="auto">URLs, </span><span dir="auto">APIs, </span><span dir="auto">and </span><span dir="auto">REST </span></li>
+<li><span dir="auto">ISBNs </span><span dir="auto">and </span><span dir="auto">cryptographic </span><span dir="auto">identifiers </span></li>
+<li><span dir="auto">SaaS </span><span dir="auto">and </span><span dir="auto">the </span><span dir="auto">DAU </span><span dir="auto">metric </span></li>
+<li><span dir="auto"><a href="https://highlighter.com/">Highlighter</a> </span></li>
+<li><span dir="auto">Not </span><span dir="auto">caring </span><span dir="auto">where </span><span dir="auto">stuff </span><span dir="auto">is </span><span dir="auto">hosted </span></li>
+<li><span dir="auto">When </span><span dir="auto">is </span><span dir="auto">an </span><span dir="auto">edited </span><span dir="auto">thing </span><span dir="auto">a </span><span dir="auto">new </span><span dir="auto">thing? </span></li>
+<li><span dir="auto">Edits, </span><span dir="auto">the </span><span dir="auto">edit </span><span dir="auto">wars, </span><span dir="auto">and </span> <a href="https://blog.udaya.dev/fiatjaf/ad84e3b3">the case against edits</a></li>
+<li><span dir="auto"><a href="https://nips.nostr.com/60">NIP-60</a> and inconsistent balances </span></li>
+<li><span dir="auto">Scroll </span><span dir="auto">to </span> <a href="https://mgearon.com/html/text-fragments/">text fragment</a> <span dir="auto">and </span><span dir="auto">best </span><span dir="auto">effort </span><span dir="auto">matching </span></li>
+<li><span dir="auto">Proximity </span><span dir="auto">hashes </span><span dir="auto">&amp; </span> <a href="https://en.wikipedia.org/wiki/Locality-sensitive_hashing">locality-sensitive hashing</a></li>
+<li><span dir="auto">Helping </span><span dir="auto">your </span><span dir="auto">Uncle </span><span dir="auto">Jack </span><span dir="auto">of </span><span dir="auto">a </span><span dir="auto">horse </span></li>
+<li><span dir="auto">Helping </span><span dir="auto">your </span><span dir="auto">uncle </span> <a href="https://en.wikipedia.org/wiki/Mr._Hands_(album)">jack of a horse</a></li>
+<li><span dir="auto">Can </span><span dir="auto">we </span><span dir="auto">fix </span><span dir="auto">it </span><span dir="auto">with </span><span dir="auto">WoT? </span></li>
+<li><span dir="auto"><a href="https://vertexlab.io/">Vertex</a> &amp; vibe-coding a proper search for nostr </span></li>
+<li><span dir="auto">Linking </span><span dir="auto">to </span><span dir="auto">hashtags </span><span dir="auto">&amp; </span><span dir="auto">search </span><span dir="auto">queries </span></li>
+<li><span dir="auto">Advanced </span><span dir="auto">search </span><span dir="auto">and </span><span dir="auto">why </span><span dir="auto">it&rsquo;s </span><span dir="auto">great </span></li>
+<li><span dir="auto">Search </span><span dir="auto">scopes </span><span dir="auto">&amp; </span><span dir="auto">web </span><span dir="auto">of </span><span dir="auto">trust </span></li>
+<li><span dir="auto">The </span><span dir="auto">UNIX </span><span dir="auto">tools </span><span dir="auto">of </span><span dir="auto">nostr </span></li>
+<li><span dir="auto">Pablo&rsquo;s </span> <a href="https://nostr-dev-kit.github.io/ndk/snippets/">NDK snippets</a></li>
+<li><span dir="auto">Meredith </span><span dir="auto">on </span><span dir="auto">the </span> <a href="https://njump.me/nevent1qqsts24dta3nay5ypkhnqd8aphynhw7z89qw69sp3pceady2xujakygpzemhxue69uhhyetvv9ujumn0wd68ytnzv9hxgq3qguh5grefa7vkay4ps6udxg8lrqxg2kgr3qh9n4gduxut64nfxq0quyzs70">privacy nightmare of Agentic AI</a></li>
+<li><span dir="auto">Blog-post-driven </span><span dir="auto">development </span><span dir="auto">( </span><a href="https://dergigi.com/2023/03/12/lightning-prisms/">Lightning Prisms</a> <span dir="auto">, </span> <a href="https://dergigi.com/2023/04/04/purple-text-orange-highlights/">Highlighter</a> <span dir="auto">) </span></li>
+<li><span dir="auto">Sandwich-style </span><span dir="auto">LLM </span><span dir="auto">prompting, </span><span dir="auto">Waterfall </span><span dir="auto">for </span><span dir="auto">LLMs </span><span dir="auto">( </span><a href="https://gist.github.com/dskvr/b34f836b68ff2ca51bcc8fe7763eceec">HLDD / LLDD</a> <span dir="auto">) </span></li>
+<li><span dir="auto">&ldquo;Speed </span><span dir="auto">itself </span><span dir="auto">is </span><span dir="auto">a </span><span dir="auto">feature&rdquo; </span></li>
+<li><span dir="auto">MCP </span><span dir="auto">&amp; </span> <a href="https://mcp.so/server/dvmcp">DVMCP</a></li>
+<li><span dir="auto">Monorepos </span><span dir="auto">and </span><span dir="auto">git </span><span dir="auto">submodules </span></li>
+<li><span dir="auto"><a href="https://olas.app/">Olas</a> &amp; NDK </span></li>
+<li><span dir="auto">Pablo&rsquo;s </span> <a href="https://njump.me/npub17hsu5gd24stmzuuezwvavgeuwwac233nfzg59dfyhf4fvel8n2sqw3d0k9">RemindMe</a> <span dir="auto">bot </span></li>
+<li><span dir="auto">&ldquo;Breaking </span><span dir="auto">changes </span><span dir="auto">kinda </span><span dir="auto">suck&rdquo; </span></li>
+<li><span dir="auto">Stories, </span><span dir="auto">shorts, </span><span dir="auto">TikTok, </span><span dir="auto">and </span><span dir="auto">OnlyFans </span></li>
+<li><span dir="auto">LLM-generated </span><span dir="auto">sticker </span><span dir="auto">styles </span></li>
+<li><span dir="auto">LLMs </span><span dir="auto">and </span> <a href="https://dergigi.com/2022/09/25/creativity/">creativity</a> <span dir="auto">(and </span><span dir="auto">Gigi&rsquo;s </span> <a href="https://gist.github.com/dergigi/04760fbcaa3769bb243db2b0e31c75df">old email</a> <span dir="auto">) </span></li>
+<li><span dir="auto">&ldquo;AI-generated </span><span dir="auto">art </span><span dir="auto">has </span><span dir="auto">no </span><span dir="auto">soul&rdquo; </span></li>
+<li><span dir="auto">Nostr, </span><span dir="auto">zaps, </span><span dir="auto">and </span><span dir="auto">realness </span></li>
+<li><span dir="auto">Does </span><span dir="auto">the </span><span dir="auto">source </span><span dir="auto">matter? </span></li>
+<li><span dir="auto">Poker </span><span dir="auto">client </span><span dir="auto">in </span> <a href="https://github.com/search?q=repo%3Atrottier%2Foriginal-bitcoin%20poker&amp;type=code">bitcoin v0.0.1</a></li>
+<li><span dir="auto">Quotes </span><span dir="auto">from </span><span dir="auto">Hitler </span><span dir="auto">and </span><span dir="auto">how </span><span dir="auto">additional </span><span dir="auto">context </span><span dir="auto">changes </span><span dir="auto">meaning </span></li>
+<li><span dir="auto">Greek </span><span dir="auto">finance </span><span dir="auto">minister </span><span dir="auto">on </span><span dir="auto">crypto </span><span dir="auto">and </span><span dir="auto">bitcoin </span><span dir="auto">( </span><a href="https://www.goodreads.com/book/show/75560036-technofeudalism">Technofeudalism</a> <span dir="auto">, </span><span dir="auto">book) </span></li>
+<li><span dir="auto">Is </span><span dir="auto">more </span><span dir="auto">context </span><span dir="auto">always </span><span dir="auto">good? </span></li>
+<li><span dir="auto"><a href="https://www.youtube.com/watch?v=A-_RdKiDbz4&amp;list=PLND1JCRq8Vui2YOOfrxbeRwJk5jZPmAth">Vervaeke&rsquo;s AI argument</a> </span></li>
+<li><span dir="auto">What </span><span dir="auto">is </span><span dir="auto">meaningful? </span></li>
+<li><span dir="auto">How </span><span dir="auto">do </span><span dir="auto">you </span><span dir="auto">extract </span><span dir="auto">meaning </span><span dir="auto">from </span><span dir="auto">information? </span></li>
+<li><span dir="auto">How </span><span dir="auto">do </span><span dir="auto">you </span><span dir="auto">extract </span><span dir="auto">meaning </span><span dir="auto">from </span><span dir="auto">experience? </span></li>
+<li><span dir="auto">&ldquo;</span><a href="https://youtu.be/ms2BvRbjOYo">What the hell is water</a><span dir="auto">&rdquo; </span></li>
+<li><span dir="auto">Creativity, </span><span dir="auto">imagination, </span><span dir="auto">hallucination, </span><span dir="auto">and </span><span dir="auto">losing </span><span dir="auto">touch </span><span dir="auto">with </span><span dir="auto">reality </span></li>
+<li><span dir="auto">&ldquo;</span><a href="https://njump.me/nevent1qqswawr4cz68sjswhtdkat8qgnpfsc6wygx4xmq2d5gd5fg9extvl4gpzamhxue69uhhyetvv9ujumn0wd68ytnzv9hxgtczyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxqcyqqqqqqg74yxgf">Bitcoin is singularity insurance</a><span dir="auto">&rdquo; </span></li>
+<li><span dir="auto">Will </span><span dir="auto">vibe </span><span dir="auto">coding </span><span dir="auto">make </span><span dir="auto">developers </span><span dir="auto">obsolete? </span></li>
+<li><span dir="auto">Knowing </span><span dir="auto">what </span><span dir="auto">to </span><span dir="auto">build </span><span dir="auto">vs </span><span dir="auto">knowing </span><span dir="auto">how </span><span dir="auto">to </span><span dir="auto">build </span></li>
+<li><span dir="auto">10min </span><span dir="auto">block </span><span dir="auto">time </span><span dir="auto">&amp; </span><span dir="auto">the </span> <a href="https://dergigi.com/threads/physical-limits">physical limits of consensus</a></li>
+<li><span dir="auto">Satoshi&rsquo;s </span><span dir="auto">reasons </span><span dir="auto">articulated </span><span dir="auto">in </span><span dir="auto">his </span> <a href="https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/1/">announcement post</a></li>
+<li><span dir="auto">Why </span><span dir="auto">do </span><span dir="auto">anything? </span><span dir="auto">Why </span><span dir="auto">stack </span><span dir="auto">sats? </span><span dir="auto">Why </span><span dir="auto">have </span><span dir="auto">kids? </span></li>
+<li><span dir="auto">All </span><span dir="auto">you </span><span dir="auto">need </span><span dir="auto">now </span><span dir="auto">is </span><span dir="auto">motivation </span></li>
+<li><span dir="auto">Upcoming </span><span dir="auto">agents </span><span dir="auto">will </span><span dir="auto">actually </span><span dir="auto">do </span><span dir="auto">the </span><span dir="auto">thing </span></li>
+<li><span dir="auto">Proliferation </span><span dir="auto">of </span><span dir="auto">writers: </span><span dir="auto">quantity </span><span dir="auto">VS </span><span dir="auto">quality </span></li>
+<li><span dir="auto">Crisis </span><span dir="auto">of </span><span dir="auto">sameness </span><span dir="auto">&amp; </span><span dir="auto">the </span><span dir="auto">problem </span><span dir="auto">of </span><span dir="auto">distribution </span></li>
+<li><span dir="auto">Patronage, </span><span dir="auto">belle </span><span dir="auto">epoche, </span><span dir="auto">and </span> <a href="https://x.com/FractalEncrypt">bitcoin art</a></li>
+<li><span dir="auto">Niches, </span><span dir="auto">and </span><span dir="auto">how </span><span dir="auto">the </span><span dir="auto">internet </span><span dir="auto">fractioned </span><span dir="auto">society </span></li>
+<li><span dir="auto">Joe&rsquo;s </span><span dir="auto">songs </span></li>
+<li><span dir="auto">Hyper-personalized </span><span dir="auto">stories </span></li>
+<li><span dir="auto">Shared </span><span dir="auto">stories </span><span dir="auto">&amp; </span><span dir="auto">myths </span><span dir="auto">(</span><a href="https://www.thesymbolicworld.com/team/jonathan-pageau">Jonathan Pageau</a><span dir="auto">) </span></li>
+<li><span dir="auto">Hyper-personalized </span><span dir="auto">apps </span><span dir="auto">VS </span><span dir="auto">shared </span><span dir="auto">apps </span></li>
+<li><span dir="auto">Agency, </span><span dir="auto">free </span><span dir="auto">expression, </span><span dir="auto">and </span> <a href="https://dergigi.com/2024/03/25/speaking-freely-online/">free speech</a></li>
+<li><span dir="auto">Edgy </span><span dir="auto">content </span><span dir="auto">&amp; </span> <a href="https://www.talkesport.com/news/what-is-the-twitch-meta-decoding-trends-and-controversies/">twitch meta</a> <span dir="auto">, </span><span dir="auto">aka </span><span dir="auto">skating </span><span dir="auto">the </span><span dir="auto">line </span><span dir="auto">of </span><span dir="auto">demonetization </span><span dir="auto">and </span><span dir="auto">deplatforming </span></li>
+<li><span dir="auto">Using </span><span dir="auto">attention </span><span dir="auto">as </span><span dir="auto">a </span><span dir="auto">proxy </span><span dir="auto">currency </span></li>
+<li><span dir="auto">Farming </span><span dir="auto">eyeballs </span><span dir="auto">and </span><span dir="auto">brain </span><span dir="auto">cycles </span></li>
+<li><span dir="auto">Engagement </span><span dir="auto">as </span><span dir="auto">a </span><span dir="auto">success </span><span dir="auto">metric </span><span dir="auto">&amp; </span><span dir="auto">engagement </span><span dir="auto">bait </span></li>
+<li><span dir="auto">&ldquo;</span><a href="https://njump.me/nevent1qqsqm2lz4ru6wlydzpulgs8m60ylp4vufwsg55whlqgua6a93vp2y4gzyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxzzxtzc">You wouldn&rsquo;t zap a car crash</a><span dir="auto">&rdquo; </span></li>
+<li><span dir="auto">Attention </span><span dir="auto">economy </span><span dir="auto">is </span><span dir="auto">parasitic </span><span dir="auto">on </span><span dir="auto">humanity </span></li>
+<li><span dir="auto">The </span><span dir="auto">importance </span><span dir="auto">of </span> <a href="https://nostr-resources.com/">speech</a> <span dir="auto">&amp; </span> <a href="https://bitcoin-resources.com/">money</a></li>
+<li><span dir="auto">What </span><span dir="auto">should </span><span dir="auto">be </span><span dir="auto">done </span><span dir="auto">by </span><span dir="auto">a </span><span dir="auto">machine? </span></li>
+<li><span dir="auto">What </span><span dir="auto">should </span><span dir="auto">be </span><span dir="auto">done </span><span dir="auto">by </span><span dir="auto">a </span><span dir="auto">human? </span></li>
+<li><span dir="auto">&ldquo;The </span><span dir="auto">human </span><span dir="auto">spirit </span><span dir="auto">should </span><span dir="auto">remain </span><span dir="auto">in </span><span dir="auto">charge&rdquo; </span></li>
+<li><span dir="auto">Our </span><span dir="auto">relationship </span><span dir="auto">with </span><span dir="auto">fiat </span><span dir="auto">money </span></li>
+<li><span dir="auto">Active </span><span dir="auto">vs </span><span dir="auto">passive, </span><span dir="auto">agency </span><span dir="auto">vs </span><span dir="auto">serfdom </span></li>
+</ul>]]></itunes:summary>
+    </item>
     <item>
       <title><![CDATA[#05 - Prompt & Pray]]></title>
       <description><![CDATA[<p><span style="font-weight: 400;">"What should the next iteration of the internet look like?"&nbsp;</span></p>
@@ -116,7 +355,7 @@ Est. 882,690. Inspired by Sovereign Engineering https://njump.me/no-solutions@so
 <li><a href="https://en.wikipedia.org/wiki/Gell-Mann_amnesia_effect"><span style="font-weight: 400;">Gell-Mann amnesia</span></a><span style="font-weight: 400;"> effect</span></li>
 <li><span style="font-weight: 400;">Vervaekes AI argument: </span><a href="https://youtu.be/A-_RdKiDbz4"><span style="font-weight: 400;">The Coming Thresholds and The Path We Must Take</span></a></li>
 <li><span style="font-weight: 400;">Where do new ideas come from?&nbsp;</span></li>
-<li><span style="font-weight: 400;">Sandwich prompting style&nbsp;</span></li>
+<li><span style="font-weight: 400;">Sandwich prompting style (</span><a href="https://gist.github.com/dskvr/b34f836b68ff2ca51bcc8fe7763eceec"><span style="font-weight: 400;">HLDD / LLDD</span></a><span style="font-weight: 400;">)</span></li>
 <li><span style="font-weight: 400;">The Tale of </span><a href="https://www.americanfolklore.net/john-henry-the-steel-driving-man/"><span style="font-weight: 400;">John Henry</span></a><span style="font-weight: 400;">&nbsp;</span></li>
 <li><a href="https://youtu.be/t98QhYdCyEc"><span style="font-weight: 400;">Silicon Sages</span></a></li>
 <li><a href="https://en.wikipedia.org/wiki/Conscience"><span style="font-weight: 400;">Conscience</span></a><span style="font-weight: 400;"> and </span><a href="https://www.goodreads.com/quotes/445636-this-is-the-other-secret-that-real-artists-know-and"><span style="font-weight: 400;">The Muse</span></a></li>
@@ -221,7 +460,7 @@ Est. 882,690. Inspired by Sovereign Engineering https://njump.me/no-solutions@so
 <li><a href="https://en.wikipedia.org/wiki/Gell-Mann_amnesia_effect"><span style="font-weight: 400;">Gell-Mann amnesia</span></a><span style="font-weight: 400;"> effect</span></li>
 <li><span style="font-weight: 400;">Vervaekes AI argument: </span><a href="https://youtu.be/A-_RdKiDbz4"><span style="font-weight: 400;">The Coming Thresholds and The Path We Must Take</span></a></li>
 <li><span style="font-weight: 400;">Where do new ideas come from?&nbsp;</span></li>
-<li><span style="font-weight: 400;">Sandwich prompting style&nbsp;</span></li>
+<li><span style="font-weight: 400;">Sandwich prompting style (</span><a href="https://gist.github.com/dskvr/b34f836b68ff2ca51bcc8fe7763eceec"><span style="font-weight: 400;">HLDD / LLDD</span></a><span style="font-weight: 400;">)</span></li>
 <li><span style="font-weight: 400;">The Tale of </span><a href="https://www.americanfolklore.net/john-henry-the-steel-driving-man/"><span style="font-weight: 400;">John Henry</span></a><span style="font-weight: 400;">&nbsp;</span></li>
 <li><a href="https://youtu.be/t98QhYdCyEc"><span style="font-weight: 400;">Silicon Sages</span></a></li>
 <li><a href="https://en.wikipedia.org/wiki/Conscience"><span style="font-weight: 400;">Conscience</span></a><span style="font-weight: 400;"> and </span><a href="https://www.goodreads.com/quotes/445636-this-is-the-other-secret-that-real-artists-know-and"><span style="font-weight: 400;">The Muse</span></a></li>
