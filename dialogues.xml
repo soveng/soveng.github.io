@@ -37,11 +37,11 @@ Est. 882,690. Inspired by Sovereign Engineering https://njump.me/no-solutions@so
     <itunes:keywords>nostr, development, sovereign engineering, shipping, memes, web, internet, conversation, dialog</itunes:keywords>
     <itunes:author>Gigi</itunes:author>
     <managingEditor>Sovereign Feeds</managingEditor>
-    <pubDate>Thu, 27 Mar 2025 18:16:41 +0000</pubDate>
-    <lastBuildDate>Thu, 27 Mar 2025 18:16:41 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Mar 2025 18:44:19 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Mar 2025 18:44:19 +0000</lastBuildDate>
     <category>Technology</category>
     <category/>
-    <podcast:guid>2135c2cd-3101-573f-b76a-59fddef21207</podcast:guid>
+    <podcast:guid>623b9ebf-f726-562d-a1d2-678b9575385d</podcast:guid>
     <item>
       <title>#06 - The Winds of AI</title>
       <description><![CDATA[<p><span style="font-weight: 400;">&ldquo;The human spirit should remain in charge.&rdquo;</span></p>
@@ -157,6 +157,7 @@ Est. 882,690. Inspired by Sovereign Engineering https://njump.me/no-solutions@so
       <enclosure url="https://haven.sovereignengineering.io/a4c661358690b68e5cce8583111c8ab3bb9fef1a9e4e1a347cf543b7dc76c4fb.mpga" length="76009770" type="audio/mpeg"/>
       <podcast:person href="https://njump.me/f7z.io" img="https://avatars.githubusercontent.com/u/779813?v=4" group="cast" role="co-host">Pablo</podcast:person>
       <podcast:funding url="https://njump.me/npub1n00yy9y3704drtpph5wszen64w287nquftkcwcjv7gnnkpk2q54s73000n">Zaps are appreciated! #value4value ⚡🧡</podcast:funding>
+      <podcast:transcript url="https://haven.sovereignengineering.io/82506d2dad88ac901241d87d21fc13cd1d7dea41ba5c5e62025e4fee87e834ba.srt" type="application/srt"/>
       <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
         <podcast:valueRecipient name="Gigi" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="100"/>
         <podcast:valueRecipient name="Sovereign Feeds" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" type="node" fee="true" split="1"/>
