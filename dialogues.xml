@@ -37,11 +37,44 @@ Est. 882,690. Inspired by Sovereign Engineering https://njump.me/no-solutions@so
     <itunes:keywords>nostr, development, sovereign engineering, shipping, memes, web, internet, conversation, dialog</itunes:keywords>
     <itunes:author>Gigi</itunes:author>
     <managingEditor>Sovereign Feeds</managingEditor>
-    <pubDate>Thu, 27 Mar 2025 18:44:19 +0000</pubDate>
-    <lastBuildDate>Thu, 27 Mar 2025 18:44:19 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Mar 2025 23:23:41 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Mar 2025 23:23:41 +0000</lastBuildDate>
     <category>Technology</category>
     <category/>
-    <podcast:guid>623b9ebf-f726-562d-a1d2-678b9575385d</podcast:guid>
+    <podcast:guid>d088f5f7-16f8-52d0-b918-3b60ff83d70e</podcast:guid>
+    <item>
+      <title>#07 - Zig Multiplatform</title>
+      <description><![CDATA[<p><span style="font-weight: 400;">&ldquo;The age of the idea guys has begun.&rdquo;</span></p>
+<p><a href="https://njump.me/npub1zxu639qym0esxnn7rzrt48wycmfhdu3e5yvzwx7ja3t84zyc2r8qz8cx2y">Justin</a><span style="font-weight: 400;">&nbsp;&amp; </span><a href="https://njump.me/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc"><span style="font-weight: 400;">Gigi</span></a><span style="font-weight: 400;"> talk about the wind.</span></p>
+<p><span style="font-weight: 400;">In this dialogue:</span></p>
+<ul>
+<li><a href="https://ziglang.org/">Zig</a></li>
+</ul>]]></description>
+      <itunes:image href="https://haven.sovereignengineering.io/0e94404df275cb94e64c424fb58267accce316cbe0102561052a81074d5a35a4.jpg"/>
+      <enclosure url="https://haven.sovereignengineering.io/3468fad22a44ed15ca63aa20be91fbf53a38250558ba13b8c4994d9178687c12.m4a" length="89611955" type="audio/mpeg"/>
+      <podcast:person href="https://github.com/justinmoon" img="https://image.nostr.build/5ff6b14087a7041e96ba44147dd134e423624c2658bb06bed2573d78babd94d6.jpg" group="cast" role="guest">Pablo</podcast:person>
+      <podcast:funding url="https://njump.me/npub1n00yy9y3704drtpph5wszen64w287nquftkcwcjv7gnnkpk2q54s73000n">Zaps are appreciated! #value4value ⚡🧡</podcast:funding>
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+        <podcast:valueRecipient name="Gigi" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="100"/>
+        <podcast:valueRecipient name="Sovereign Feeds" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" type="node" fee="true" split="1"/>
+        <podcast:valueRecipient name="Justin" type="lnaddress" address="justinmoon@primal.net" split="100"/>
+      </podcast:value>
+      <guid isPermaLink="false">7469e24d-3bde-4554-9b53-9f6bb27d9b52</guid>
+      <itunes:subtitle>#07 - Zig Multiplatform</itunes:subtitle>
+      <itunes:duration>10003</itunes:duration>
+      <link>https://njump.me/nevent1qvzqqqqqqypzpx77gg2frul26xkzr0gaq9n842u50axpcjhdsa3yeu388vrv5pftqys8wumn8ghj7mn0wd68ytn9d9h82mny0fmkzmn6d9njuumsv93k2tcppemhxue69uhkummn9ekx7mp0qqs277h3vlkd8720wxkqmxf6lx8v0n0nuj07p59a3lf5tu9l8jha82seg4jef</link>
+      <pubDate>Fri, 28 Mar 2025 23:07:55 +0000</pubDate>
+      <author>Gigi</author>
+      <itunes:author>Gigi</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>nostr, development, sovereign engineering, shipping, memes, web, internet, conversation, dialog</itunes:keywords>
+      <itunes:summary><![CDATA[<p><span style="font-weight: 400;">&ldquo;The age of the idea guys has begun.&rdquo;</span></p>
+<p><a href="https://njump.me/npub1zxu639qym0esxnn7rzrt48wycmfhdu3e5yvzwx7ja3t84zyc2r8qz8cx2y">Justin</a><span style="font-weight: 400;">&nbsp;&amp; </span><a href="https://njump.me/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc"><span style="font-weight: 400;">Gigi</span></a><span style="font-weight: 400;"> talk about the wind.</span></p>
+<p><span style="font-weight: 400;">In this dialogue:</span></p>
+<ul>
+<li><a href="https://ziglang.org/">Zig</a></li>
+</ul>]]></itunes:summary>
+    </item>
     <item>
       <title>#06 - The Winds of AI</title>
       <description><![CDATA[<p><span style="font-weight: 400;">&ldquo;The human spirit should remain in charge.&rdquo;</span></p>
