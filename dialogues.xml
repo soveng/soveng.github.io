@@ -37,23 +37,163 @@ Est. 882,690. Inspired by Sovereign Engineering https://njump.me/no-solutions@so
     <itunes:keywords>nostr, development, sovereign engineering, shipping, memes, web, internet, conversation, dialog</itunes:keywords>
     <itunes:author>Gigi</itunes:author>
     <managingEditor>Sovereign Feeds</managingEditor>
-    <pubDate>Fri, 28 Mar 2025 23:27:06 +0000</pubDate>
-    <lastBuildDate>Fri, 28 Mar 2025 23:27:06 +0000</lastBuildDate>
+    <pubDate>Sat, 29 Mar 2025 10:00:04 +0000</pubDate>
+    <lastBuildDate>Sat, 29 Mar 2025 10:00:04 +0000</lastBuildDate>
     <category>Technology</category>
     <category/>
-    <podcast:guid>880ceb36-4552-5cf5-9fcb-57add008ed20</podcast:guid>
+    <podcast:guid>e66d6b99-6cc4-5890-a54b-4e2d865e0bc1</podcast:guid>
     <item>
       <title>#07 - Zig Multiplatform</title>
       <description><![CDATA[<p><span style="font-weight: 400;">&ldquo;The age of the idea guys has begun.&rdquo;</span></p>
-<p><a href="https://njump.me/npub1zxu639qym0esxnn7rzrt48wycmfhdu3e5yvzwx7ja3t84zyc2r8qz8cx2y">Justin</a><span style="font-weight: 400;">&nbsp;&amp; </span><a href="https://njump.me/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc"><span style="font-weight: 400;">Gigi</span></a><span style="font-weight: 400;"> vibe about Zig.</span></p>
+<p><a href="https://njump.me/npub1zxu639qym0esxnn7rzrt48wycmfhdu3e5yvzwx7ja3t84zyc2r8qz8cx2y"><span style="font-weight: 400;">Justin</span></a><span style="font-weight: 400;"> &amp;</span><a href="https://njump.me/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Gigi</span></a><span style="font-weight: 400;"> vibe about Zig.</span></p>
+<p><span style="font-weight: 400;">Articles mentioned:</span></p>
+<ul>
+<li><a href="https://wattenberger.com/thoughts/llms-as-a-tool-for-thought"><span style="font-weight: 400;">LLMs as a tool for thought</span></a><span style="font-weight: 400;"> by Amelia Wattenberger</span></li>
+<li><a href="https://nakamotoinstitute.org/library/micropayments-and-mental-transaction-costs/"><span style="font-weight: 400;">Micropayments and Mental Transaction Costs</span></a><span style="font-weight: 400;"> by Nick Szabo</span></li>
+<li><a href="https://wattenberger.com/thoughts/our-interfaces-have-lost-their-senses"><span style="font-weight: 400;">How our interfaces have lost their senses</span></a><span style="font-weight: 400;"> by Amelia Wattenberger</span></li>
+</ul>
+<p><span style="font-weight: 400;">Talks mentioned:</span></p>
+<ul>
+<li><a href="https://youtu.be/PBAuHv5cPl8"><span style="font-weight: 400;">The Art of Bitcoin Rhetoric</span></a><span style="font-weight: 400;"> by Bitstein</span></li>
+</ul>
+<p><span style="font-weight: 400;">Books mentioned:</span></p>
+<ul>
+<li><a href="https://bitcoin-resources.com/books/human-action"><span style="font-weight: 400;">Human Action</span></a><span style="font-weight: 400;"> by Ludwig von Mises</span></li>
+<li><a href="https://bitcoin-resources.com/books/working-in-public"><span style="font-weight: 400;">Working in Public</span></a><span style="font-weight: 400;"> by Nadia Eghbal</span></li>
+</ul>
 <p><span style="font-weight: 400;">In this dialogue:</span></p>
 <ul>
-<li><a href="https://ziglang.org/">Zig</a></li>
-</ul>]]></description>
+<li><a href="https://github.com/fiatjaf/nak"><span style="font-weight: 400;">nak</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Files</span></li>
+<li><a href="https://syncthing.net/"><span style="font-weight: 400;">SyncThing</span></a><span style="font-weight: 400;"> (and how it BitTorrent Sync became Resilio Sync)&nbsp;</span></li>
+<li><span style="font-weight: 400;">Convention over configuration&nbsp;</span></li>
+<li><span style="font-weight: 400;">Changes &amp; speciation&nbsp;</span></li>
+<li><span style="font-weight: 400;">File systems as sources of truth&nbsp;</span></li>
+<li><span style="font-weight: 400;">Vibe-coding shower thoughts&nbsp;</span></li>
+<li><span style="font-weight: 400;">Inspiration and The Muse&nbsp;</span></li>
+<li><span style="font-weight: 400;">Justin's LLM setup&nbsp;</span></li>
+<li><span style="font-weight: 400;">Tony's setup (o1-pro as the architect)&nbsp;</span></li>
+<li><span style="font-weight: 400;">Being okay with paying for LLMs&nbsp;</span></li>
+<li><span style="font-weight: 400;">Anthropomorphising LLMs</span></li>
+<li><span style="font-weight: 400;">Dialog, </span><a href="https://rubberduckdebugging.com/"><span style="font-weight: 400;">rubber-duck debugging</span></a><span style="font-weight: 400;">, and the process of thinking&nbsp;</span></li>
+<li><span style="font-weight: 400;">Being nice and mean to LLMs</span></li>
+<li><a href="https://njump.me/nevent1qqsgmjffd7n382dj4e2l9dtctnrx98lw0vnt86rfggrgfq6vfpnysmszyqgmn2y5qndlxq6w0cvgdw5acnrdxahj8xs3sfcm6tk9v75gnpgvu6htgn9"><span style="font-weight: 400;">Battlebots</span></a><span style="font-weight: 400;"> &amp; Gladiators</span></li>
+<li><span style="font-weight: 400;">Hedging your bets by being nice to Skynet</span></li>
+<li><span style="font-weight: 400;">Pascal's Wager for AI</span></li>
+<li><span style="font-weight: 400;">Thinking models vs non-thinking faster models</span></li>
+<li><span style="font-weight: 400;">Sandwich-style LLM prompting, again (waterfall stuff, </span><a href="https://gist.github.com/dskvr/b34f836b68ff2ca51bcc8fe7763eceec"><span style="font-weight: 400;">HLDD / LLDD</span></a><span style="font-weight: 400;">)&nbsp;</span></li>
+<li><span style="font-weight: 400;">Cursor rules &amp; Paul's </span><a href="https://github.com/futurepaul/prompt-buddy"><span style="font-weight: 400;">Prompt Buddy</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Giving lots of context vs giving specific context&nbsp;</span></li>
+<li><span style="font-weight: 400;">The benefit of LLMs figuring out obscure bugs in minutes (instead of days)&nbsp;</span></li>
+<li><span style="font-weight: 400;">The phase change of fast iteration and vibe coding&nbsp;</span></li>
+<li><span style="font-weight: 400;">Idea level vs coding level&nbsp;</span></li>
+<li><span style="font-weight: 400;">High-level vs low-level languages&nbsp;</span></li>
+<li><span style="font-weight: 400;">Gigi's "vibeline"&nbsp;</span></li>
+<li><a href="https://duckduckgo.com/?q=peterson+logos&amp;iar=videos&amp;iax=videos&amp;ia=videos"><span style="font-weight: 400;">Peterson</span></a><span style="font-weight: 400;">'s Logos vs </span><a href="https://duckduckgo.com/?q=vervaeke+dialogos&amp;iax=videos&amp;ia=videos"><span style="font-weight: 400;">Vervaeke</span></a><span style="font-weight: 400;">'s Dia-Logos&nbsp;</span></li>
+<li><span style="font-weight: 400;">Entering into a conversation with technology&nbsp;</span></li>
+<li><span style="font-weight: 400;">Introducing MCPs into your workflow</span></li>
+<li><span style="font-weight: 400;">How does Claude think?&nbsp;</span></li>
+<li><span style="font-weight: 400;">How does it create a rhyme?</span></li>
+<li><span style="font-weight: 400;">How does thinking work?&nbsp;</span></li>
+<li><span style="font-weight: 400;">And how does it relate to dialogue?</span></li>
+<li><span style="font-weight: 400;">Gzuuus' </span><a href="https://github.com/gzuuus/dvmcp"><span style="font-weight: 400;">DVMCP</span></a><span style="font-weight: 400;"> &amp; using nostr as an AI substrate</span></li>
+<li><span style="font-weight: 400;">Language Server Protocols (LSPs)</span></li>
+<li><span style="font-weight: 400;">VAAS: Vibe-coding as a service</span></li>
+<li><span style="font-weight: 400;">Open models vs proprietary models</span></li>
+<li><span style="font-weight: 400;">What Cursor got right</span></li>
+<li><span style="font-weight: 400;">What ChatGPT got right&nbsp;</span></li>
+<li><span style="font-weight: 400;">What Google got right</span></li>
+<li><span style="font-weight: 400;">Tight integration of tools &amp; remaining in a flow state</span></li>
+<li><span style="font-weight: 400;">LLMs as conversational partners</span></li>
+<li><span style="font-weight: 400;">The cost of context switching&nbsp;</span></li>
+<li><span style="font-weight: 400;">Conversational flow &amp; how to stay in it&nbsp;</span></li>
+<li><span style="font-weight: 400;">Prompts VS diary entries&nbsp;</span></li>
+<li><span style="font-weight: 400;">Solving technical vs philosophical models&nbsp;</span></li>
+<li><span style="font-weight: 400;">Buying GPUs &amp; training your own models&nbsp;</span></li>
+<li><span style="font-weight: 400;">Training LLMs to understand Zig&nbsp;</span></li>
+<li><span style="font-weight: 400;">Preventing entryism by writing </span><a href="https://ziglang.org/documentation/master/"><span style="font-weight: 400;">no documentation</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Thin layers &amp; alignment layers&nbsp;</span></li>
+<li><a href="https://bitcoin-resources.com/books/working-in-public"><span style="font-weight: 400;">Working in public</span></a><span style="font-weight: 400;"> &amp; thinking in public&nbsp;</span></li>
+<li><span style="font-weight: 400;">Building a therapist / diary / notes / idea / task system</span></li>
+<li><span style="font-weight: 400;">"The age of the idea guys has begun."</span></li>
+<li><span style="font-weight: 400;">Daemons and spirits&nbsp;</span></li>
+<li><span style="font-weight: 400;">Monological VS dialogical thinking&nbsp;</span></li>
+<li><span style="font-weight: 400;">Yes-men and disagreeable LLMs&nbsp;</span></li>
+<li><span style="font-weight: 400;">Energy cost vs human cost&nbsp;</span></li>
+<li><span style="font-weight: 400;">Paying by the meter vs paying a subscription&nbsp;</span></li>
+<li><span style="font-weight: 400;">The equivalence of storage and compute&nbsp;</span></li>
+<li><span style="font-weight: 400;">Thinking needs memory, and memory is about the future&nbsp;</span></li>
+<li><span style="font-weight: 400;">Nostr+ecash as the perfect AI+human substrate&nbsp;</span></li>
+<li><span style="font-weight: 400;">Real cost, real consequence, and Human Action&nbsp;</span></li>
+<li><span style="font-weight: 400;">The cost of words &amp; speaking&nbsp;</span></li>
+<li><span style="font-weight: 400;">Costly signals and free markets&nbsp;</span></li>
+<li><span style="font-weight: 400;">From shitcoin tokens to LLM tokens to ecash tokens&nbsp;</span></li>
+<li><span style="font-weight: 400;">Being too close to the metal &amp; not seeing the forest for the trees&nbsp;</span></li>
+<li><span style="font-weight: 400;">Power users vs engineers&nbsp;</span></li>
+<li><span style="font-weight: 400;">Participatory knowing and actually using the tools&nbsp;</span></li>
+<li><span style="font-weight: 400;">Nostr as the germination ground for ecash&nbsp;</span></li>
+<li><span style="font-weight: 400;">What is Sovereign Engineering?&nbsp;</span></li>
+<li><a href="https://llvm.org/"><span style="font-weight: 400;">LLVM</span></a><span style="font-weight: 400;"> and the other side of the bell-curve&nbsp;</span></li>
+<li><span style="font-weight: 400;">How nostr gives you users, discovery, mircopayments, a backend, and many other things for free&nbsp;</span></li>
+<li><span style="font-weight: 400;">Echo chambers &amp; virality&nbsp;</span></li>
+<li><span style="font-weight: 400;">Authenticity &amp; Realness&nbsp;</span></li>
+<li><span style="font-weight: 400;">Growing on the edges, catering to the fringe&nbsp;</span></li>
+<li><span style="font-weight: 400;">You don't own your iPhone&nbsp;</span></li>
+<li><a href="https://grapheneos.org/"><span style="font-weight: 400;">GrapheneOS</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">WebRTC and other monolithic "open" standards&nbsp;</span></li>
+<li><span style="font-weight: 400;">Optimizing for the wrong thing&nbsp;</span></li>
+<li><span style="font-weight: 400;">Building a nostr phone &amp; Gigi's </span><a href="https://njump.me/nevent1qqsr4scsxwpvleeklkq60l6300s8hnkt579az2guhctv26slv0k3axcpz3mhxue69uhkummnw3ezummcw3ezuer9wcpzqmjxss3dld622uu8q25gywum9qtg4w4cv4064jmg20xsac2aam5nqvzqqqqqqyqz2yg6"><span style="font-weight: 400;">dream flow</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Using nostr to sync dotfile setups and other things&nbsp;</span></li>
+<li><span style="font-weight: 400;">"There are no solutions, only trade-offs"&nbsp;</span></li>
+<li><span style="font-weight: 400;">Cross-platform development&nbsp;</span></li>
+<li><span style="font-weight: 400;">Native vs non-native implementations</span></li>
+<li><span style="font-weight: 400;">Vitor's point on </span><a href="https://njump.me/nevent1qqsqzpr2ux0h8g2ccdjaavgll2vczpv5lvgwzxwjvuc2vn87c2dxe0gelp5ky"><span style="font-weight: 400;">what we mean by native</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Does your custom UI framework work for blind people?&nbsp;</span></li>
+<li><a href="https://ladybird.org/"><span style="font-weight: 400;">Ladybird</span></a><span style="font-weight: 400;"> browser &amp; how to build a browser from scratch&nbsp;</span></li>
+<li><a href="https://templeos.org/"><span style="font-weight: 400;">TempleOS</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Form follows function &amp; 90's interfaces&nbsp;</span></li>
+<li><span style="font-weight: 400;">Lamentations on the state of modern browsers&nbsp;</span></li>
+<li><span style="font-weight: 400;">Complexity &amp; the downfall of the Legacy Web&nbsp;</span></li>
+<li><span style="font-weight: 400;">Nostr as the "new internet"&nbsp;</span></li>
+<li><span style="font-weight: 400;">Talks by Ladybird developer </span><a href="https://duckduckgo.com/?q=andreas+kling+ladybird&amp;iax=videos&amp;ia=videos"><span style="font-weight: 400;">Andreas Kling</span></a></li>
+<li><span style="font-weight: 400;">Will's attempt of building it from scratch with </span><a href="https://damus.io/notedeck/"><span style="font-weight: 400;">Notedeck</span></a><span style="font-weight: 400;"> &amp; </span><a href="https://github.com/damus-io/nostrdb"><span style="font-weight: 400;">nostr-db</span></a></li>
+<li><span style="font-weight: 400;">Justin's attempt with </span><a href="https://github.com/justinmoon/rust-multiplatform"><span style="font-weight: 400;">rust-multiplatform</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">"If it doesn't have a rust implementation, you shouldn't use it."</span></li>
+<li><span style="font-weight: 400;">Native in terms of speed vs native in terms of UI/UX&nbsp;</span></li>
+<li><span style="font-weight: 400;">Engineer the logic, vibe-code the UI&nbsp;</span></li>
+<li><span style="font-weight: 400;">From Excalidraw to app in minutes&nbsp;</span></li>
+<li><span style="font-weight: 400;">What can you one-shot?&nbsp;</span></li>
+<li><span style="font-weight: 400;">What do you need to care about?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Pablo's NDK snippets&nbsp;</span></li>
+<li><a href="https://eugenkiss.github.io/7guis/"><span style="font-weight: 400;">7GUIs</span></a><span style="font-weight: 400;"> and GUI benchmarks for LLMs</span></li>
+<li><span style="font-weight: 400;">"Now we're purpose-building tools to make it easier for LLMs"&nbsp;</span></li>
+<li><span style="font-weight: 400;">"Certain tools really make your problems go away."</span></li>
+<li><span style="font-weight: 400;">Macros and meta-programming&nbsp;</span></li>
+<li><span style="font-weight: 400;">Zig's </span><a href="https://zig.guide/language-basics/comptime/"><span style="font-weight: 400;">comptime</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">UNIX tools and pipes&nbsp;</span></li>
+<li><span style="font-weight: 400;">Simple tools &amp; composability</span></li>
+<li><span style="font-weight: 400;">Nostr tools for iOS &amp; sharing developer signing keys&nbsp;</span></li>
+<li><span style="font-weight: 400;">Building 10 apps as one guy&nbsp;</span></li>
+<li><span style="font-weight: 400;">Simplicity in a community context&nbsp;</span></li>
+<li><span style="font-weight: 400;">Most people are on phones&nbsp;</span></li>
+<li><span style="font-weight: 400;">Most people don't install PWAs&nbsp;</span></li>
+<li><a href="https://zapstore.dev/"><span style="font-weight: 400;">Zapstore</span></a><span style="font-weight: 400;"> &amp; building our own distribution channels</span></li>
+<li><span style="font-weight: 400;">Web-of-trust and pushing builds quickly&nbsp;</span></li>
+<li><span style="font-weight: 400;">Improving homebrew by 10x&nbsp;</span></li>
+<li><span style="font-weight: 400;">(Micro)payments for package managers&nbsp;</span></li>
+<li><span style="font-weight: 400;">Guix and bitcoin-core&nbsp;</span></li>
+<li><span style="font-weight: 400;">Nix vs Guix&nbsp;</span></li>
+<li><span style="font-weight: 400;">Reproducible builds &amp; web-of-trust&nbsp;</span></li>
+<li><a href="https://keet.io/"><span style="font-weight: 400;">Keet</span></a><span style="font-weight: 400;"> vs "calling an npub"&nbsp;</span></li>
+<li><span style="font-weight: 400;">Getting into someone's notifications&nbsp;</span></li>
+<li><span style="font-weight: 400;">Removing the </span><a href="https://njump.me/nevent1qqsxvahg4a2l6jtv5da9jycx9q0g6rjrtsgpzgj47grv7ct47yr59xgzyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxqcyqqqqqqgx9jtpx"><span style="font-weight: 400;">character limit</span></a><span style="font-weight: 400;"> was a mistake</span></li>
+</ul>
+<p>&nbsp;</p>]]></description>
       <itunes:image href="https://haven.sovereignengineering.io/0e94404df275cb94e64c424fb58267accce316cbe0102561052a81074d5a35a4.jpg"/>
       <enclosure url="https://haven.sovereignengineering.io/3468fad22a44ed15ca63aa20be91fbf53a38250558ba13b8c4994d9178687c12.m4a" length="89611955" type="audio/mpeg"/>
       <podcast:person href="https://github.com/justinmoon" img="https://image.nostr.build/5ff6b14087a7041e96ba44147dd134e423624c2658bb06bed2573d78babd94d6.jpg" group="cast" role="guest">Pablo</podcast:person>
       <podcast:funding url="https://njump.me/npub1n00yy9y3704drtpph5wszen64w287nquftkcwcjv7gnnkpk2q54s73000n">Zaps are appreciated! #value4value ⚡🧡</podcast:funding>
+      <podcast:transcript url="https://haven.sovereignengineering.io/c5ceb682b9a1200d1b6e82f31bcf000a47fc93ef73209051d3e93dda9d9a2da3.srt" type="application/srt"/>
       <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
         <podcast:valueRecipient name="Gigi" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="100"/>
         <podcast:valueRecipient name="Sovereign Feeds" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" type="node" fee="true" split="1"/>
@@ -69,11 +209,150 @@ Est. 882,690. Inspired by Sovereign Engineering https://njump.me/no-solutions@so
       <itunes:explicit>No</itunes:explicit>
       <itunes:keywords>nostr, development, sovereign engineering, shipping, memes, web, internet, conversation, dialog</itunes:keywords>
       <itunes:summary><![CDATA[<p><span style="font-weight: 400;">&ldquo;The age of the idea guys has begun.&rdquo;</span></p>
-<p><a href="https://njump.me/npub1zxu639qym0esxnn7rzrt48wycmfhdu3e5yvzwx7ja3t84zyc2r8qz8cx2y">Justin</a><span style="font-weight: 400;">&nbsp;&amp; </span><a href="https://njump.me/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc"><span style="font-weight: 400;">Gigi</span></a><span style="font-weight: 400;"> vibe about Zig.</span></p>
+<p><a href="https://njump.me/npub1zxu639qym0esxnn7rzrt48wycmfhdu3e5yvzwx7ja3t84zyc2r8qz8cx2y"><span style="font-weight: 400;">Justin</span></a><span style="font-weight: 400;"> &amp;</span><a href="https://njump.me/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc"><span style="font-weight: 400;"> </span><span style="font-weight: 400;">Gigi</span></a><span style="font-weight: 400;"> vibe about Zig.</span></p>
+<p><span style="font-weight: 400;">Articles mentioned:</span></p>
+<ul>
+<li><a href="https://wattenberger.com/thoughts/llms-as-a-tool-for-thought"><span style="font-weight: 400;">LLMs as a tool for thought</span></a><span style="font-weight: 400;"> by Amelia Wattenberger</span></li>
+<li><a href="https://nakamotoinstitute.org/library/micropayments-and-mental-transaction-costs/"><span style="font-weight: 400;">Micropayments and Mental Transaction Costs</span></a><span style="font-weight: 400;"> by Nick Szabo</span></li>
+<li><a href="https://wattenberger.com/thoughts/our-interfaces-have-lost-their-senses"><span style="font-weight: 400;">How our interfaces have lost their senses</span></a><span style="font-weight: 400;"> by Amelia Wattenberger</span></li>
+</ul>
+<p><span style="font-weight: 400;">Talks mentioned:</span></p>
+<ul>
+<li><a href="https://youtu.be/PBAuHv5cPl8"><span style="font-weight: 400;">The Art of Bitcoin Rhetoric</span></a><span style="font-weight: 400;"> by Bitstein</span></li>
+</ul>
+<p><span style="font-weight: 400;">Books mentioned:</span></p>
+<ul>
+<li><a href="https://bitcoin-resources.com/books/human-action"><span style="font-weight: 400;">Human Action</span></a><span style="font-weight: 400;"> by Ludwig von Mises</span></li>
+<li><a href="https://bitcoin-resources.com/books/working-in-public"><span style="font-weight: 400;">Working in Public</span></a><span style="font-weight: 400;"> by Nadia Eghbal</span></li>
+</ul>
 <p><span style="font-weight: 400;">In this dialogue:</span></p>
 <ul>
-<li><a href="https://ziglang.org/">Zig</a></li>
-</ul>]]></itunes:summary>
+<li><a href="https://github.com/fiatjaf/nak"><span style="font-weight: 400;">nak</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Files</span></li>
+<li><a href="https://syncthing.net/"><span style="font-weight: 400;">SyncThing</span></a><span style="font-weight: 400;"> (and how it BitTorrent Sync became Resilio Sync)&nbsp;</span></li>
+<li><span style="font-weight: 400;">Convention over configuration&nbsp;</span></li>
+<li><span style="font-weight: 400;">Changes &amp; speciation&nbsp;</span></li>
+<li><span style="font-weight: 400;">File systems as sources of truth&nbsp;</span></li>
+<li><span style="font-weight: 400;">Vibe-coding shower thoughts&nbsp;</span></li>
+<li><span style="font-weight: 400;">Inspiration and The Muse&nbsp;</span></li>
+<li><span style="font-weight: 400;">Justin's LLM setup&nbsp;</span></li>
+<li><span style="font-weight: 400;">Tony's setup (o1-pro as the architect)&nbsp;</span></li>
+<li><span style="font-weight: 400;">Being okay with paying for LLMs&nbsp;</span></li>
+<li><span style="font-weight: 400;">Anthropomorphising LLMs</span></li>
+<li><span style="font-weight: 400;">Dialog, </span><a href="https://rubberduckdebugging.com/"><span style="font-weight: 400;">rubber-duck debugging</span></a><span style="font-weight: 400;">, and the process of thinking&nbsp;</span></li>
+<li><span style="font-weight: 400;">Being nice and mean to LLMs</span></li>
+<li><a href="https://njump.me/nevent1qqsgmjffd7n382dj4e2l9dtctnrx98lw0vnt86rfggrgfq6vfpnysmszyqgmn2y5qndlxq6w0cvgdw5acnrdxahj8xs3sfcm6tk9v75gnpgvu6htgn9"><span style="font-weight: 400;">Battlebots</span></a><span style="font-weight: 400;"> &amp; Gladiators</span></li>
+<li><span style="font-weight: 400;">Hedging your bets by being nice to Skynet</span></li>
+<li><span style="font-weight: 400;">Pascal's Wager for AI</span></li>
+<li><span style="font-weight: 400;">Thinking models vs non-thinking faster models</span></li>
+<li><span style="font-weight: 400;">Sandwich-style LLM prompting, again (waterfall stuff, </span><a href="https://gist.github.com/dskvr/b34f836b68ff2ca51bcc8fe7763eceec"><span style="font-weight: 400;">HLDD / LLDD</span></a><span style="font-weight: 400;">)&nbsp;</span></li>
+<li><span style="font-weight: 400;">Cursor rules &amp; Paul's </span><a href="https://github.com/futurepaul/prompt-buddy"><span style="font-weight: 400;">Prompt Buddy</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Giving lots of context vs giving specific context&nbsp;</span></li>
+<li><span style="font-weight: 400;">The benefit of LLMs figuring out obscure bugs in minutes (instead of days)&nbsp;</span></li>
+<li><span style="font-weight: 400;">The phase change of fast iteration and vibe coding&nbsp;</span></li>
+<li><span style="font-weight: 400;">Idea level vs coding level&nbsp;</span></li>
+<li><span style="font-weight: 400;">High-level vs low-level languages&nbsp;</span></li>
+<li><span style="font-weight: 400;">Gigi's "vibeline"&nbsp;</span></li>
+<li><a href="https://duckduckgo.com/?q=peterson+logos&amp;iar=videos&amp;iax=videos&amp;ia=videos"><span style="font-weight: 400;">Peterson</span></a><span style="font-weight: 400;">'s Logos vs </span><a href="https://duckduckgo.com/?q=vervaeke+dialogos&amp;iax=videos&amp;ia=videos"><span style="font-weight: 400;">Vervaeke</span></a><span style="font-weight: 400;">'s Dia-Logos&nbsp;</span></li>
+<li><span style="font-weight: 400;">Entering into a conversation with technology&nbsp;</span></li>
+<li><span style="font-weight: 400;">Introducing MCPs into your workflow</span></li>
+<li><span style="font-weight: 400;">How does Claude think?&nbsp;</span></li>
+<li><span style="font-weight: 400;">How does it create a rhyme?</span></li>
+<li><span style="font-weight: 400;">How does thinking work?&nbsp;</span></li>
+<li><span style="font-weight: 400;">And how does it relate to dialogue?</span></li>
+<li><span style="font-weight: 400;">Gzuuus' </span><a href="https://github.com/gzuuus/dvmcp"><span style="font-weight: 400;">DVMCP</span></a><span style="font-weight: 400;"> &amp; using nostr as an AI substrate</span></li>
+<li><span style="font-weight: 400;">Language Server Protocols (LSPs)</span></li>
+<li><span style="font-weight: 400;">VAAS: Vibe-coding as a service</span></li>
+<li><span style="font-weight: 400;">Open models vs proprietary models</span></li>
+<li><span style="font-weight: 400;">What Cursor got right</span></li>
+<li><span style="font-weight: 400;">What ChatGPT got right&nbsp;</span></li>
+<li><span style="font-weight: 400;">What Google got right</span></li>
+<li><span style="font-weight: 400;">Tight integration of tools &amp; remaining in a flow state</span></li>
+<li><span style="font-weight: 400;">LLMs as conversational partners</span></li>
+<li><span style="font-weight: 400;">The cost of context switching&nbsp;</span></li>
+<li><span style="font-weight: 400;">Conversational flow &amp; how to stay in it&nbsp;</span></li>
+<li><span style="font-weight: 400;">Prompts VS diary entries&nbsp;</span></li>
+<li><span style="font-weight: 400;">Solving technical vs philosophical models&nbsp;</span></li>
+<li><span style="font-weight: 400;">Buying GPUs &amp; training your own models&nbsp;</span></li>
+<li><span style="font-weight: 400;">Training LLMs to understand Zig&nbsp;</span></li>
+<li><span style="font-weight: 400;">Preventing entryism by writing </span><a href="https://ziglang.org/documentation/master/"><span style="font-weight: 400;">no documentation</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Thin layers &amp; alignment layers&nbsp;</span></li>
+<li><a href="https://bitcoin-resources.com/books/working-in-public"><span style="font-weight: 400;">Working in public</span></a><span style="font-weight: 400;"> &amp; thinking in public&nbsp;</span></li>
+<li><span style="font-weight: 400;">Building a therapist / diary / notes / idea / task system</span></li>
+<li><span style="font-weight: 400;">"The age of the idea guys has begun."</span></li>
+<li><span style="font-weight: 400;">Daemons and spirits&nbsp;</span></li>
+<li><span style="font-weight: 400;">Monological VS dialogical thinking&nbsp;</span></li>
+<li><span style="font-weight: 400;">Yes-men and disagreeable LLMs&nbsp;</span></li>
+<li><span style="font-weight: 400;">Energy cost vs human cost&nbsp;</span></li>
+<li><span style="font-weight: 400;">Paying by the meter vs paying a subscription&nbsp;</span></li>
+<li><span style="font-weight: 400;">The equivalence of storage and compute&nbsp;</span></li>
+<li><span style="font-weight: 400;">Thinking needs memory, and memory is about the future&nbsp;</span></li>
+<li><span style="font-weight: 400;">Nostr+ecash as the perfect AI+human substrate&nbsp;</span></li>
+<li><span style="font-weight: 400;">Real cost, real consequence, and Human Action&nbsp;</span></li>
+<li><span style="font-weight: 400;">The cost of words &amp; speaking&nbsp;</span></li>
+<li><span style="font-weight: 400;">Costly signals and free markets&nbsp;</span></li>
+<li><span style="font-weight: 400;">From shitcoin tokens to LLM tokens to ecash tokens&nbsp;</span></li>
+<li><span style="font-weight: 400;">Being too close to the metal &amp; not seeing the forest for the trees&nbsp;</span></li>
+<li><span style="font-weight: 400;">Power users vs engineers&nbsp;</span></li>
+<li><span style="font-weight: 400;">Participatory knowing and actually using the tools&nbsp;</span></li>
+<li><span style="font-weight: 400;">Nostr as the germination ground for ecash&nbsp;</span></li>
+<li><span style="font-weight: 400;">What is Sovereign Engineering?&nbsp;</span></li>
+<li><a href="https://llvm.org/"><span style="font-weight: 400;">LLVM</span></a><span style="font-weight: 400;"> and the other side of the bell-curve&nbsp;</span></li>
+<li><span style="font-weight: 400;">How nostr gives you users, discovery, mircopayments, a backend, and many other things for free&nbsp;</span></li>
+<li><span style="font-weight: 400;">Echo chambers &amp; virality&nbsp;</span></li>
+<li><span style="font-weight: 400;">Authenticity &amp; Realness&nbsp;</span></li>
+<li><span style="font-weight: 400;">Growing on the edges, catering to the fringe&nbsp;</span></li>
+<li><span style="font-weight: 400;">You don't own your iPhone&nbsp;</span></li>
+<li><a href="https://grapheneos.org/"><span style="font-weight: 400;">GrapheneOS</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">WebRTC and other monolithic "open" standards&nbsp;</span></li>
+<li><span style="font-weight: 400;">Optimizing for the wrong thing&nbsp;</span></li>
+<li><span style="font-weight: 400;">Building a nostr phone &amp; Gigi's </span><a href="https://njump.me/nevent1qqsr4scsxwpvleeklkq60l6300s8hnkt579az2guhctv26slv0k3axcpz3mhxue69uhkummnw3ezummcw3ezuer9wcpzqmjxss3dld622uu8q25gywum9qtg4w4cv4064jmg20xsac2aam5nqvzqqqqqqyqz2yg6"><span style="font-weight: 400;">dream flow</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Using nostr to sync dotfile setups and other things&nbsp;</span></li>
+<li><span style="font-weight: 400;">"There are no solutions, only trade-offs"&nbsp;</span></li>
+<li><span style="font-weight: 400;">Cross-platform development&nbsp;</span></li>
+<li><span style="font-weight: 400;">Native vs non-native implementations</span></li>
+<li><span style="font-weight: 400;">Vitor's point on </span><a href="https://njump.me/nevent1qqsqzpr2ux0h8g2ccdjaavgll2vczpv5lvgwzxwjvuc2vn87c2dxe0gelp5ky"><span style="font-weight: 400;">what we mean by native</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Does your custom UI framework work for blind people?&nbsp;</span></li>
+<li><a href="https://ladybird.org/"><span style="font-weight: 400;">Ladybird</span></a><span style="font-weight: 400;"> browser &amp; how to build a browser from scratch&nbsp;</span></li>
+<li><a href="https://templeos.org/"><span style="font-weight: 400;">TempleOS</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Form follows function &amp; 90's interfaces&nbsp;</span></li>
+<li><span style="font-weight: 400;">Lamentations on the state of modern browsers&nbsp;</span></li>
+<li><span style="font-weight: 400;">Complexity &amp; the downfall of the Legacy Web&nbsp;</span></li>
+<li><span style="font-weight: 400;">Nostr as the "new internet"&nbsp;</span></li>
+<li><span style="font-weight: 400;">Talks by Ladybird developer </span><a href="https://duckduckgo.com/?q=andreas+kling+ladybird&amp;iax=videos&amp;ia=videos"><span style="font-weight: 400;">Andreas Kling</span></a></li>
+<li><span style="font-weight: 400;">Will's attempt of building it from scratch with </span><a href="https://damus.io/notedeck/"><span style="font-weight: 400;">Notedeck</span></a><span style="font-weight: 400;"> &amp; </span><a href="https://github.com/damus-io/nostrdb"><span style="font-weight: 400;">nostr-db</span></a></li>
+<li><span style="font-weight: 400;">Justin's attempt with </span><a href="https://github.com/justinmoon/rust-multiplatform"><span style="font-weight: 400;">rust-multiplatform</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">"If it doesn't have a rust implementation, you shouldn't use it."</span></li>
+<li><span style="font-weight: 400;">Native in terms of speed vs native in terms of UI/UX&nbsp;</span></li>
+<li><span style="font-weight: 400;">Engineer the logic, vibe-code the UI&nbsp;</span></li>
+<li><span style="font-weight: 400;">From Excalidraw to app in minutes&nbsp;</span></li>
+<li><span style="font-weight: 400;">What can you one-shot?&nbsp;</span></li>
+<li><span style="font-weight: 400;">What do you need to care about?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Pablo's NDK snippets&nbsp;</span></li>
+<li><a href="https://eugenkiss.github.io/7guis/"><span style="font-weight: 400;">7GUIs</span></a><span style="font-weight: 400;"> and GUI benchmarks for LLMs</span></li>
+<li><span style="font-weight: 400;">"Now we're purpose-building tools to make it easier for LLMs"&nbsp;</span></li>
+<li><span style="font-weight: 400;">"Certain tools really make your problems go away."</span></li>
+<li><span style="font-weight: 400;">Macros and meta-programming&nbsp;</span></li>
+<li><span style="font-weight: 400;">Zig's </span><a href="https://zig.guide/language-basics/comptime/"><span style="font-weight: 400;">comptime</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">UNIX tools and pipes&nbsp;</span></li>
+<li><span style="font-weight: 400;">Simple tools &amp; composability</span></li>
+<li><span style="font-weight: 400;">Nostr tools for iOS &amp; sharing developer signing keys&nbsp;</span></li>
+<li><span style="font-weight: 400;">Building 10 apps as one guy&nbsp;</span></li>
+<li><span style="font-weight: 400;">Simplicity in a community context&nbsp;</span></li>
+<li><span style="font-weight: 400;">Most people are on phones&nbsp;</span></li>
+<li><span style="font-weight: 400;">Most people don't install PWAs&nbsp;</span></li>
+<li><a href="https://zapstore.dev/"><span style="font-weight: 400;">Zapstore</span></a><span style="font-weight: 400;"> &amp; building our own distribution channels</span></li>
+<li><span style="font-weight: 400;">Web-of-trust and pushing builds quickly&nbsp;</span></li>
+<li><span style="font-weight: 400;">Improving homebrew by 10x&nbsp;</span></li>
+<li><span style="font-weight: 400;">(Micro)payments for package managers&nbsp;</span></li>
+<li><span style="font-weight: 400;">Guix and bitcoin-core&nbsp;</span></li>
+<li><span style="font-weight: 400;">Nix vs Guix&nbsp;</span></li>
+<li><span style="font-weight: 400;">Reproducible builds &amp; web-of-trust&nbsp;</span></li>
+<li><a href="https://keet.io/"><span style="font-weight: 400;">Keet</span></a><span style="font-weight: 400;"> vs "calling an npub"&nbsp;</span></li>
+<li><span style="font-weight: 400;">Getting into someone's notifications&nbsp;</span></li>
+<li><span style="font-weight: 400;">Removing the </span><a href="https://njump.me/nevent1qqsxvahg4a2l6jtv5da9jycx9q0g6rjrtsgpzgj47grv7ct47yr59xgzyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxqcyqqqqqqgx9jtpx"><span style="font-weight: 400;">character limit</span></a><span style="font-weight: 400;"> was a mistake</span></li>
+</ul>
+<p>&nbsp;</p>]]></itunes:summary>
     </item>
     <item>
       <title>#06 - The Winds of AI</title>
