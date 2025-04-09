@@ -37,11 +37,257 @@ Est. 882,690. Inspired by Sovereign Engineering https://njump.me/no-solutions@so
     <itunes:keywords>nostr, development, sovereign engineering, shipping, memes, web, internet, conversation, dialog</itunes:keywords>
     <itunes:author>Gigi</itunes:author>
     <managingEditor>Sovereign Feeds</managingEditor>
-    <pubDate>Sat, 29 Mar 2025 10:00:04 +0000</pubDate>
-    <lastBuildDate>Sat, 29 Mar 2025 10:00:04 +0000</lastBuildDate>
+    <pubDate>Wed, 09 Apr 2025 19:51:48 +0000</pubDate>
+    <lastBuildDate>Wed, 09 Apr 2025 19:51:48 +0000</lastBuildDate>
     <category>Technology</category>
     <category/>
-    <podcast:guid>e66d6b99-6cc4-5890-a54b-4e2d865e0bc1</podcast:guid>
+    <podcast:guid>a5e67719-96b2-5f13-8776-84e65a6da293</podcast:guid>
+    <item>
+      <title>#08 - Navigating the Vibe</title>
+      <description><![CDATA[<p><span style="font-weight: 400;">"With the shift towards this multi-agent collaboration and orchestration world, you need a neutral substrate that has money, identity, cryptography, and web-of-trust&nbsp; baked in, to make everything work."</span></p>
+<p><a href="https://njump.me/npub1l2vyh47mk2p0qlsku7hg0vn29faehy9hy34ygaclpn66ukqp3afqutajft"><span style="font-weight: 400;">Pablo</span></a><span style="font-weight: 400;"> &amp; </span><a href="https://njump.me/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc"><span style="font-weight: 400;">Gigi</span></a><span style="font-weight: 400;"> are getting high on <span style="text-decoration: line-through;">glue</span> nostr.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Books and articles mentioned:</span></p>
+<ul>
+<li><a href="https://www.goodreads.com/book/show/36656180-saving-beauty"><span style="font-weight: 400;">Saving beauty</span></a><span style="font-weight: 400;"> by Byung-Chul Han</span></li>
+<li><a href="https://wattenberger.com/thoughts/llms-as-a-tool-for-thought"><span style="font-weight: 400;">LLMs as a tool for thought</span></a><span style="font-weight: 400;"> by Amelia Wattenberger</span></li>
+</ul>
+<p><span style="font-weight: 400;">In this dialogue:</span></p>
+<ul>
+<li><a href="https://github.com/dergigi/vibeline"><span style="font-weight: 400;">vibeline</span></a><span style="font-weight: 400;"> &amp; </span><a href="https://github.com/dergigi/vibeline-ui"><span style="font-weight: 400;">vibeline-ui</span></a></li>
+<li><span style="font-weight: 400;">LLMs as tools, and how to use them</span></li>
+<li><span style="font-weight: 400;">Vervaeke: </span><a href="https://www.youtube.com/watch?v=A-_RdKiDbz4"><span style="font-weight: 400;">AI thresholds &amp; the path we must take</span></a></li>
+<li><span style="font-weight: 400;">Hallucinations and grounding in reality</span></li>
+<li><span style="font-weight: 400;">GPL, LLMs, and </span><a href="https://danb.me/blog/llms-licensing/"><span style="font-weight: 400;">open-source licensing</span></a></li>
+<li><span style="font-weight: 400;">Pablo's multi-agent Roo setup</span></li>
+<li><span style="font-weight: 400;">Are we going to make programmers obsolete?</span></li>
+<li><span style="font-weight: 400;">"When it works it's amazing"</span></li>
+<li><span style="font-weight: 400;">Hiring &amp; training agents</span></li>
+<li><span style="font-weight: 400;">Agents creating RAG databases of NIPs</span></li>
+<li><span style="font-weight: 400;">Different models and their context windows</span></li>
+<li><span style="font-weight: 400;">Generalists vs specialists</span></li>
+<li><span style="font-weight: 400;">"Write drunk, edit sober"</span></li>
+<li><a href="https://dvmcp.fun/"><span style="font-weight: 400;">DVMCP.fun</span></a></li>
+<li><span style="font-weight: 400;">Recklessness and destruction of vibe-coding&nbsp;</span></li>
+<li><span style="font-weight: 400;">Sharing secrets with agents &amp; LLMs&nbsp;</span></li>
+<li><span style="font-weight: 400;">The "no API key" advantage of nostr</span></li>
+<li><span style="font-weight: 400;">What data to trust? And how does nostr help?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Identity, web of trust, and signing data&nbsp;</span></li>
+<li><span style="font-weight: 400;">How to fight </span><a href="https://nostr.band/?q=%23aislop"><span style="font-weight: 400;">AI slop</span></a></li>
+<li><span style="font-weight: 400;">Marketplaces of code snippets&nbsp;</span></li>
+<li><span style="font-weight: 400;">Restricting agents with expert knowledge&nbsp;</span></li>
+<li><span style="font-weight: 400;">Trusted sources without a central repository&nbsp;</span></li>
+<li><a href="https://zapstore.dev/"><span style="font-weight: 400;">Zapstore</span></a><span style="font-weight: 400;"> as the prime example&nbsp;</span></li>
+<li><span style="font-weight: 400;">"How do you fight off re-inventing GitHub?"&nbsp;</span></li>
+<li><span style="font-weight: 400;">Using large context windows to help with refactoring&nbsp;</span></li>
+<li><span style="font-weight: 400;">Code snippets for </span><a href="https://olas.app/"><span style="font-weight: 400;">Olas</span></a><span style="font-weight: 400;">, </span><a href="https://github.com/nostr-dev-kit/ndk"><span style="font-weight: 400;">NDK</span></a><span style="font-weight: 400;">, NIP-60, and more</span></li>
+<li><span style="font-weight: 400;">Using MCP as the base&nbsp;</span></li>
+<li><span style="font-weight: 400;">Using nostr as the underlying substrate&nbsp;</span></li>
+<li><span style="font-weight: 400;">Nostr as the glue &amp; the discovery layer&nbsp;</span></li>
+<li><span style="font-weight: 400;">Why is this important?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Why is this exciting?&nbsp;</span></li>
+<li><span style="font-weight: 400;">"With the shift towards this multi-agent collaboration and orchestration world, you need a neutral substrate that has money/identity/cryptography and web-of-trust&nbsp; baked in, to make everything work."</span></li>
+<li><span style="font-weight: 400;">How to single-shot nostr applications&nbsp;</span></li>
+<li><span style="font-weight: 400;">"Go and create this app"&nbsp;</span></li>
+<li><span style="font-weight: 400;">The agent has money, because of </span><a href="https://nips.nostr.com/60"><span style="font-weight: 400;">NIP-60</span></a><span style="font-weight: 400;">/</span><a href="https://nips.nostr.com/61"><span style="font-weight: 400;">61</span></a></li>
+<li><a href="https://ppq.ai/"><span style="font-weight: 400;">PayPerQ</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Anthropic and the genius of </span><a href="https://modelcontextprotocol.io/docs/concepts/tools"><span style="font-weight: 400;">mcp-tools</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Agents zapping &amp; giving SkyNet more money&nbsp;</span></li>
+<li><span style="font-weight: 400;">Are we going to run the mints?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Are agents going to run the mints?&nbsp;</span></li>
+<li><span style="font-weight: 400;">How can we best explain this to our bubble?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Let alone to people outside of our bubble?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Building pipelines of multiple agents&nbsp;</span></li>
+<li><span style="font-weight: 400;">LLM chains &amp; piped Unix tools&nbsp;</span></li>
+<li><span style="font-weight: 400;">OpenAI vs Anthropic&nbsp;</span></li>
+<li><span style="font-weight: 400;">Genius models without tools vs midwit models with tools&nbsp;</span></li>
+<li><span style="font-weight: 400;">Re-thinking software development&nbsp;</span></li>
+<li><span style="font-weight: 400;">LLMs allow you to tackle bigger problems&nbsp;</span></li>
+<li><span style="font-weight: 400;">Increased speed is a paradigm shift&nbsp;</span></li>
+<li><span style="font-weight: 400;">Generalists vs specialists, left brain vs right brain&nbsp;</span></li>
+<li><span style="font-weight: 400;">Nostr as the home for specialists&nbsp;</span></li>
+<li><span style="font-weight: 400;">fiatjaf publishing snippets (reluctantly)&nbsp;</span></li>
+<li><span style="font-weight: 400;">fiatjaf's </span><a href="https://github.com/fiatjaf/blossom"><span style="font-weight: 400;">blossom</span></a><span style="font-weight: 400;"> implementation&nbsp;</span></li>
+<li><span style="font-weight: 400;">Thinking with LLMs</span></li>
+<li><span style="font-weight: 400;">The tension of specialization VS generalization&nbsp;</span></li>
+<li><span style="font-weight: 400;">How the publishing world changed</span></li>
+<li><span style="font-weight: 400;">Stupid faces on YouTube thumbnails&nbsp;</span></li>
+<li><span style="font-weight: 400;">Gaming the algorithm&nbsp;</span></li>
+<li><span style="font-weight: 400;">Will AI slop destroy the attention economy?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Recency bias &amp; hiding publication dates&nbsp;</span></li>
+<li><span style="font-weight: 400;">Undoing platform conditioning as a success metric&nbsp;</span></li>
+<li><span style="font-weight: 400;">Craving realness in a fake attention world&nbsp;</span></li>
+<li><span style="font-weight: 400;">The theater of the attention economy&nbsp;</span></li>
+<li><span style="font-weight: 400;">What TikTok got "right"&nbsp;</span></li>
+<li><span style="font-weight: 400;">Porn, FoodPorn, EarthPorn, etc.&nbsp;</span></li>
+<li><span style="font-weight: 400;">Porn vs Beauty&nbsp;</span></li>
+<li><span style="font-weight: 400;">Smoothness and awe&nbsp;</span></li>
+<li><span style="font-weight: 400;">"Beauty is an angel that could kill you in an instant (but decides not to)."</span></li>
+<li><span style="font-weight: 400;">The success of Joe Rogan &amp; long-form conversations&nbsp;</span></li>
+<li><span style="font-weight: 400;">Smoothness fatigue &amp; how our feeds numb us&nbsp;</span></li>
+<li><span style="font-weight: 400;">Nostr &amp; touching grass&nbsp;</span></li>
+<li><span style="font-weight: 400;">How movement changes conversations&nbsp;</span></li>
+<li><span style="font-weight: 400;">LangChain &amp; DVMs&nbsp;</span></li>
+<li><span style="font-weight: 400;">Central models vs marketplaces&nbsp;</span></li>
+<li><span style="font-weight: 400;">Going from assembly to high-level to conceptual&nbsp;</span></li>
+<li><span style="font-weight: 400;">Natural language VS programming languages&nbsp;</span></li>
+<li><span style="font-weight: 400;">Pablo's code snippets&nbsp;</span></li>
+<li><span style="font-weight: 400;">Writing documentation for LLMs</span></li>
+<li><span style="font-weight: 400;">Shared concepts, shared language, and forks&nbsp;</span></li>
+<li><span style="font-weight: 400;">Vibe-forking open-source software&nbsp;</span></li>
+<li><span style="font-weight: 400;">Spotting vibe-coded interfaces&nbsp;</span></li>
+<li><span style="font-weight: 400;">Visualizing nostr data in a 3D world&nbsp;</span></li>
+<li><span style="font-weight: 400;">Tweets, blog posts, and podcasts&nbsp;</span></li>
+<li><span style="font-weight: 400;">Vibe-producing blog posts from conversations&nbsp;</span></li>
+<li><span style="font-weight: 400;">Tweets are excellent for discovery&nbsp;</span></li>
+<li><span style="font-weight: 400;">Adding context to tweets (long-form posts, podcasts, etc)&nbsp;</span></li>
+<li><span style="font-weight: 400;">Removing the character limit was a mistake&nbsp;</span></li>
+<li><span style="font-weight: 400;">"Everyone's attention span is rekt"</span></li>
+<li><span style="font-weight: 400;">"There is no meaning without friction"&nbsp;</span></li>
+<li><span style="font-weight: 400;">"Nothing worth having ever comes easy"&nbsp;</span></li>
+<li><span style="font-weight: 400;">Being okay with doing the hard thing</span></li>
+<li><span style="font-weight: 400;">Growth hacks &amp; engagement bait</span></li>
+<li><span style="font-weight: 400;">TikTok, theater, and showing faces and emotions</span></li>
+<li><span style="font-weight: 400;">The </span><a href="https://en.wikipedia.org/wiki/1%25_rule"><span style="font-weight: 400;">1% rule</span></a><span style="font-weight: 400;">: 99% of internet users are Lurkers</span></li>
+<li><span style="font-weight: 400;">"We are socially malnourished"</span></li>
+<li><a href="https://vertexlab.io/"><span style="font-weight: 400;">Web-of-trust</span></a><span style="font-weight: 400;"> and zaps bring realness</span></li>
+<li><span style="font-weight: 400;">The semantic web does NOT fix this LLMs might</span></li>
+<li><span style="font-weight: 400;">"You can not model the world perfectly"</span></li>
+<li><span style="font-weight: 400;">Hallucination as a requirement for creativity</span></li>
+</ul>
+<p><br /><br /></p>]]></description>
+      <itunes:image href="https://haven.sovereignengineering.io/4332ee0d3237589630450057f5a8643b7dadd5be9fc8906fee8b3fd3619d5fdc.jpg"/>
+      <enclosure url="https://haven.sovereignengineering.io/163991993992a3ba54e22d8c1516bd2fdec4fb228e698931cb9474b80ced7dc5.m4a" length="51138377" type="audio/mpeg"/>
+      <podcast:person href="https://njump.me/_@f7z.io" img="https://m.primal.net/KwlG.jpg" group="cast" role="co-host">Pablo</podcast:person>
+      <podcast:funding url="https://njump.me/npub1n00yy9y3704drtpph5wszen64w287nquftkcwcjv7gnnkpk2q54s73000n">Zaps are appreciated! #value4value ⚡🧡</podcast:funding>
+      <podcast:transcript url="https://haven.sovereignengineering.io/ef91b4cb73b93aefd5804c4e74237c2e8c5ca8ce9140c81e6976c7a102805b0f.srt" type="application/srt"/>
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+        <podcast:valueRecipient name="Gigi" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="100"/>
+        <podcast:valueRecipient name="Sovereign Feeds" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" type="node" fee="true" split="1"/>
+        <podcast:valueRecipient name="Pablo" type="lnaddress" address="pablof7z@primal.net" split="100"/>
+      </podcast:value>
+      <guid isPermaLink="false">51b918d9-dc3c-4bb9-87f1-60f674f5f5eb</guid>
+      <itunes:subtitle>#08 - Navigating the Vibe</itunes:subtitle>
+      <itunes:duration>5728</itunes:duration>
+      <link>https://njump.me/nevent1qvzqqqqqqypzpx77gg2frul26xkzr0gaq9n842u50axpcjhdsa3yeu388vrv5pftqys8wumn8ghj7mn0wd68ytn9d9h82mny0fmkzmn6d9njuumsv93k2tcppemhxue69uhkummn9ekx7mp0qqsdpepvgml06dcsfuuy0x0jhka9jtwpvqrh5ue6qxmtva2xje7n9aqs5852f</link>
+      <pubDate>Wed, 04 Apr 2025 10:21:21 +0000</pubDate>
+      <author>Gigi</author>
+      <itunes:author>Gigi</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>nostr, development, sovereign engineering, shipping, memes, web, internet, conversation, dialog</itunes:keywords>
+      <itunes:summary><![CDATA[<p><span style="font-weight: 400;">"With the shift towards this multi-agent collaboration and orchestration world, you need a neutral substrate that has money, identity, cryptography, and web-of-trust&nbsp; baked in, to make everything work."</span></p>
+<p><a href="https://njump.me/npub1l2vyh47mk2p0qlsku7hg0vn29faehy9hy34ygaclpn66ukqp3afqutajft"><span style="font-weight: 400;">Pablo</span></a><span style="font-weight: 400;"> &amp; </span><a href="https://njump.me/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc"><span style="font-weight: 400;">Gigi</span></a><span style="font-weight: 400;"> are getting high on <span style="text-decoration: line-through;">glue</span> nostr.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Books and articles mentioned:</span></p>
+<ul>
+<li><a href="https://www.goodreads.com/book/show/36656180-saving-beauty"><span style="font-weight: 400;">Saving beauty</span></a><span style="font-weight: 400;"> by Byung-Chul Han</span></li>
+<li><a href="https://wattenberger.com/thoughts/llms-as-a-tool-for-thought"><span style="font-weight: 400;">LLMs as a tool for thought</span></a><span style="font-weight: 400;"> by Amelia Wattenberger</span></li>
+</ul>
+<p><span style="font-weight: 400;">In this dialogue:</span></p>
+<ul>
+<li><a href="https://github.com/dergigi/vibeline"><span style="font-weight: 400;">vibeline</span></a><span style="font-weight: 400;"> &amp; </span><a href="https://github.com/dergigi/vibeline-ui"><span style="font-weight: 400;">vibeline-ui</span></a></li>
+<li><span style="font-weight: 400;">LLMs as tools, and how to use them</span></li>
+<li><span style="font-weight: 400;">Vervaeke: </span><a href="https://www.youtube.com/watch?v=A-_RdKiDbz4"><span style="font-weight: 400;">AI thresholds &amp; the path we must take</span></a></li>
+<li><span style="font-weight: 400;">Hallucinations and grounding in reality</span></li>
+<li><span style="font-weight: 400;">GPL, LLMs, and </span><a href="https://danb.me/blog/llms-licensing/"><span style="font-weight: 400;">open-source licensing</span></a></li>
+<li><span style="font-weight: 400;">Pablo's multi-agent Roo setup</span></li>
+<li><span style="font-weight: 400;">Are we going to make programmers obsolete?</span></li>
+<li><span style="font-weight: 400;">"When it works it's amazing"</span></li>
+<li><span style="font-weight: 400;">Hiring &amp; training agents</span></li>
+<li><span style="font-weight: 400;">Agents creating RAG databases of NIPs</span></li>
+<li><span style="font-weight: 400;">Different models and their context windows</span></li>
+<li><span style="font-weight: 400;">Generalists vs specialists</span></li>
+<li><span style="font-weight: 400;">"Write drunk, edit sober"</span></li>
+<li><a href="https://dvmcp.fun/"><span style="font-weight: 400;">DVMCP.fun</span></a></li>
+<li><span style="font-weight: 400;">Recklessness and destruction of vibe-coding&nbsp;</span></li>
+<li><span style="font-weight: 400;">Sharing secrets with agents &amp; LLMs&nbsp;</span></li>
+<li><span style="font-weight: 400;">The "no API key" advantage of nostr</span></li>
+<li><span style="font-weight: 400;">What data to trust? And how does nostr help?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Identity, web of trust, and signing data&nbsp;</span></li>
+<li><span style="font-weight: 400;">How to fight </span><a href="https://nostr.band/?q=%23aislop"><span style="font-weight: 400;">AI slop</span></a></li>
+<li><span style="font-weight: 400;">Marketplaces of code snippets&nbsp;</span></li>
+<li><span style="font-weight: 400;">Restricting agents with expert knowledge&nbsp;</span></li>
+<li><span style="font-weight: 400;">Trusted sources without a central repository&nbsp;</span></li>
+<li><a href="https://zapstore.dev/"><span style="font-weight: 400;">Zapstore</span></a><span style="font-weight: 400;"> as the prime example&nbsp;</span></li>
+<li><span style="font-weight: 400;">"How do you fight off re-inventing GitHub?"&nbsp;</span></li>
+<li><span style="font-weight: 400;">Using large context windows to help with refactoring&nbsp;</span></li>
+<li><span style="font-weight: 400;">Code snippets for </span><a href="https://olas.app/"><span style="font-weight: 400;">Olas</span></a><span style="font-weight: 400;">, </span><a href="https://github.com/nostr-dev-kit/ndk"><span style="font-weight: 400;">NDK</span></a><span style="font-weight: 400;">, NIP-60, and more</span></li>
+<li><span style="font-weight: 400;">Using MCP as the base&nbsp;</span></li>
+<li><span style="font-weight: 400;">Using nostr as the underlying substrate&nbsp;</span></li>
+<li><span style="font-weight: 400;">Nostr as the glue &amp; the discovery layer&nbsp;</span></li>
+<li><span style="font-weight: 400;">Why is this important?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Why is this exciting?&nbsp;</span></li>
+<li><span style="font-weight: 400;">"With the shift towards this multi-agent collaboration and orchestration world, you need a neutral substrate that has money/identity/cryptography and web-of-trust&nbsp; baked in, to make everything work."</span></li>
+<li><span style="font-weight: 400;">How to single-shot nostr applications&nbsp;</span></li>
+<li><span style="font-weight: 400;">"Go and create this app"&nbsp;</span></li>
+<li><span style="font-weight: 400;">The agent has money, because of </span><a href="https://nips.nostr.com/60"><span style="font-weight: 400;">NIP-60</span></a><span style="font-weight: 400;">/</span><a href="https://nips.nostr.com/61"><span style="font-weight: 400;">61</span></a></li>
+<li><a href="https://ppq.ai/"><span style="font-weight: 400;">PayPerQ</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Anthropic and the genius of </span><a href="https://modelcontextprotocol.io/docs/concepts/tools"><span style="font-weight: 400;">mcp-tools</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Agents zapping &amp; giving SkyNet more money&nbsp;</span></li>
+<li><span style="font-weight: 400;">Are we going to run the mints?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Are agents going to run the mints?&nbsp;</span></li>
+<li><span style="font-weight: 400;">How can we best explain this to our bubble?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Let alone to people outside of our bubble?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Building pipelines of multiple agents&nbsp;</span></li>
+<li><span style="font-weight: 400;">LLM chains &amp; piped Unix tools&nbsp;</span></li>
+<li><span style="font-weight: 400;">OpenAI vs Anthropic&nbsp;</span></li>
+<li><span style="font-weight: 400;">Genius models without tools vs midwit models with tools&nbsp;</span></li>
+<li><span style="font-weight: 400;">Re-thinking software development&nbsp;</span></li>
+<li><span style="font-weight: 400;">LLMs allow you to tackle bigger problems&nbsp;</span></li>
+<li><span style="font-weight: 400;">Increased speed is a paradigm shift&nbsp;</span></li>
+<li><span style="font-weight: 400;">Generalists vs specialists, left brain vs right brain&nbsp;</span></li>
+<li><span style="font-weight: 400;">Nostr as the home for specialists&nbsp;</span></li>
+<li><span style="font-weight: 400;">fiatjaf publishing snippets (reluctantly)&nbsp;</span></li>
+<li><span style="font-weight: 400;">fiatjaf's </span><a href="https://github.com/fiatjaf/blossom"><span style="font-weight: 400;">blossom</span></a><span style="font-weight: 400;"> implementation&nbsp;</span></li>
+<li><span style="font-weight: 400;">Thinking with LLMs</span></li>
+<li><span style="font-weight: 400;">The tension of specialization VS generalization&nbsp;</span></li>
+<li><span style="font-weight: 400;">How the publishing world changed</span></li>
+<li><span style="font-weight: 400;">Stupid faces on YouTube thumbnails&nbsp;</span></li>
+<li><span style="font-weight: 400;">Gaming the algorithm&nbsp;</span></li>
+<li><span style="font-weight: 400;">Will AI slop destroy the attention economy?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Recency bias &amp; hiding publication dates&nbsp;</span></li>
+<li><span style="font-weight: 400;">Undoing platform conditioning as a success metric&nbsp;</span></li>
+<li><span style="font-weight: 400;">Craving realness in a fake attention world&nbsp;</span></li>
+<li><span style="font-weight: 400;">The theater of the attention economy&nbsp;</span></li>
+<li><span style="font-weight: 400;">What TikTok got "right"&nbsp;</span></li>
+<li><span style="font-weight: 400;">Porn, FoodPorn, EarthPorn, etc.&nbsp;</span></li>
+<li><span style="font-weight: 400;">Porn vs Beauty&nbsp;</span></li>
+<li><span style="font-weight: 400;">Smoothness and awe&nbsp;</span></li>
+<li><span style="font-weight: 400;">"Beauty is an angel that could kill you in an instant (but decides not to)."</span></li>
+<li><span style="font-weight: 400;">The success of Joe Rogan &amp; long-form conversations&nbsp;</span></li>
+<li><span style="font-weight: 400;">Smoothness fatigue &amp; how our feeds numb us&nbsp;</span></li>
+<li><span style="font-weight: 400;">Nostr &amp; touching grass&nbsp;</span></li>
+<li><span style="font-weight: 400;">How movement changes conversations&nbsp;</span></li>
+<li><span style="font-weight: 400;">LangChain &amp; DVMs&nbsp;</span></li>
+<li><span style="font-weight: 400;">Central models vs marketplaces&nbsp;</span></li>
+<li><span style="font-weight: 400;">Going from assembly to high-level to conceptual&nbsp;</span></li>
+<li><span style="font-weight: 400;">Natural language VS programming languages&nbsp;</span></li>
+<li><span style="font-weight: 400;">Pablo's code snippets&nbsp;</span></li>
+<li><span style="font-weight: 400;">Writing documentation for LLMs</span></li>
+<li><span style="font-weight: 400;">Shared concepts, shared language, and forks&nbsp;</span></li>
+<li><span style="font-weight: 400;">Vibe-forking open-source software&nbsp;</span></li>
+<li><span style="font-weight: 400;">Spotting vibe-coded interfaces&nbsp;</span></li>
+<li><span style="font-weight: 400;">Visualizing nostr data in a 3D world&nbsp;</span></li>
+<li><span style="font-weight: 400;">Tweets, blog posts, and podcasts&nbsp;</span></li>
+<li><span style="font-weight: 400;">Vibe-producing blog posts from conversations&nbsp;</span></li>
+<li><span style="font-weight: 400;">Tweets are excellent for discovery&nbsp;</span></li>
+<li><span style="font-weight: 400;">Adding context to tweets (long-form posts, podcasts, etc)&nbsp;</span></li>
+<li><span style="font-weight: 400;">Removing the character limit was a mistake&nbsp;</span></li>
+<li><span style="font-weight: 400;">"Everyone's attention span is rekt"</span></li>
+<li><span style="font-weight: 400;">"There is no meaning without friction"&nbsp;</span></li>
+<li><span style="font-weight: 400;">"Nothing worth having ever comes easy"&nbsp;</span></li>
+<li><span style="font-weight: 400;">Being okay with doing the hard thing</span></li>
+<li><span style="font-weight: 400;">Growth hacks &amp; engagement bait</span></li>
+<li><span style="font-weight: 400;">TikTok, theater, and showing faces and emotions</span></li>
+<li><span style="font-weight: 400;">The </span><a href="https://en.wikipedia.org/wiki/1%25_rule"><span style="font-weight: 400;">1% rule</span></a><span style="font-weight: 400;">: 99% of internet users are Lurkers</span></li>
+<li><span style="font-weight: 400;">"We are socially malnourished"</span></li>
+<li><a href="https://vertexlab.io/"><span style="font-weight: 400;">Web-of-trust</span></a><span style="font-weight: 400;"> and zaps bring realness</span></li>
+<li><span style="font-weight: 400;">The semantic web does NOT fix this LLMs might</span></li>
+<li><span style="font-weight: 400;">"You can not model the world perfectly"</span></li>
+<li><span style="font-weight: 400;">Hallucination as a requirement for creativity</span></li>
+</ul>
+<p><br /><br /></p>]]></itunes:summary>
+    </item>
     <item>
       <title>#07 - Zig Multiplatform</title>
       <description><![CDATA[<p><span style="font-weight: 400;">&ldquo;The age of the idea guys has begun.&rdquo;</span></p>
