@@ -23,7 +23,7 @@ Est. 882,690. Inspired by Sovereign Engineering https://njump.me/no-solutions@so
     <podcast:person href="https://njump.me/f7z.io" img="https://primal.b-cdn.net/media-upload?u=https%3A%2F%2Fmedia.primal.net%2Fuploads%2Ff%2F32%2F11%2Ff32111d4786fd98af5ab2b89160f5f9c7f394feb9c9ea1a05d67d29f594c2c5f.jpg" group="cast" role="co-host">Pablo</podcast:person>
     <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
       <podcast:valueRecipient name="Gigi" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="100"/>
-      <podcast:valueRecipient name="Pablo" type="node" address="pablof7z@primal.net" split="100"/>
+      <podcast:valueRecipient name="Pablo" type="lnaddress" address="pablof7z@primal.net" split="100"/>
       <podcast:valueRecipient name="Sovereign Feeds" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" type="node" fee="true" split="1"/>
     </podcast:value>
     <podcast:complete>no</podcast:complete>
@@ -37,11 +37,229 @@ Est. 882,690. Inspired by Sovereign Engineering https://njump.me/no-solutions@so
     <itunes:keywords>nostr, development, sovereign engineering, shipping, memes, web, internet, conversation, dialog</itunes:keywords>
     <itunes:author>Gigi</itunes:author>
     <managingEditor>Sovereign Feeds</managingEditor>
-    <pubDate>Wed, 09 Apr 2025 19:51:48 +0000</pubDate>
-    <lastBuildDate>Wed, 09 Apr 2025 19:51:48 +0000</lastBuildDate>
+    <pubDate>Fri, 18 Apr 2025 16:31:28 +0000</pubDate>
+    <lastBuildDate>Fri, 18 Apr 2025 16:31:28 +0000</lastBuildDate>
     <category>Technology</category>
     <category/>
-    <podcast:guid>a5e67719-96b2-5f13-8776-84e65a6da293</podcast:guid>
+    <podcast:guid>b6a3db80-0290-503a-8982-4a0fe3711383</podcast:guid>
+    <item>
+      <title>#09 - No Strudelutions</title>
+      <description><![CDATA[<p><span style="font-weight: 400;">"It isn&rsquo;t obvious that the world had to work this way. But somehow the universe smiles on encryption."</span></p>
+<p><a href="https://njump.me/npub1ye5ptcxfyyxl5vjvdjar2ua3f0hynkjzpx552mu5snj3qmx5pzjscpknpr"><span style="font-weight: 400;">hzrd149</span></a><span style="font-weight: 400;"> &amp; </span><a href="https://njump.me/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc"><span style="font-weight: 400;">Gigi</span></a><span style="font-weight: 400;"> take a stroll along the shore of cryptographic identities.</span></p>
+<p><span style="font-weight: 400;">This dialogue explores how cryptographic signatures fundamentally shift power dynamics in social networks, moving control from servers to key holders. We discuss the concept of "setting data free" through cryptographic verification, the evolving role of relays in the ecosystem, and the challenges of building trust in decentralized systems. We examine the tension between convenience and decentralization, particularly around features like private data and data synchronization. What are the philosophical foundations of building truly decentralized social networks? And how can small architectural decisions have profound implications for user autonomy and data sovereignty?</span></p>
+<p><span style="font-weight: 400;">Movies mentioned:</span></p>
+<ul>
+<li><a href="https://www.imdb.com/title/tt0062622"><span style="font-weight: 400;">2001: A Space Odyssey (1968)</span></a></li>
+<li><a href="https://www.imdb.com/title/tt0070723/"><span style="font-weight: 400;">Soylent Green (1973)</span></a></li>
+<li><a href="https://www.imdb.com/title/tt0075860/"><span style="font-weight: 400;">Close Encounters of the Third Kind (1977)</span></a></li>
+<li><a href="https://www.imdb.com/title/tt0113481/"><span style="font-weight: 400;">Johnny Mnemonic (1995)</span></a></li>
+<li><a href="https://www.imdb.com/title/tt0133093/"><span style="font-weight: 400;">The Matrix (1999)</span></a></li>
+</ul>
+<p><span style="font-weight: 400;">In this dialogue:</span></p>
+<ul>
+<li><span style="font-weight: 400;">Hzrd's past conversations: Bowls With Buds </span><a href="https://fountain.fm/episode/E0p20TEm9KEc2oFd3kJR"><span style="font-weight: 400;">316</span></a><span style="font-weight: 400;"> &amp; </span><a href="https://fountain.fm/episode/yDeWZc79tdAiIHHADWhK"><span style="font-weight: 400;">361</span></a></li>
+<li><span style="font-weight: 400;">Running into a water hose</span></li>
+<li><span style="font-weight: 400;">Little difference, big effect</span></li>
+<li><span style="font-weight: 400;">Signing data moves the power to the key holders</span></li>
+<li><span style="font-weight: 400;">Self-signing data sets the data free</span></li>
+<li><span style="font-weight: 400;">Relay specialization</span></li>
+<li><span style="font-weight: 400;">Victor's Amethyst relay guide</span></li>
+<li><span style="font-weight: 400;">Encryption and decryption is expensive - is it worth it?&nbsp;</span></li>
+<li><span style="font-weight: 400;">The magic of nostr is that stuff follows you around&nbsp;</span></li>
+<li><span style="font-weight: 400;">What should be shown? What should be hidden?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Don't lie to users. Never show outdated data.&nbsp;</span></li>
+<li><span style="font-weight: 400;">Nostr is raw and immediate&nbsp;</span></li>
+<li><span style="font-weight: 400;">How quickly you get used to things working&nbsp;</span></li>
+<li><span style="font-weight: 400;">Legacy web always tries to sell you something&nbsp;</span></li>
+<li><span style="font-weight: 400;">Lying, lag, frustration&nbsp;</span></li>
+<li><span style="font-weight: 400;">How </span><a href="https://nostrudel.ninja/"><span style="font-weight: 400;">NoStrudel</span></a><span style="font-weight: 400;"> grew&nbsp;</span></li>
+<li><span style="font-weight: 400;">NoStrudel notifications</span></li>
+<li><span style="font-weight: 400;">Data visualization and dashboards&nbsp;</span></li>
+<li><span style="font-weight: 400;">Building in public and discussing in public&nbsp;</span></li>
+<li><span style="font-weight: 400;">Should we remove DMs?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Nostr as a substrate for lookups&nbsp;</span></li>
+<li><span style="font-weight: 400;">Using nostr to exchange Signal or SimpleX credentials&nbsp;</span></li>
+<li><span style="font-weight: 400;">How private is a group chat?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Is a 500-people group chat ever private?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Pragmatism vs the engineering mindset&nbsp;</span></li>
+<li><span style="font-weight: 400;">The beauty and simplicity of nostr&nbsp;</span></li>
+<li><span style="font-weight: 400;">Anti-patterns in nostr&nbsp;</span></li>
+<li><span style="font-weight: 400;">Community servers and private relays&nbsp;</span></li>
+<li><span style="font-weight: 400;">Will vibe coding fix (some of the) things?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Small specialized components VS frameworks&nbsp;</span></li>
+<li><span style="font-weight: 400;">Technology vs chairs (and cars, and tractors, and books)&nbsp;</span></li>
+<li><span style="font-weight: 400;">The problem of being greedy&nbsp;</span></li>
+<li><span style="font-weight: 400;">Competitive silos VS synergistic cooperation&nbsp;</span></li>
+<li><span style="font-weight: 400;">Making things easy vs barriers of entry&nbsp;</span></li>
+<li><span style="font-weight: 400;">Value4value for music and other artists&nbsp;</span></li>
+<li><span style="font-weight: 400;">Adding code vs removing code&nbsp;</span></li>
+<li><span style="font-weight: 400;">Pablo's </span><a href="https://github.com/jodobear/sparcaroo"><span style="font-weight: 400;">Roo setup</span></a><span style="font-weight: 400;"> and </span><a href="https://dvmcp.fun/"><span style="font-weight: 400;">DVMCP</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Platform permission slips vs cryptographic identities&nbsp;</span></li>
+<li><span style="font-weight: 400;">Micropayments vs Subscription Hell&nbsp;</span></li>
+<li><a href="https://ppq.ai/"><span style="font-weight: 400;">PayPerQ</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Setting our user-generated data free</span></li>
+<li><span style="font-weight: 400;">The GNU/Linux approach and how it beat Microsoft&nbsp;</span></li>
+<li><span style="font-weight: 400;">Agents learning automatically thanks to snippets published on nostr</span></li>
+<li><span style="font-weight: 400;">Taxi drivers, GPS, and outsourcing understanding</span></li>
+<li><span style="font-weight: 400;">Wizards VS vibe coders</span></li>
+<li><span style="font-weight: 400;">Age differences, Siri, and Dragon Naturally Speaking</span></li>
+<li><span style="font-weight: 400;">LLMs as a human interface to call tools</span></li>
+<li><span style="font-weight: 400;">Natural language vs math and computer language</span></li>
+<li><span style="font-weight: 400;">Natural language has to be fuzzy, because the world is fuzzy</span></li>
+<li><span style="font-weight: 400;">Language and concepts as compression</span></li>
+<li><span style="font-weight: 400;">Hzrd watching The Matrix (1999) for the first time</span></li>
+<li><span style="font-weight: 400;">Soylent Green, 2001, Close Encounters of the 3rd Kind, Johnny Mnemonic</span></li>
+<li><span style="font-weight: 400;">Are there coincidences?</span></li>
+<li><span style="font-weight: 400;">Why are LLMs rising at the same time that cryptography identities are rising?</span></li>
+<li><a href="https://21lessons.com/15/"><span style="font-weight: 400;">"The universe smiles at encryption"</span></a></li>
+<li><span style="font-weight: 400;">The universe does not smile upon closed silos</span></li>
+<li><span style="font-weight: 400;">The cost of applying force from the outside</span></li>
+<li><span style="font-weight: 400;">Perfect copies, </span><a href="https://21lessons.com/3/"><span style="font-weight: 400;">locality</span></a><span style="font-weight: 400;">, and the concept of "the original"&nbsp;</span></li>
+<li><span style="font-weight: 400;">Perfect memory would be a curse, not a blessing&nbsp;</span></li>
+<li><span style="font-weight: 400;">Organic forgetting VS centralized forgetting&nbsp;</span></li>
+<li><span style="font-weight: 400;">Forgetting and dying needs to be effortless&nbsp;</span></li>
+<li><span style="font-weight: 400;">(it wasn't for IPFS, and they also launched a shitcoin)&nbsp;</span></li>
+<li><span style="font-weight: 400;">Bitcoin makes is cheap to figure out what to dismiss&nbsp;</span></li>
+<li><span style="font-weight: 400;">Would you like to have a 2nd brain?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Trust and running LLMs locally&nbsp;</span></li>
+<li><span style="font-weight: 400;">No need for API keys</span></li>
+<li><span style="font-weight: 400;">Adjacent communities: local-first, makers and hackers, etc.</span></li>
+<li><a href="https://njump.me/nevent1qqsxvahg4a2l6jtv5da9jycx9q0g6rjrtsgpzgj47grv7ct47yr59xgzyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxjpnn59"><span style="font-weight: 400;">Removing the character limit was a mistake</span></a></li>
+<li><span style="font-weight: 400;">Browsing mode vs reading mode</span></li>
+<li><span style="font-weight: 400;">The genius of </span><a href="https://njump.me/nevent1qqsxvahg4a2l6jtv5da9jycx9q0g6rjrtsgpzgj47grv7ct47yr59xgzyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxjpnn59"><span style="font-weight: 400;">tweets and threads</span></a></li>
+<li><span style="font-weight: 400;">Vibe-coding and </span><a href="https://github.com/justinmoon/rust-multiplatform"><span style="font-weight: 400;">rust-multiplatform</span></a></li>
+<li><span style="font-weight: 400;">Global solutions vs local solutions</span></li>
+<li><span style="font-weight: 400;">The long-term survivability of local-first</span></li>
+<li><span style="font-weight: 400;">All servers will eventually go away. Your private key won't.</span></li>
+<li><span style="font-weight: 400;">It's normal to pay your </span><a href="https://btcmap.org/map#11/32.73046/-16.94523"><span style="font-weight: 400;">breakfast with sats</span></a><span style="font-weight: 400;"> now</span></li>
+<li><span style="font-weight: 400;">Nostr is also a normal thing now, at least for us</span></li>
+<li><span style="font-weight: 400;">Hzrd's </span><a href="https://github.com/hzrd149/bakery"><span style="font-weight: 400;">bakery</span></a></li>
+<li><span style="font-weight: 400;">"Send Gigi a DM that says GM" - and it just works</span></li>
+<li><span style="font-weight: 400;">The user is still in control, thanks to </span><a href="https://github.com/greenart7c3/Amber"><span style="font-weight: 400;">Amber</span></a></li>
+<li><span style="font-weight: 400;">We are lacking in nostr signing solutions</span></li>
+<li><a href="https://getalby.com/products/browser-extension"><span style="font-weight: 400;">Alby</span></a><span style="font-weight: 400;">'s permission system as a step in the right direction</span></li>
+<li><span style="font-weight: 400;">We have to get better at explaining that stuff</span></li>
+<li><span style="font-weight: 400;">What we do, why we care, why we think it's important&nbsp;</span></li>
+</ul>
+<p><br /><br /></p>]]></description>
+      <itunes:image href="https://haven.sovereignengineering.io/936039917ee20d38c1dd502bc493e2ed2bf5fde10b8be6f7013a882e0bcf2460.jpg"/>
+      <enclosure url="https://haven.sovereignengineering.io/aea79784cbaaf33a52110e108ddf758c6f67230d227a01ce7a977ce2062250d1.m4a" length="61466157" type="audio/mpeg"/>
+      <podcast:person href="https://hzrd149.com/" img="https://cdn.hzrd149.com/5ed3fe5df09a74e8c126831eac999364f9eb7624e2b86d521521b8021de20bdc.png" group="cast" role="guest">hzrd149</podcast:person>
+      <podcast:funding url="https://njump.me/npub1n00yy9y3704drtpph5wszen64w287nquftkcwcjv7gnnkpk2q54s73000n">Zaps are appreciated! #value4value ⚡🧡</podcast:funding>
+      <podcast:transcript url="https://haven.sovereignengineering.io/45f48be7c416c93640606e29a0963cae8505f2b88e25c0c4d1b7b62b3f24912f.srt" type="application/srt"/>
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+        <podcast:valueRecipient name="Gigi" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="100"/>
+        <podcast:valueRecipient name="Sovereign Feeds" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" type="node" fee="true" split="1"/>
+        <podcast:valueRecipient name="hzrd149" type="lnaddress" address="hzrd1499@minibits.cash" split="100"/>
+      </podcast:value>
+      <guid isPermaLink="false">f1987107-22ff-4572-8dca-af4c9a8ce549</guid>
+      <itunes:subtitle>#09 - No Strudelutions</itunes:subtitle>
+      <itunes:duration>6905</itunes:duration>
+      <link>https://njump.me/nevent1qvzqqqqqqypzpx77gg2frul26xkzr0gaq9n842u50axpcjhdsa3yeu388vrv5pftqys8wumn8ghj7mn0wd68ytn9d9h82mny0fmkzmn6d9njuumsv93k2tcppemhxue69uhkummn9ekx7mp0qqs807qeg24nhkjq6s2pjfeua23praq35cquqnhguxw9vfuqcc2ctrsau3uaz</link>
+      <pubDate>Fri, 18 Apr 2025 16:04:11 +0000</pubDate>
+      <author>Gigi</author>
+      <itunes:author>Gigi</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>nostr, development, sovereign engineering, shipping, memes, web, internet, conversation, dialog</itunes:keywords>
+      <itunes:summary><![CDATA[<p><span style="font-weight: 400;">"It isn&rsquo;t obvious that the world had to work this way. But somehow the universe smiles on encryption."</span></p>
+<p><a href="https://njump.me/npub1ye5ptcxfyyxl5vjvdjar2ua3f0hynkjzpx552mu5snj3qmx5pzjscpknpr"><span style="font-weight: 400;">hzrd149</span></a><span style="font-weight: 400;"> &amp; </span><a href="https://njump.me/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc"><span style="font-weight: 400;">Gigi</span></a><span style="font-weight: 400;"> take a stroll along the shore of cryptographic identities.</span></p>
+<p><span style="font-weight: 400;">This dialogue explores how cryptographic signatures fundamentally shift power dynamics in social networks, moving control from servers to key holders. We discuss the concept of "setting data free" through cryptographic verification, the evolving role of relays in the ecosystem, and the challenges of building trust in decentralized systems. We examine the tension between convenience and decentralization, particularly around features like private data and data synchronization. What are the philosophical foundations of building truly decentralized social networks? And how can small architectural decisions have profound implications for user autonomy and data sovereignty?</span></p>
+<p><span style="font-weight: 400;">Movies mentioned:</span></p>
+<ul>
+<li><a href="https://www.imdb.com/title/tt0062622"><span style="font-weight: 400;">2001: A Space Odyssey (1968)</span></a></li>
+<li><a href="https://www.imdb.com/title/tt0070723/"><span style="font-weight: 400;">Soylent Green (1973)</span></a></li>
+<li><a href="https://www.imdb.com/title/tt0075860/"><span style="font-weight: 400;">Close Encounters of the Third Kind (1977)</span></a></li>
+<li><a href="https://www.imdb.com/title/tt0113481/"><span style="font-weight: 400;">Johnny Mnemonic (1995)</span></a></li>
+<li><a href="https://www.imdb.com/title/tt0133093/"><span style="font-weight: 400;">The Matrix (1999)</span></a></li>
+</ul>
+<p><span style="font-weight: 400;">In this dialogue:</span></p>
+<ul>
+<li><span style="font-weight: 400;">Hzrd's past conversations: Bowls With Buds </span><a href="https://fountain.fm/episode/E0p20TEm9KEc2oFd3kJR"><span style="font-weight: 400;">316</span></a><span style="font-weight: 400;"> &amp; </span><a href="https://fountain.fm/episode/yDeWZc79tdAiIHHADWhK"><span style="font-weight: 400;">361</span></a></li>
+<li><span style="font-weight: 400;">Running into a water hose</span></li>
+<li><span style="font-weight: 400;">Little difference, big effect</span></li>
+<li><span style="font-weight: 400;">Signing data moves the power to the key holders</span></li>
+<li><span style="font-weight: 400;">Self-signing data sets the data free</span></li>
+<li><span style="font-weight: 400;">Relay specialization</span></li>
+<li><span style="font-weight: 400;">Victor's Amethyst relay guide</span></li>
+<li><span style="font-weight: 400;">Encryption and decryption is expensive - is it worth it?&nbsp;</span></li>
+<li><span style="font-weight: 400;">The magic of nostr is that stuff follows you around&nbsp;</span></li>
+<li><span style="font-weight: 400;">What should be shown? What should be hidden?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Don't lie to users. Never show outdated data.&nbsp;</span></li>
+<li><span style="font-weight: 400;">Nostr is raw and immediate&nbsp;</span></li>
+<li><span style="font-weight: 400;">How quickly you get used to things working&nbsp;</span></li>
+<li><span style="font-weight: 400;">Legacy web always tries to sell you something&nbsp;</span></li>
+<li><span style="font-weight: 400;">Lying, lag, frustration&nbsp;</span></li>
+<li><span style="font-weight: 400;">How </span><a href="https://nostrudel.ninja/"><span style="font-weight: 400;">NoStrudel</span></a><span style="font-weight: 400;"> grew&nbsp;</span></li>
+<li><span style="font-weight: 400;">NoStrudel notifications</span></li>
+<li><span style="font-weight: 400;">Data visualization and dashboards&nbsp;</span></li>
+<li><span style="font-weight: 400;">Building in public and discussing in public&nbsp;</span></li>
+<li><span style="font-weight: 400;">Should we remove DMs?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Nostr as a substrate for lookups&nbsp;</span></li>
+<li><span style="font-weight: 400;">Using nostr to exchange Signal or SimpleX credentials&nbsp;</span></li>
+<li><span style="font-weight: 400;">How private is a group chat?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Is a 500-people group chat ever private?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Pragmatism vs the engineering mindset&nbsp;</span></li>
+<li><span style="font-weight: 400;">The beauty and simplicity of nostr&nbsp;</span></li>
+<li><span style="font-weight: 400;">Anti-patterns in nostr&nbsp;</span></li>
+<li><span style="font-weight: 400;">Community servers and private relays&nbsp;</span></li>
+<li><span style="font-weight: 400;">Will vibe coding fix (some of the) things?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Small specialized components VS frameworks&nbsp;</span></li>
+<li><span style="font-weight: 400;">Technology vs chairs (and cars, and tractors, and books)&nbsp;</span></li>
+<li><span style="font-weight: 400;">The problem of being greedy&nbsp;</span></li>
+<li><span style="font-weight: 400;">Competitive silos VS synergistic cooperation&nbsp;</span></li>
+<li><span style="font-weight: 400;">Making things easy vs barriers of entry&nbsp;</span></li>
+<li><span style="font-weight: 400;">Value4value for music and other artists&nbsp;</span></li>
+<li><span style="font-weight: 400;">Adding code vs removing code&nbsp;</span></li>
+<li><span style="font-weight: 400;">Pablo's </span><a href="https://github.com/jodobear/sparcaroo"><span style="font-weight: 400;">Roo setup</span></a><span style="font-weight: 400;"> and </span><a href="https://dvmcp.fun/"><span style="font-weight: 400;">DVMCP</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Platform permission slips vs cryptographic identities&nbsp;</span></li>
+<li><span style="font-weight: 400;">Micropayments vs Subscription Hell&nbsp;</span></li>
+<li><a href="https://ppq.ai/"><span style="font-weight: 400;">PayPerQ</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Setting our user-generated data free</span></li>
+<li><span style="font-weight: 400;">The GNU/Linux approach and how it beat Microsoft&nbsp;</span></li>
+<li><span style="font-weight: 400;">Agents learning automatically thanks to snippets published on nostr</span></li>
+<li><span style="font-weight: 400;">Taxi drivers, GPS, and outsourcing understanding</span></li>
+<li><span style="font-weight: 400;">Wizards VS vibe coders</span></li>
+<li><span style="font-weight: 400;">Age differences, Siri, and Dragon Naturally Speaking</span></li>
+<li><span style="font-weight: 400;">LLMs as a human interface to call tools</span></li>
+<li><span style="font-weight: 400;">Natural language vs math and computer language</span></li>
+<li><span style="font-weight: 400;">Natural language has to be fuzzy, because the world is fuzzy</span></li>
+<li><span style="font-weight: 400;">Language and concepts as compression</span></li>
+<li><span style="font-weight: 400;">Hzrd watching The Matrix (1999) for the first time</span></li>
+<li><span style="font-weight: 400;">Soylent Green, 2001, Close Encounters of the 3rd Kind, Johnny Mnemonic</span></li>
+<li><span style="font-weight: 400;">Are there coincidences?</span></li>
+<li><span style="font-weight: 400;">Why are LLMs rising at the same time that cryptography identities are rising?</span></li>
+<li><a href="https://21lessons.com/15/"><span style="font-weight: 400;">"The universe smiles at encryption"</span></a></li>
+<li><span style="font-weight: 400;">The universe does not smile upon closed silos</span></li>
+<li><span style="font-weight: 400;">The cost of applying force from the outside</span></li>
+<li><span style="font-weight: 400;">Perfect copies, </span><a href="https://21lessons.com/3/"><span style="font-weight: 400;">locality</span></a><span style="font-weight: 400;">, and the concept of "the original"&nbsp;</span></li>
+<li><span style="font-weight: 400;">Perfect memory would be a curse, not a blessing&nbsp;</span></li>
+<li><span style="font-weight: 400;">Organic forgetting VS centralized forgetting&nbsp;</span></li>
+<li><span style="font-weight: 400;">Forgetting and dying needs to be effortless&nbsp;</span></li>
+<li><span style="font-weight: 400;">(it wasn't for IPFS, and they also launched a shitcoin)&nbsp;</span></li>
+<li><span style="font-weight: 400;">Bitcoin makes is cheap to figure out what to dismiss&nbsp;</span></li>
+<li><span style="font-weight: 400;">Would you like to have a 2nd brain?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Trust and running LLMs locally&nbsp;</span></li>
+<li><span style="font-weight: 400;">No need for API keys</span></li>
+<li><span style="font-weight: 400;">Adjacent communities: local-first, makers and hackers, etc.</span></li>
+<li><a href="https://njump.me/nevent1qqsxvahg4a2l6jtv5da9jycx9q0g6rjrtsgpzgj47grv7ct47yr59xgzyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxjpnn59"><span style="font-weight: 400;">Removing the character limit was a mistake</span></a></li>
+<li><span style="font-weight: 400;">Browsing mode vs reading mode</span></li>
+<li><span style="font-weight: 400;">The genius of </span><a href="https://njump.me/nevent1qqsxvahg4a2l6jtv5da9jycx9q0g6rjrtsgpzgj47grv7ct47yr59xgzyphydppzm7m554ecwq4gsgaek2qk32atse2l4t9ks57dpms4mmhfxjpnn59"><span style="font-weight: 400;">tweets and threads</span></a></li>
+<li><span style="font-weight: 400;">Vibe-coding and </span><a href="https://github.com/justinmoon/rust-multiplatform"><span style="font-weight: 400;">rust-multiplatform</span></a></li>
+<li><span style="font-weight: 400;">Global solutions vs local solutions</span></li>
+<li><span style="font-weight: 400;">The long-term survivability of local-first</span></li>
+<li><span style="font-weight: 400;">All servers will eventually go away. Your private key won't.</span></li>
+<li><span style="font-weight: 400;">It's normal to pay your </span><a href="https://btcmap.org/map#11/32.73046/-16.94523"><span style="font-weight: 400;">breakfast with sats</span></a><span style="font-weight: 400;"> now</span></li>
+<li><span style="font-weight: 400;">Nostr is also a normal thing now, at least for us</span></li>
+<li><span style="font-weight: 400;">Hzrd's </span><a href="https://github.com/hzrd149/bakery"><span style="font-weight: 400;">bakery</span></a></li>
+<li><span style="font-weight: 400;">"Send Gigi a DM that says GM" - and it just works</span></li>
+<li><span style="font-weight: 400;">The user is still in control, thanks to </span><a href="https://github.com/greenart7c3/Amber"><span style="font-weight: 400;">Amber</span></a></li>
+<li><span style="font-weight: 400;">We are lacking in nostr signing solutions</span></li>
+<li><a href="https://getalby.com/products/browser-extension"><span style="font-weight: 400;">Alby</span></a><span style="font-weight: 400;">'s permission system as a step in the right direction</span></li>
+<li><span style="font-weight: 400;">We have to get better at explaining that stuff</span></li>
+<li><span style="font-weight: 400;">What we do, why we care, why we think it's important&nbsp;</span></li>
+</ul>
+<p><br /><br /></p>]]></itunes:summary>
+    </item>
     <item>
       <title>#08 - Navigating the Vibe</title>
       <description><![CDATA[<p><span style="font-weight: 400;">"With the shift towards this multi-agent collaboration and orchestration world, you need a neutral substrate that has money, identity, cryptography, and web-of-trust&nbsp; baked in, to make everything work."</span></p>
