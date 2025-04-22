@@ -37,11 +37,237 @@ Est. 882,690. Inspired by Sovereign Engineering https://njump.me/no-solutions@so
     <itunes:keywords>nostr, development, sovereign engineering, shipping, memes, web, internet, conversation, dialog</itunes:keywords>
     <itunes:author>Gigi</itunes:author>
     <managingEditor>Sovereign Feeds</managingEditor>
-    <pubDate>Fri, 18 Apr 2025 16:31:28 +0000</pubDate>
-    <lastBuildDate>Fri, 18 Apr 2025 16:31:28 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Apr 2025 18:15:53 +0000</pubDate>
+    <lastBuildDate>Tue, 22 Apr 2025 18:15:53 +0000</lastBuildDate>
     <category>Technology</category>
     <category/>
-    <podcast:guid>b6a3db80-0290-503a-8982-4a0fe3711383</podcast:guid>
+    <podcast:guid>2ff22ba8-f69b-5067-9068-9c1636ebc718</podcast:guid>
+    <item>
+      <title>#10 - Walking with Jesus</title>
+      <description><![CDATA[<p><span style="font-weight: 400;">"It's gonna be permissionless or hell."</span></p>
+<p><a href="https://npub.world/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc"><span style="font-weight: 400;">Gigi</span></a><span style="font-weight: 400;"> and </span><a href="https://npub.world/npub1gzuushllat7pet0ccv9yuhygvc8ldeyhrgxuwg744dn5khnpk3gs3ea5ds"><span style="font-weight: 400;">gzuuus</span></a><span style="font-weight: 400;"> are vibing towards dystopia.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Books &amp; articles mentioned:</span></p>
+<ul>
+<li><a href="https://ai-2027.com/"><span style="font-weight: 400;">AI 2027</span></a></li>
+<li><a href="https://njump.me/naddr1qvzqqqr4gupzqfngzhsvjggdlgeycm96x4emzjlwf8dyyzdfg4hefp89zpkdgz99qqwkgandwvkhwetjv5kkzttdd9ehgcttv5kngte3xvhnyvpjx5m8uc7e"><span style="font-weight: 400;">DVMs were a mistake</span></a></li>
+<li><a href="https://www.goodreads.com/book/show/223436601-careless-people"><span style="font-weight: 400;">Careless People</span></a><span style="font-weight: 400;"> by Sarah Wynn-Williams</span></li>
+<li><a href="https://www.goodreads.com/book/show/201874194-takedown"><span style="font-weight: 400;">Takedown</span></a><span style="font-weight: 400;"> by Laila michelwait</span></li>
+<li><a href="https://www.goodreads.com/book/show/1729898.The_Ultimate_Resource"><span style="font-weight: 400;">The Ultimate Resource</span></a><span style="font-weight: 400;"> by Julian L. Simon</span></li>
+<li><a href="https://www.goodreads.com/series/45175-harry-potter"><span style="font-weight: 400;">Harry Potter</span></a><span style="font-weight: 400;"> by J.K. Rowling</span></li>
+<li><a href="https://www.goodreads.com/book/show/68811.Momo"><span style="font-weight: 400;">Momo</span></a><span style="font-weight: 400;"> by Michael Ende</span></li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">In this dialogue:</span></p>
+<ul>
+<li><span style="font-weight: 400;">Pablo's </span><a href="https://github.com/jodobear/sparcaroo"><span style="font-weight: 400;">Roo Setup</span></a></li>
+<li><span style="font-weight: 400;">Tech </span><a href="https://en.wikipedia.org/wiki/Gartner_hype_cycle"><span style="font-weight: 400;">Hype Cycles</span></a></li>
+<li><a href="https://ai-2027.com/"><span style="font-weight: 400;">AI 2027</span></a></li>
+<li><span style="font-weight: 400;">Prompt injection and other attacks</span></li>
+<li><a href="https://goose.ai/"><span style="font-weight: 400;">Goose</span></a><span style="font-weight: 400;"> and </span><a href="https://dvmcp.fun/"><span style="font-weight: 400;">DVMCP</span></a></li>
+<li><a href="https://www.cursor.com/"><span style="font-weight: 400;">Cursor</span></a><span style="font-weight: 400;"> vs </span><a href="https://roocode.com/"><span style="font-weight: 400;">Roo Code</span></a></li>
+<li><span style="font-weight: 400;">Staying in control thanks to </span><a href="https://github.com/greenart7c3/Amber"><span style="font-weight: 400;">Amber</span></a><span style="font-weight: 400;"> and signing delegation&nbsp;</span></li>
+<li><span style="font-weight: 400;">Is YOLO mode here to stay?</span></li>
+<li><span style="font-weight: 400;">What agents to trust?</span></li>
+<li><span style="font-weight: 400;">What MCP tools to trust?</span></li>
+<li><span style="font-weight: 400;">What </span><a href="https://snipsnip.dev/"><span style="font-weight: 400;">code snippets</span></a><span style="font-weight: 400;"> to trust?</span></li>
+<li><span style="font-weight: 400;">Everyone will run into the issues of trust and micropayments&nbsp;</span></li>
+<li><span style="font-weight: 400;">Nostr solves Web of Trust &amp; micropayments natively</span></li>
+<li><span style="font-weight: 400;">Minimalistic &amp; open usually wins</span></li>
+<li><a href="https://github.com/gzuuus/dvmcp"><span style="font-weight: 400;">DVMCP</span></a><span style="font-weight: 400;"> exists thanks to Totem</span></li>
+<li><span style="font-weight: 400;">Relays as Tamagochis</span></li>
+<li><span style="font-weight: 400;">Agents aren't nostr experts, at least not right now</span></li>
+<li><span style="font-weight: 400;">Fix a mistake once &amp; it's fixed forever</span></li>
+<li><span style="font-weight: 400;">Giving long-term memory to LLMs</span></li>
+<li><span style="font-weight: 400;">RAG Databases signed by domain experts</span></li>
+<li><span style="font-weight: 400;">Human-agent hybrids &amp; Chess</span></li>
+<li><a href="https://github.com/gzuuus/beating-heart-nostr"><span style="font-weight: 400;">Nostr beating heart</span></a></li>
+<li><span style="font-weight: 400;">Pluggable context &amp; experts</span></li>
+<li><span style="font-weight: 400;">"You never need an API key for anything"</span></li>
+<li><span style="font-weight: 400;">Sats and social signaling</span></li>
+<li><span style="font-weight: 400;">Difficulty-adjusted PoW as a rare-limiting mechanism</span></li>
+<li><span style="font-weight: 400;">Certificate authorities and centralization</span></li>
+<li><span style="font-weight: 400;">No solutions to policing speech!</span></li>
+<li><span style="font-weight: 400;">OAuth and how it centralized</span></li>
+<li><span style="font-weight: 400;">Login with nostr</span></li>
+<li><span style="font-weight: 400;">Closed vs open-source models</span></li>
+<li><span style="font-weight: 400;">Tiny models vs large models</span></li>
+<li><span style="font-weight: 400;">The </span><a href="https://hazyresearch.stanford.edu/blog/2025-02-24-minions"><span style="font-weight: 400;">minions protocol</span></a><span style="font-weight: 400;"> (Stanford </span><a href="https://arxiv.org/abs/2502.15964"><span style="font-weight: 400;">paper</span></a><span style="font-weight: 400;">)&nbsp;</span></li>
+<li><span style="font-weight: 400;">Generalist models vs specialized models&nbsp;</span></li>
+<li><span style="font-weight: 400;">Local compute &amp; encrypted queries&nbsp;</span></li>
+<li><span style="font-weight: 400;">Blinded compute&nbsp;</span></li>
+<li><span style="font-weight: 400;">"In the eyes of the state, agents aren't people"&nbsp;</span></li>
+<li><span style="font-weight: 400;">Agents need identity and money; nostr provides both&nbsp;</span></li>
+<li><span style="font-weight: 400;">"It's gonna be permissionless or hell"&nbsp;</span></li>
+<li><span style="font-weight: 400;">We already have marketplaces for MCP stuff, code snippets, and other things</span></li>
+<li><span style="font-weight: 400;">Most great stuff came from marketplaces (browsers, games, etc)&nbsp;</span></li>
+<li><a href="https://zapstore.dev/"><span style="font-weight: 400;">Zapstore</span></a><span style="font-weight: 400;"> shows that this is already working&nbsp;</span></li>
+<li><span style="font-weight: 400;">At scale, central control never works. There's plenty scams and viruses in the app stores.&nbsp;</span></li>
+<li><span style="font-weight: 400;">Using nostr to archive your user-generated content&nbsp;</span></li>
+<li><a href="https://github.com/bitvora/haven"><span style="font-weight: 400;">HAVEN</span></a><span style="font-weight: 400;">, </span><a href="https://github.com/hzrd149/blossom"><span style="font-weight: 400;">blossom</span></a><span style="font-weight: 400;">, </span><a href="https://github.com/teamnovia/novia"><span style="font-weight: 400;">novia&nbsp;</span></a></li>
+<li><span style="font-weight: 400;">The switcharoo from advertisements to training data&nbsp;</span></li>
+<li><span style="font-weight: 400;">What is Truth?&nbsp;</span></li>
+<li><span style="font-weight: 400;">What is Real?&nbsp;</span></li>
+<li><span style="font-weight: 400;">"We're vibing into dystopia"&nbsp;</span></li>
+<li><span style="font-weight: 400;">Who should be the arbiter of Truth?&nbsp;</span></li>
+<li><span style="font-weight: 400;">First Amendment &amp; why the Logos is sacred&nbsp;</span></li>
+<li><span style="font-weight: 400;">Silicon Valley AI bros arrogantly dismiss wisdom and philosophy&nbsp;</span></li>
+<li><span style="font-weight: 400;">Suicide rates &amp; the </span><a href="https://www.youtube.com/watch?v=iu9fa4TkWE0&amp;list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ"><span style="font-weight: 400;">meaning crisis</span></a></li>
+<li><span style="font-weight: 400;">Are LLMs symbiotic or parasitic?&nbsp;</span></li>
+<li><span style="font-weight: 400;">The Amish got it right&nbsp;</span></li>
+<li><span style="font-weight: 400;">Are we gonna make it?&nbsp;</span></li>
+<li><a href="https://www.goodreads.com/book/show/223436601-careless-people"><span style="font-weight: 400;">Careless People</span></a><span style="font-weight: 400;"> by Sarah Wynn-Williams</span></li>
+<li><a href="https://www.goodreads.com/book/show/201874194-takedown"><span style="font-weight: 400;">Takedown</span></a><span style="font-weight: 400;"> by Laila michelwait</span></li>
+<li><span style="font-weight: 400;">Harry Potter dementors &amp; Momo's time thieves&nbsp;</span></li>
+<li><span style="font-weight: 400;">Facebook &amp; Google as non-human (superhuman) agents&nbsp;</span></li>
+<li><span style="font-weight: 400;">Zapping as a </span><a href="https://njump.me/nevent1qvzqqqqqqypzqmjxss3dld622uu8q25gywum9qtg4w4cv4064jmg20xsac2aam5nqqsqm2lz4ru6wlydzpulgs8m60ylp4vufwsg55whlqgua6a93vp2y4g3uu9lr"><span style="font-weight: 400;">conscious action</span></a></li>
+<li><span style="font-weight: 400;">Privacy and the internet</span></li>
+<li><span style="font-weight: 400;">Plausible deniability thanks to generative models</span></li>
+<li><span style="font-weight: 400;">Google glasses, glassholes, and Meta's Ray Ben's</span></li>
+<li><span style="font-weight: 400;">People crave realness</span></li>
+<li><span style="font-weight: 400;">Bitcoin is </span><a href="https://dergigi.com/2022/12/02/bitcoin-is-the-rediscovery-of-money/"><span style="font-weight: 400;">the realest money we ever had</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Nostr allows for real and honest expression&nbsp;</span></li>
+<li><span style="font-weight: 400;">How do we find out what's real?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Constraints, policing, and chilling effects&nbsp;</span></li>
+<li><span style="font-weight: 400;">Jesus' plans for DVMCP&nbsp;</span></li>
+<li><span style="font-weight: 400;">Hzrd's article on how DVMs are broken (</span><a href="https://njump.me/naddr1qvzqqqr4gupzqfngzhsvjggdlgeycm96x4emzjlwf8dyyzdfg4hefp89zpkdgz99qqwkgandwvkhwetjv5kkzttdd9ehgcttv5kngte3xvhnyvpjx5m8uc7e"><span style="font-weight: 400;">DVMs were a mistake</span></a><span style="font-weight: 400;">)</span></li>
+<li><a href="https://npub.world/npub1uc5emj0zpmsgur65ue5tys5q0g0qs6xljwrkq3nfd4j0wy5qxvlswkas8p"><span style="font-weight: 400;">Don't believe the hype</span></a></li>
+<li><span style="font-weight: 400;">DVMs pre-date MCP tools</span></li>
+<li><span style="font-weight: 400;">Data Vending Machines were supposed to be stupid: put coin in, get stuff out.</span></li>
+<li><span style="font-weight: 400;">Self-healing vibe-coding</span></li>
+<li><span style="font-weight: 400;">IP addresses as scarce assets</span></li>
+<li><span style="font-weight: 400;">Atomic swaps and the </span><a href="https://github.com/vstabile/nips/blob/atomic-signature-swaps/XX.md"><span style="font-weight: 400;">ASS protocol</span></a></li>
+<li><span style="font-weight: 400;">More marketplaces, less silos</span></li>
+<li><span style="font-weight: 400;">The intensity of </span><a href="https://nostr.band/?q=%23SovEng"><span style="font-weight: 400;">#SovEng</span></a><span style="font-weight: 400;"> and the last 6 weeks</span></li>
+<li><span style="font-weight: 400;">If you can vibe-code everything, why build anything?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Time, </span><a href="https://www.goodreads.com/book/show/1729898.The_Ultimate_Resource"><span style="font-weight: 400;">the ultimate resource</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">What are the LLMs allowed to think?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Natural language interfaces are inherently dialogical&nbsp;</span></li>
+<li><a href="https://sovereignengineering.io/"><span style="font-weight: 400;">Sovereign Engineering</span></a><span style="font-weight: 400;"> is dialogical too&nbsp;</span></li>
+</ul>
+<p>&nbsp;</p>]]></description>
+      <itunes:image href="https://haven.sovereignengineering.io/ccdc616ea53f5084d93b95206269cda48c5b8bde3afb78a9a1e3adb4a0a9ed4d.jpeg"/>
+      <enclosure url="https://haven.sovereignengineering.io/d54b55de3227f4d9d573ea8141a1e208ceef93283b699ad906ae306dffcaa2fc.m4a" length="51642440" type="audio/mpeg"/>
+      <podcast:person href="https://nostree.me/gzuuus" img="https://pfp.nostr.build/3e72dab77cfcb2339a30a832c891064e38d70ad652cb58306516e34e78e84325.png" group="cast" role="guest">Gzuuus</podcast:person>
+      <podcast:funding url="https://njump.me/npub1n00yy9y3704drtpph5wszen64w287nquftkcwcjv7gnnkpk2q54s73000n">Zaps are appreciated! #value4value ⚡🧡</podcast:funding>
+      <podcast:transcript url="https://haven.sovereignengineering.io/40dcfcace21401f84692fa154a82ea41bce86b80b18ac4da988f700d39f5319b.srt" type="application/srt"/>
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+        <podcast:valueRecipient name="Gigi" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="100"/>
+        <podcast:valueRecipient name="Sovereign Feeds" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" type="node" fee="true" split="1"/>
+        <podcast:valueRecipient name="Gzuuus" type="lnaddress" address="nostrkid@coinos.io" split="100"/>
+      </podcast:value>
+      <guid isPermaLink="false">10e17f5a-826b-4892-803d-089012bd16f7</guid>
+      <itunes:subtitle>#10 - Walking with Jesus</itunes:subtitle>
+      <itunes:duration>5772</itunes:duration>
+      <link>https://njump.me/nevent1qqsw5epa7rac25et6t7vcnp3q0ht8cjccps4hkx3tnxhfrhp382lf5gpz3mhxue69uhhyetvv9ujuerpd46hxtnfduqs7amnwvaz7tmwdaehgu3wd4hk6q3qn00yy9y3704drtpph5wszen64w287nquftkcwcjv7gnnkpk2q54sp9s3vf</link>
+      <pubDate>Tue, 22 Apr 2025 18:05:02 +0000</pubDate>
+      <author>Gigi</author>
+      <itunes:author>Gigi</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>nostr, development, sovereign engineering, shipping, memes, web, internet, conversation, dialog</itunes:keywords>
+      <itunes:summary><![CDATA[<p><span style="font-weight: 400;">"It's gonna be permissionless or hell."</span></p>
+<p><a href="https://npub.world/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc"><span style="font-weight: 400;">Gigi</span></a><span style="font-weight: 400;"> and </span><a href="https://npub.world/npub1gzuushllat7pet0ccv9yuhygvc8ldeyhrgxuwg744dn5khnpk3gs3ea5ds"><span style="font-weight: 400;">gzuuus</span></a><span style="font-weight: 400;"> are vibing towards dystopia.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Books &amp; articles mentioned:</span></p>
+<ul>
+<li><a href="https://ai-2027.com/"><span style="font-weight: 400;">AI 2027</span></a></li>
+<li><a href="https://njump.me/naddr1qvzqqqr4gupzqfngzhsvjggdlgeycm96x4emzjlwf8dyyzdfg4hefp89zpkdgz99qqwkgandwvkhwetjv5kkzttdd9ehgcttv5kngte3xvhnyvpjx5m8uc7e"><span style="font-weight: 400;">DVMs were a mistake</span></a></li>
+<li><a href="https://www.goodreads.com/book/show/223436601-careless-people"><span style="font-weight: 400;">Careless People</span></a><span style="font-weight: 400;"> by Sarah Wynn-Williams</span></li>
+<li><a href="https://www.goodreads.com/book/show/201874194-takedown"><span style="font-weight: 400;">Takedown</span></a><span style="font-weight: 400;"> by Laila michelwait</span></li>
+<li><a href="https://www.goodreads.com/book/show/1729898.The_Ultimate_Resource"><span style="font-weight: 400;">The Ultimate Resource</span></a><span style="font-weight: 400;"> by Julian L. Simon</span></li>
+<li><a href="https://www.goodreads.com/series/45175-harry-potter"><span style="font-weight: 400;">Harry Potter</span></a><span style="font-weight: 400;"> by J.K. Rowling</span></li>
+<li><a href="https://www.goodreads.com/book/show/68811.Momo"><span style="font-weight: 400;">Momo</span></a><span style="font-weight: 400;"> by Michael Ende</span></li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">In this dialogue:</span></p>
+<ul>
+<li><span style="font-weight: 400;">Pablo's </span><a href="https://github.com/jodobear/sparcaroo"><span style="font-weight: 400;">Roo Setup</span></a></li>
+<li><span style="font-weight: 400;">Tech </span><a href="https://en.wikipedia.org/wiki/Gartner_hype_cycle"><span style="font-weight: 400;">Hype Cycles</span></a></li>
+<li><a href="https://ai-2027.com/"><span style="font-weight: 400;">AI 2027</span></a></li>
+<li><span style="font-weight: 400;">Prompt injection and other attacks</span></li>
+<li><a href="https://goose.ai/"><span style="font-weight: 400;">Goose</span></a><span style="font-weight: 400;"> and </span><a href="https://dvmcp.fun/"><span style="font-weight: 400;">DVMCP</span></a></li>
+<li><a href="https://www.cursor.com/"><span style="font-weight: 400;">Cursor</span></a><span style="font-weight: 400;"> vs </span><a href="https://roocode.com/"><span style="font-weight: 400;">Roo Code</span></a></li>
+<li><span style="font-weight: 400;">Staying in control thanks to </span><a href="https://github.com/greenart7c3/Amber"><span style="font-weight: 400;">Amber</span></a><span style="font-weight: 400;"> and signing delegation&nbsp;</span></li>
+<li><span style="font-weight: 400;">Is YOLO mode here to stay?</span></li>
+<li><span style="font-weight: 400;">What agents to trust?</span></li>
+<li><span style="font-weight: 400;">What MCP tools to trust?</span></li>
+<li><span style="font-weight: 400;">What </span><a href="https://snipsnip.dev/"><span style="font-weight: 400;">code snippets</span></a><span style="font-weight: 400;"> to trust?</span></li>
+<li><span style="font-weight: 400;">Everyone will run into the issues of trust and micropayments&nbsp;</span></li>
+<li><span style="font-weight: 400;">Nostr solves Web of Trust &amp; micropayments natively</span></li>
+<li><span style="font-weight: 400;">Minimalistic &amp; open usually wins</span></li>
+<li><a href="https://github.com/gzuuus/dvmcp"><span style="font-weight: 400;">DVMCP</span></a><span style="font-weight: 400;"> exists thanks to Totem</span></li>
+<li><span style="font-weight: 400;">Relays as Tamagochis</span></li>
+<li><span style="font-weight: 400;">Agents aren't nostr experts, at least not right now</span></li>
+<li><span style="font-weight: 400;">Fix a mistake once &amp; it's fixed forever</span></li>
+<li><span style="font-weight: 400;">Giving long-term memory to LLMs</span></li>
+<li><span style="font-weight: 400;">RAG Databases signed by domain experts</span></li>
+<li><span style="font-weight: 400;">Human-agent hybrids &amp; Chess</span></li>
+<li><a href="https://github.com/gzuuus/beating-heart-nostr"><span style="font-weight: 400;">Nostr beating heart</span></a></li>
+<li><span style="font-weight: 400;">Pluggable context &amp; experts</span></li>
+<li><span style="font-weight: 400;">"You never need an API key for anything"</span></li>
+<li><span style="font-weight: 400;">Sats and social signaling</span></li>
+<li><span style="font-weight: 400;">Difficulty-adjusted PoW as a rare-limiting mechanism</span></li>
+<li><span style="font-weight: 400;">Certificate authorities and centralization</span></li>
+<li><span style="font-weight: 400;">No solutions to policing speech!</span></li>
+<li><span style="font-weight: 400;">OAuth and how it centralized</span></li>
+<li><span style="font-weight: 400;">Login with nostr</span></li>
+<li><span style="font-weight: 400;">Closed vs open-source models</span></li>
+<li><span style="font-weight: 400;">Tiny models vs large models</span></li>
+<li><span style="font-weight: 400;">The </span><a href="https://hazyresearch.stanford.edu/blog/2025-02-24-minions"><span style="font-weight: 400;">minions protocol</span></a><span style="font-weight: 400;"> (Stanford </span><a href="https://arxiv.org/abs/2502.15964"><span style="font-weight: 400;">paper</span></a><span style="font-weight: 400;">)&nbsp;</span></li>
+<li><span style="font-weight: 400;">Generalist models vs specialized models&nbsp;</span></li>
+<li><span style="font-weight: 400;">Local compute &amp; encrypted queries&nbsp;</span></li>
+<li><span style="font-weight: 400;">Blinded compute&nbsp;</span></li>
+<li><span style="font-weight: 400;">"In the eyes of the state, agents aren't people"&nbsp;</span></li>
+<li><span style="font-weight: 400;">Agents need identity and money; nostr provides both&nbsp;</span></li>
+<li><span style="font-weight: 400;">"It's gonna be permissionless or hell"&nbsp;</span></li>
+<li><span style="font-weight: 400;">We already have marketplaces for MCP stuff, code snippets, and other things</span></li>
+<li><span style="font-weight: 400;">Most great stuff came from marketplaces (browsers, games, etc)&nbsp;</span></li>
+<li><a href="https://zapstore.dev/"><span style="font-weight: 400;">Zapstore</span></a><span style="font-weight: 400;"> shows that this is already working&nbsp;</span></li>
+<li><span style="font-weight: 400;">At scale, central control never works. There's plenty scams and viruses in the app stores.&nbsp;</span></li>
+<li><span style="font-weight: 400;">Using nostr to archive your user-generated content&nbsp;</span></li>
+<li><a href="https://github.com/bitvora/haven"><span style="font-weight: 400;">HAVEN</span></a><span style="font-weight: 400;">, </span><a href="https://github.com/hzrd149/blossom"><span style="font-weight: 400;">blossom</span></a><span style="font-weight: 400;">, </span><a href="https://github.com/teamnovia/novia"><span style="font-weight: 400;">novia&nbsp;</span></a></li>
+<li><span style="font-weight: 400;">The switcharoo from advertisements to training data&nbsp;</span></li>
+<li><span style="font-weight: 400;">What is Truth?&nbsp;</span></li>
+<li><span style="font-weight: 400;">What is Real?&nbsp;</span></li>
+<li><span style="font-weight: 400;">"We're vibing into dystopia"&nbsp;</span></li>
+<li><span style="font-weight: 400;">Who should be the arbiter of Truth?&nbsp;</span></li>
+<li><span style="font-weight: 400;">First Amendment &amp; why the Logos is sacred&nbsp;</span></li>
+<li><span style="font-weight: 400;">Silicon Valley AI bros arrogantly dismiss wisdom and philosophy&nbsp;</span></li>
+<li><span style="font-weight: 400;">Suicide rates &amp; the </span><a href="https://www.youtube.com/watch?v=iu9fa4TkWE0&amp;list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ"><span style="font-weight: 400;">meaning crisis</span></a></li>
+<li><span style="font-weight: 400;">Are LLMs symbiotic or parasitic?&nbsp;</span></li>
+<li><span style="font-weight: 400;">The Amish got it right&nbsp;</span></li>
+<li><span style="font-weight: 400;">Are we gonna make it?&nbsp;</span></li>
+<li><a href="https://www.goodreads.com/book/show/223436601-careless-people"><span style="font-weight: 400;">Careless People</span></a><span style="font-weight: 400;"> by Sarah Wynn-Williams</span></li>
+<li><a href="https://www.goodreads.com/book/show/201874194-takedown"><span style="font-weight: 400;">Takedown</span></a><span style="font-weight: 400;"> by Laila michelwait</span></li>
+<li><span style="font-weight: 400;">Harry Potter dementors &amp; Momo's time thieves&nbsp;</span></li>
+<li><span style="font-weight: 400;">Facebook &amp; Google as non-human (superhuman) agents&nbsp;</span></li>
+<li><span style="font-weight: 400;">Zapping as a </span><a href="https://njump.me/nevent1qvzqqqqqqypzqmjxss3dld622uu8q25gywum9qtg4w4cv4064jmg20xsac2aam5nqqsqm2lz4ru6wlydzpulgs8m60ylp4vufwsg55whlqgua6a93vp2y4g3uu9lr"><span style="font-weight: 400;">conscious action</span></a></li>
+<li><span style="font-weight: 400;">Privacy and the internet</span></li>
+<li><span style="font-weight: 400;">Plausible deniability thanks to generative models</span></li>
+<li><span style="font-weight: 400;">Google glasses, glassholes, and Meta's Ray Ben's</span></li>
+<li><span style="font-weight: 400;">People crave realness</span></li>
+<li><span style="font-weight: 400;">Bitcoin is </span><a href="https://dergigi.com/2022/12/02/bitcoin-is-the-rediscovery-of-money/"><span style="font-weight: 400;">the realest money we ever had</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Nostr allows for real and honest expression&nbsp;</span></li>
+<li><span style="font-weight: 400;">How do we find out what's real?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Constraints, policing, and chilling effects&nbsp;</span></li>
+<li><span style="font-weight: 400;">Jesus' plans for DVMCP&nbsp;</span></li>
+<li><span style="font-weight: 400;">Hzrd's article on how DVMs are broken (</span><a href="https://njump.me/naddr1qvzqqqr4gupzqfngzhsvjggdlgeycm96x4emzjlwf8dyyzdfg4hefp89zpkdgz99qqwkgandwvkhwetjv5kkzttdd9ehgcttv5kngte3xvhnyvpjx5m8uc7e"><span style="font-weight: 400;">DVMs were a mistake</span></a><span style="font-weight: 400;">)</span></li>
+<li><a href="https://npub.world/npub1uc5emj0zpmsgur65ue5tys5q0g0qs6xljwrkq3nfd4j0wy5qxvlswkas8p"><span style="font-weight: 400;">Don't believe the hype</span></a></li>
+<li><span style="font-weight: 400;">DVMs pre-date MCP tools</span></li>
+<li><span style="font-weight: 400;">Data Vending Machines were supposed to be stupid: put coin in, get stuff out.</span></li>
+<li><span style="font-weight: 400;">Self-healing vibe-coding</span></li>
+<li><span style="font-weight: 400;">IP addresses as scarce assets</span></li>
+<li><span style="font-weight: 400;">Atomic swaps and the </span><a href="https://github.com/vstabile/nips/blob/atomic-signature-swaps/XX.md"><span style="font-weight: 400;">ASS protocol</span></a></li>
+<li><span style="font-weight: 400;">More marketplaces, less silos</span></li>
+<li><span style="font-weight: 400;">The intensity of </span><a href="https://nostr.band/?q=%23SovEng"><span style="font-weight: 400;">#SovEng</span></a><span style="font-weight: 400;"> and the last 6 weeks</span></li>
+<li><span style="font-weight: 400;">If you can vibe-code everything, why build anything?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Time, </span><a href="https://www.goodreads.com/book/show/1729898.The_Ultimate_Resource"><span style="font-weight: 400;">the ultimate resource</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">What are the LLMs allowed to think?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Natural language interfaces are inherently dialogical&nbsp;</span></li>
+<li><a href="https://sovereignengineering.io/"><span style="font-weight: 400;">Sovereign Engineering</span></a><span style="font-weight: 400;"> is dialogical too&nbsp;</span></li>
+</ul>
+<p>&nbsp;</p>]]></itunes:summary>
+    </item>
     <item>
       <title>#09 - No Strudelutions</title>
       <description><![CDATA[<p><span style="font-weight: 400;">"It isn&rsquo;t obvious that the world had to work this way. But somehow the universe smiles on encryption."</span></p>
