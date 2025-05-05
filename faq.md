@@ -20,7 +20,7 @@ author: null
 
 ### When does the next Sovereign Engineering Cohort start?
 
-If you are selected for SEC-04, we expect and welcome you on Monday **Mar 03th**
+If you are selected for SEC-05, we expect and welcome you on Monday **Sept 1st**
 2025 at 9am.
 
 ### Where does the Sovereign Engineering Cohort take place?
