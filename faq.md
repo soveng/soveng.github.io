@@ -95,4 +95,4 @@ We’ll do our best to get back to you as soon as possible.
 
 ### How do I apply?
 
-You don't. Applications are now closed.
+By filling out the [SEC-05 application form](https://sovereignengineering.typeform.com/SEC-05).
