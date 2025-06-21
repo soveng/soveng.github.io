@@ -37,11 +37,205 @@ Est. 882,690. Inspired by Sovereign Engineering https://njump.me/no-solutions@so
     <itunes:keywords>nostr, development, sovereign engineering, shipping, memes, web, internet, conversation, dialog</itunes:keywords>
     <itunes:author>Gigi</itunes:author>
     <managingEditor>Sovereign Feeds</managingEditor>
-    <pubDate>Tue, 22 Apr 2025 18:15:53 +0000</pubDate>
-    <lastBuildDate>Tue, 22 Apr 2025 18:15:53 +0000</lastBuildDate>
+    <pubDate>Sat, 21 Jun 2025 17:33:27 +0000</pubDate>
+    <lastBuildDate>Sat, 21 Jun 2025 17:33:27 +0000</lastBuildDate>
     <category>Technology</category>
     <category/>
-    <podcast:guid>2ff22ba8-f69b-5067-9068-9c1636ebc718</podcast:guid>
+    <podcast:guid>b81cdbfb-329f-5129-a84e-88266c7eb591</podcast:guid>
+    <item>
+      <title>#11 - 10x Less Productive</title>
+      <description><![CDATA[<p><span style="font-weight: 400;">What does it mean to build something "in the spirit of Bitcoin"?</span></p>
+<p><a href="https://njump.me/npub1l2vyh47mk2p0qlsku7hg0vn29faehy9hy34ygaclpn66ukqp3afqutajft"><span style="font-weight: 400;">Pablo</span></a><span style="font-weight: 400;"> &amp; </span><a href="https://njump.me/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc"><span style="font-weight: 400;">Gigi</span></a><span style="font-weight: 400;"> want to encourage you to </span><a href="https://sovereignengineering.io/"><span style="font-weight: 400;">apply for SEC-05</span></a><span style="font-weight: 400;">.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Books &amp; websites mentioned:</span></p>
+<ul>
+<li><a href="https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/"><span style="font-weight: 400;">Stackoverflow is dead</span></a><span style="font-weight: 400;"> by Gergely Orosz</span></li>
+<li><a href="https://sovereignengineering.io/"><span style="font-weight: 400;">Sovereign Engineering</span></a><span style="font-weight: 400;"> by Gigi and Pablo</span></li>
+</ul>
+<p><span style="font-weight: 400;">In this dialogue:</span></p>
+<ul>
+<li><span style="font-weight: 400;">Gigi's </span><a href="https://github.com/dergigi/vibeline"><span style="font-weight: 400;">vibeline</span></a><span style="font-weight: 400;"> &amp; </span><a href="https://github.com/dergigi/vibeline-ui"><span style="font-weight: 400;">vibeline-ui</span></a></li>
+<li><span style="font-weight: 400;">Pubcastr aka </span><a href="http://castr.me"><span style="font-weight: 400;">castr.me</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Pablo's </span><a href="https://coracle.social/notes/nevent1qqstycwc8qu8telckv9mw4fs7wc6d54v9gnpnqrx9hpllqz994mnz4ckzvrxq"><span style="font-weight: 400;">thread about TENEX</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Alex Gleason's </span><a href="https://soapbox.pub/tools/mkstack"><span style="font-weight: 400;">MKStack</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">What is the essence of nostr?&nbsp;</span></li>
+<li><span style="font-weight: 400;">What are nostr's values, and can LLMs extract them?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Agents and workflows living on nostr&nbsp;</span></li>
+<li><span style="font-weight: 400;">Agent specialization and Roo code&nbsp;</span></li>
+<li><span style="font-weight: 400;">&ldquo;What would Jesus do?&rdquo;</span></li>
+<li><span style="font-weight: 400;">What does it mean to build something "in the spirit of Bitcoin"?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Hierarchy of agents&nbsp;</span></li>
+<li><span style="font-weight: 400;">Generalists vs specialists&nbsp;</span></li>
+<li><span style="font-weight: 400;">Top-down constraints and bottom-up emergence&nbsp;</span></li>
+<li><span style="font-weight: 400;">Wise architects VS efficient diff-merging LLMs&nbsp;</span></li>
+<li><span style="font-weight: 400;">Where does the human fit in?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Distributed cognition: agents and humans</span></li>
+<li><span style="font-weight: 400;">Hiring agents via nostr&nbsp;</span></li>
+<li><span style="font-weight: 400;">"If the human has to intervene, something is catastrophically wrong."</span></li>
+<li><span style="font-weight: 400;">Confidence levels of an agent's action&nbsp;</span></li>
+<li><span style="font-weight: 400;">Giving agents money using </span><a href="https://njump.me/nevent1qqst6luj67g3exyd05zwevmpkynnws9v54vcsze5h3fm2d9yd6whmmqpz3mhxw309ucnydewxqhrqt338g6rsd3e9upzp75cf0tahv5z7plpdeaws7ex52nmnwgtwfr2g3m37r844evqrr6jqvzqqqqqqyyya64s"><span style="font-weight: 400;">mcp-money</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Offering bounties to solve problems&nbsp;</span></li>
+<li><a href="https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/"><span style="font-weight: 400;">Stackoverflow is dead</span></a></li>
+<li><span style="font-weight: 400;">Stock photography is dead&nbsp;</span></li>
+<li><span style="font-weight: 400;">Real vs fake photography test</span></li>
+<li><span style="font-weight: 400;">Vibe-coding vs regular coding, and how it relates to the switch from analog to digital photography&nbsp;</span></li>
+<li><span style="font-weight: 400;">What is economical, and what isn't?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Dialogue and Dia-Logos with LLMs&nbsp;</span></li>
+<li><span style="font-weight: 400;">Specialization in a multi-agent world&nbsp;</span></li>
+<li><span style="font-weight: 400;">Adding a small vibe-coding widget to every app (allowing users to customize stuff)&nbsp;</span></li>
+<li><span style="font-weight: 400;">Multiplicity VS canonical design&nbsp;</span></li>
+<li><span style="font-weight: 400;">Money is singular, language is not&nbsp;</span></li>
+<li><span style="font-weight: 400;">Jack's original sin: the twitter Bootstrap theme</span></li>
+<li><span style="font-weight: 400;">The "</span><a href="https://andotherstuff.org/"><span style="font-weight: 400;">other stuff</span></a><span style="font-weight: 400;">" initiative</span></li>
+<li><span style="font-weight: 400;">What's missing from </span><a href="https://github.com/pablof7z/tenex"><span style="font-weight: 400;">TENEX</span></a><span style="font-weight: 400;">? Why isn't it fully working just yet?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Rebuilding everything every 3 weeks</span></li>
+<li><span style="font-weight: 400;">Voice vs text, sentiment analysis vs tone</span></li>
+<li><span style="font-weight: 400;">The power and informational density of silence</span></li>
+<li><span style="font-weight: 400;">In-person vs online communication</span></li>
+<li><span style="font-weight: 400;">Letting agents learn lessons</span></li>
+<li><a href="https://www.youtube.com/watch?v=nQ_g81a7a-E"><span style="font-weight: 400;">"Where do you get your ideas from?"</span></a></li>
+<li><span style="font-weight: 400;">Anonymity vs pseudonyms vs government ID</span></li>
+<li><span style="font-weight: 400;">Agents need identity, money, and reputation</span></li>
+<li><span style="font-weight: 400;">"I own this dude." &mdash;Pablo</span></li>
+<li><span style="font-weight: 400;">Owning agents</span></li>
+<li><span style="font-weight: 400;">Vibe-coding lessons: don't look at the code, and in the best case don't even look at the IDE</span></li>
+<li><span style="font-weight: 400;">Human-agent communication: typing vs speaking</span></li>
+<li><span style="font-weight: 400;">Why some meetings couldn't have been an email</span></li>
+<li><span style="font-weight: 400;">Clearly defined problems vs undefined problem spaces</span></li>
+<li><span style="font-weight: 400;">Why TENEX will be in perpetual alpha</span></li>
+<li><span style="font-weight: 400;">What is </span><a href="https://sovereignengineering.io/"><span style="font-weight: 400;">Sovereign Engineering</span></a><span style="font-weight: 400;">?</span></li>
+<li><span style="font-weight: 400;">Why should you sign up for it?&nbsp;</span></li>
+<li><span style="font-weight: 400;">How come so many awesome things came out of it? Blossom, nsite, Zapstore, etc.</span></li>
+<li><span style="font-weight: 400;">Who should come, and who shouldn't?</span></li>
+<li><span style="font-weight: 400;">How did it start?</span></li>
+<li><span style="font-weight: 400;">What's the idea?&nbsp;</span></li>
+<li><span style="font-weight: 400;">"Fix the money, fix the internet."</span></li>
+<li><span style="font-weight: 400;">"Ship stuff that lasts."</span></li>
+<li><span style="font-weight: 400;">Keep it pure. No monetization.&nbsp;</span></li>
+<li><span style="font-weight: 400;">Focus on exploration and ideation&nbsp;</span></li>
+<li><span style="font-weight: 400;">What's the structure?&nbsp;</span></li>
+<li><span style="font-weight: 400;">6 weeks, 21 participants</span></li>
+<li><span style="font-weight: 400;">Same structure every week</span></li>
+<li><span style="font-weight: 400;">Monday Mornings: Orientation</span></li>
+<li><span style="font-weight: 400;">Tuesday Talks</span></li>
+<li><span style="font-weight: 400;">Wednesday Workshops</span></li>
+<li><span style="font-weight: 400;">Thursday: No Agenda</span></li>
+<li><span style="font-weight: 400;">Friday: Demo Day</span></li>
+<li><span style="font-weight: 400;">Weekend: Hikes</span></li>
+<li><a href="https://sovereignengineering.typeform.com/SEC-05"><span style="font-weight: 400;">SEC-05: YOLO Mode</span></a></li>
+<li><span style="font-weight: 400;">Empower users</span></li>
+<li><span style="font-weight: 400;">Optimize for self-sovereignty</span></li>
+<li><span style="font-weight: 400;">Bitcoin works</span></li>
+<li><span style="font-weight: 400;">Lightning works (Gigi's post)&nbsp;</span></li>
+<li><span style="font-weight: 400;">Build the future you want to see&nbsp;</span></li>
+<li><span style="font-weight: 400;">Madeira: you can pay in bitcoin almost everywhere&nbsp;</span></li>
+<li><span style="font-weight: 400;">tl;dr: Listen to every single </span><a href="https://njump.me/nosolutions@sovereignengineering.io"><span style="font-weight: 400;">No Solutions</span></a><span style="font-weight: 400;"> conversation to get an idea of what Sovereign Engineering is&nbsp;</span><br /><br /><br /></li>
+</ul>]]></description>
+      <itunes:image href="https://haven.sovereignengineering.io/54aa09044b01c04cd2e39e8845863fe6c8af70a1a70d2ffc979b5c5f92d6acc4.jpg"/>
+      <enclosure url="https://haven.sovereignengineering.io/12176c5d069e539b4df09f6ab83b7dd49212f78a23d4e1efeb41a36ca9e02992.m4a" length="53256658" type="audio/mpeg"/>
+      <podcast:funding url="https://njump.me/npub1n00yy9y3704drtpph5wszen64w287nquftkcwcjv7gnnkpk2q54s73000n">Zaps are appreciated! #value4value ⚡🧡</podcast:funding>
+      <podcast:transcript url="https://haven.sovereignengineering.io/6946c79d6247791592b17097a9d63ccf67655640eebbbd4e19510bc4e889ea36.srt" type="application/srt"/>
+      <podcast:value type="lightning" method="keysend" suggested="0.00000005000">
+        <podcast:valueRecipient name="Gigi" type="node" address="02e12fea95f576a680ec1938b7ed98ef0855eadeced493566877d404e404bfbf52" split="100"/>
+        <podcast:valueRecipient name="Sovereign Feeds" address="035ad2c954e264004986da2d9499e1732e5175e1dcef2453c921c6cdcc3536e9d8" type="node" fee="true" split="1"/>
+      </podcast:value>
+      <guid isPermaLink="false">0c00aac4-bcba-40ec-a17d-8f29ee7608f9</guid>
+      <itunes:subtitle>#11 - 10x Less Productive</itunes:subtitle>
+      <itunes:duration>5953</itunes:duration>
+      <link>https://njump.me/nevent1qvzqqqqqqypzpx77gg2frul26xkzr0gaq9n842u50axpcjhdsa3yeu388vrv5pftqys8wumn8ghj7mn0wd68ytn9d9h82mny0fmkzmn6d9njuumsv93k2tcppemhxue69uhkummn9ekx7mp0qqswyqle9fs9mg93p3kqg7uhz5kwsp8mnup7uch8r7kcnv9tjrdudagp50y35</link>
+      <pubDate>Sat, 21 Jun 2025 17:20:54 +0000</pubDate>
+      <author>Gigi</author>
+      <itunes:author>Gigi</itunes:author>
+      <itunes:explicit>No</itunes:explicit>
+      <itunes:keywords>nostr, development, sovereign engineering, shipping, memes, web, internet, conversation, dialog</itunes:keywords>
+      <itunes:summary><![CDATA[<p><span style="font-weight: 400;">What does it mean to build something "in the spirit of Bitcoin"?</span></p>
+<p><a href="https://njump.me/npub1l2vyh47mk2p0qlsku7hg0vn29faehy9hy34ygaclpn66ukqp3afqutajft"><span style="font-weight: 400;">Pablo</span></a><span style="font-weight: 400;"> &amp; </span><a href="https://njump.me/npub1dergggklka99wwrs92yz8wdjs952h2ux2ha2ed598ngwu9w7a6fsh9xzpc"><span style="font-weight: 400;">Gigi</span></a><span style="font-weight: 400;"> want to encourage you to </span><a href="https://sovereignengineering.io/"><span style="font-weight: 400;">apply for SEC-05</span></a><span style="font-weight: 400;">.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Books &amp; websites mentioned:</span></p>
+<ul>
+<li><a href="https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/"><span style="font-weight: 400;">Stackoverflow is dead</span></a><span style="font-weight: 400;"> by Gergely Orosz</span></li>
+<li><a href="https://sovereignengineering.io/"><span style="font-weight: 400;">Sovereign Engineering</span></a><span style="font-weight: 400;"> by Gigi and Pablo</span></li>
+</ul>
+<p><span style="font-weight: 400;">In this dialogue:</span></p>
+<ul>
+<li><span style="font-weight: 400;">Gigi's </span><a href="https://github.com/dergigi/vibeline"><span style="font-weight: 400;">vibeline</span></a><span style="font-weight: 400;"> &amp; </span><a href="https://github.com/dergigi/vibeline-ui"><span style="font-weight: 400;">vibeline-ui</span></a></li>
+<li><span style="font-weight: 400;">Pubcastr aka </span><a href="http://castr.me"><span style="font-weight: 400;">castr.me</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Pablo's </span><a href="https://coracle.social/notes/nevent1qqstycwc8qu8telckv9mw4fs7wc6d54v9gnpnqrx9hpllqz994mnz4ckzvrxq"><span style="font-weight: 400;">thread about TENEX</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Alex Gleason's </span><a href="https://soapbox.pub/tools/mkstack"><span style="font-weight: 400;">MKStack</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">What is the essence of nostr?&nbsp;</span></li>
+<li><span style="font-weight: 400;">What are nostr's values, and can LLMs extract them?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Agents and workflows living on nostr&nbsp;</span></li>
+<li><span style="font-weight: 400;">Agent specialization and Roo code&nbsp;</span></li>
+<li><span style="font-weight: 400;">&ldquo;What would Jesus do?&rdquo;</span></li>
+<li><span style="font-weight: 400;">What does it mean to build something "in the spirit of Bitcoin"?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Hierarchy of agents&nbsp;</span></li>
+<li><span style="font-weight: 400;">Generalists vs specialists&nbsp;</span></li>
+<li><span style="font-weight: 400;">Top-down constraints and bottom-up emergence&nbsp;</span></li>
+<li><span style="font-weight: 400;">Wise architects VS efficient diff-merging LLMs&nbsp;</span></li>
+<li><span style="font-weight: 400;">Where does the human fit in?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Distributed cognition: agents and humans</span></li>
+<li><span style="font-weight: 400;">Hiring agents via nostr&nbsp;</span></li>
+<li><span style="font-weight: 400;">"If the human has to intervene, something is catastrophically wrong."</span></li>
+<li><span style="font-weight: 400;">Confidence levels of an agent's action&nbsp;</span></li>
+<li><span style="font-weight: 400;">Giving agents money using </span><a href="https://njump.me/nevent1qqst6luj67g3exyd05zwevmpkynnws9v54vcsze5h3fm2d9yd6whmmqpz3mhxw309ucnydewxqhrqt338g6rsd3e9upzp75cf0tahv5z7plpdeaws7ex52nmnwgtwfr2g3m37r844evqrr6jqvzqqqqqqyyya64s"><span style="font-weight: 400;">mcp-money</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li><span style="font-weight: 400;">Offering bounties to solve problems&nbsp;</span></li>
+<li><a href="https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/"><span style="font-weight: 400;">Stackoverflow is dead</span></a></li>
+<li><span style="font-weight: 400;">Stock photography is dead&nbsp;</span></li>
+<li><span style="font-weight: 400;">Real vs fake photography test</span></li>
+<li><span style="font-weight: 400;">Vibe-coding vs regular coding, and how it relates to the switch from analog to digital photography&nbsp;</span></li>
+<li><span style="font-weight: 400;">What is economical, and what isn't?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Dialogue and Dia-Logos with LLMs&nbsp;</span></li>
+<li><span style="font-weight: 400;">Specialization in a multi-agent world&nbsp;</span></li>
+<li><span style="font-weight: 400;">Adding a small vibe-coding widget to every app (allowing users to customize stuff)&nbsp;</span></li>
+<li><span style="font-weight: 400;">Multiplicity VS canonical design&nbsp;</span></li>
+<li><span style="font-weight: 400;">Money is singular, language is not&nbsp;</span></li>
+<li><span style="font-weight: 400;">Jack's original sin: the twitter Bootstrap theme</span></li>
+<li><span style="font-weight: 400;">The "</span><a href="https://andotherstuff.org/"><span style="font-weight: 400;">other stuff</span></a><span style="font-weight: 400;">" initiative</span></li>
+<li><span style="font-weight: 400;">What's missing from </span><a href="https://github.com/pablof7z/tenex"><span style="font-weight: 400;">TENEX</span></a><span style="font-weight: 400;">? Why isn't it fully working just yet?&nbsp;</span></li>
+<li><span style="font-weight: 400;">Rebuilding everything every 3 weeks</span></li>
+<li><span style="font-weight: 400;">Voice vs text, sentiment analysis vs tone</span></li>
+<li><span style="font-weight: 400;">The power and informational density of silence</span></li>
+<li><span style="font-weight: 400;">In-person vs online communication</span></li>
+<li><span style="font-weight: 400;">Letting agents learn lessons</span></li>
+<li><a href="https://www.youtube.com/watch?v=nQ_g81a7a-E"><span style="font-weight: 400;">"Where do you get your ideas from?"</span></a></li>
+<li><span style="font-weight: 400;">Anonymity vs pseudonyms vs government ID</span></li>
+<li><span style="font-weight: 400;">Agents need identity, money, and reputation</span></li>
+<li><span style="font-weight: 400;">"I own this dude." &mdash;Pablo</span></li>
+<li><span style="font-weight: 400;">Owning agents</span></li>
+<li><span style="font-weight: 400;">Vibe-coding lessons: don't look at the code, and in the best case don't even look at the IDE</span></li>
+<li><span style="font-weight: 400;">Human-agent communication: typing vs speaking</span></li>
+<li><span style="font-weight: 400;">Why some meetings couldn't have been an email</span></li>
+<li><span style="font-weight: 400;">Clearly defined problems vs undefined problem spaces</span></li>
+<li><span style="font-weight: 400;">Why TENEX will be in perpetual alpha</span></li>
+<li><span style="font-weight: 400;">What is </span><a href="https://sovereignengineering.io/"><span style="font-weight: 400;">Sovereign Engineering</span></a><span style="font-weight: 400;">?</span></li>
+<li><span style="font-weight: 400;">Why should you sign up for it?&nbsp;</span></li>
+<li><span style="font-weight: 400;">How come so many awesome things came out of it? Blossom, nsite, Zapstore, etc.</span></li>
+<li><span style="font-weight: 400;">Who should come, and who shouldn't?</span></li>
+<li><span style="font-weight: 400;">How did it start?</span></li>
+<li><span style="font-weight: 400;">What's the idea?&nbsp;</span></li>
+<li><span style="font-weight: 400;">"Fix the money, fix the internet."</span></li>
+<li><span style="font-weight: 400;">"Ship stuff that lasts."</span></li>
+<li><span style="font-weight: 400;">Keep it pure. No monetization.&nbsp;</span></li>
+<li><span style="font-weight: 400;">Focus on exploration and ideation&nbsp;</span></li>
+<li><span style="font-weight: 400;">What's the structure?&nbsp;</span></li>
+<li><span style="font-weight: 400;">6 weeks, 21 participants</span></li>
+<li><span style="font-weight: 400;">Same structure every week</span></li>
+<li><span style="font-weight: 400;">Monday Mornings: Orientation</span></li>
+<li><span style="font-weight: 400;">Tuesday Talks</span></li>
+<li><span style="font-weight: 400;">Wednesday Workshops</span></li>
+<li><span style="font-weight: 400;">Thursday: No Agenda</span></li>
+<li><span style="font-weight: 400;">Friday: Demo Day</span></li>
+<li><span style="font-weight: 400;">Weekend: Hikes</span></li>
+<li><a href="https://sovereignengineering.typeform.com/SEC-05"><span style="font-weight: 400;">SEC-05: YOLO Mode</span></a></li>
+<li><span style="font-weight: 400;">Empower users</span></li>
+<li><span style="font-weight: 400;">Optimize for self-sovereignty</span></li>
+<li><span style="font-weight: 400;">Bitcoin works</span></li>
+<li><span style="font-weight: 400;">Lightning works (Gigi's post)&nbsp;</span></li>
+<li><span style="font-weight: 400;">Build the future you want to see&nbsp;</span></li>
+<li><span style="font-weight: 400;">Madeira: you can pay in bitcoin almost everywhere&nbsp;</span></li>
+<li><span style="font-weight: 400;">tl;dr: Listen to every single </span><a href="https://njump.me/nosolutions@sovereignengineering.io"><span style="font-weight: 400;">No Solutions</span></a><span style="font-weight: 400;"> conversation to get an idea of what Sovereign Engineering is&nbsp;</span><br /><br /><br /></li>
+</ul>]]></itunes:summary>
+    </item>
     <item>
       <title>#10 - Walking with Jesus</title>
       <description><![CDATA[<p><span style="font-weight: 400;">"It's gonna be permissionless or hell."</span></p>
